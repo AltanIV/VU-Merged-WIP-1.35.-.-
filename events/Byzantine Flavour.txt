@@ -13,7 +13,7 @@ country_event = {
 	title = "flavor_byz.EVTNAME4"
 	desc = "flavor_byz.EVTDESC4"
 	picture = BYZ_ORTHODOX_CONVERSION_eventPicture
-	
+
 	fire_only_once = yes
 
 	trigger = {
@@ -22,7 +22,10 @@ country_event = {
 		religion = orthodox
 		is_at_war = no
 		any_owned_province = {
-			region = egypt_region
+		    OR = {
+		    	region = egypt_region
+		    	region = mashriq_region }
+		    }
 			religion_group = muslim
 		}
 	}
@@ -30,7 +33,7 @@ country_event = {
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			set_country_flag = byz_egyptian_inquisition
@@ -39,10 +42,13 @@ country_event = {
 	#Let us make a clean sweep for the Glory of God
 	option = {
 		name = "flavor_byz.EVTOPTA4"
-		
+
 		every_owned_province = {
 			limit = {
-				region = egypt_region
+				OR = {	
+					region = egypt_region
+					region = mashriq_region }
+				}
 				religion_group = muslim
 			}
 			change_religion = orthodox
@@ -50,7 +56,7 @@ country_event = {
 				name = forced_conversion
 				duration = 3650
 			}
-		}	
+		}
 		random_country = {
 			limit = {
 				religion_group = muslim
@@ -89,7 +95,7 @@ country_event = {
 	picture = ECONOMY_eventPicture
 
 	is_triggered_only = yes
-	
+
 	#They are a welcome addition
 	option = {
 		name = "flavor_byz.EVTOPTA5"
@@ -106,10 +112,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME6"
 	desc = "flavor_byz.EVTDESC6"
 	picture = BORDER_TENSION_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		tag = BYZ
 		religion = catholic
@@ -134,11 +140,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 60
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			random_owned_province = {
@@ -162,7 +168,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {		# Ok.
 		name = "flavor_byz.EVTOPTA6"
 		add_stability = -1
@@ -208,10 +214,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME7"
 	desc = "flavor_byz.EVTDESC7"
 	picture = MILITARY_CAMP_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		OR = {
 			has_country_flag = fate_of_mameluks_mission_flag
@@ -231,11 +237,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	option = {		# Expulsion or conversion!
 		name = "flavor_byz.EVTOPTA7"
 		ai_chance = {
@@ -292,7 +298,7 @@ country_event = {
 	title = "flavor_byz.EVTNAME8"
 	desc = "flavor_byz.EVTDESC8"
 	picture = BYZ_ORTHODOX_CONVERSION_eventPicture
-	
+
 	fire_only_once = yes
 
 	trigger = {
@@ -301,7 +307,10 @@ country_event = {
 		religion = orthodox
 		is_at_war = no
 		any_owned_province = {
-			region = anatolia_region
+			OR = {
+				region = anatolia_region
+				region = mesopotamia_region
+			}
 			religion_group = muslim
 		}
 	}
@@ -309,7 +318,7 @@ country_event = {
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			set_country_flag = byz_anatolian_inquisition
@@ -318,10 +327,13 @@ country_event = {
 	#Let us make a clean sweep for the Glory of God
 	option = {
 		name = "flavor_byz.EVTOPTA8"
-		
+
 		every_owned_province = {
 			limit = {
+			OR = {
 				region = anatolia_region
+				region = mesopotamia_region
+			}
 				religion_group = muslim
 			}
 			change_religion = orthodox
@@ -329,7 +341,7 @@ country_event = {
 				name = forced_conversion
 				duration = 3650
 			}
-		}	
+		}
 		random_country = {
 			limit = {
 				religion_group = muslim
@@ -368,7 +380,7 @@ country_event = {
 	picture = ECONOMY_eventPicture
 
 	is_triggered_only = yes
-	
+
 	#They are a welcome addition
 	option = {
 		name = "flavor_byz.EVTOPTA9"
@@ -386,10 +398,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME10"
 	desc = "flavor_byz.EVTDESC10"
 	picture = BORDER_TENSION_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		tag = BYZ
 		religion = catholic
@@ -414,11 +426,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 60
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			random_owned_province = {
@@ -442,7 +454,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {		# Ok.
 		name = "flavor_byz.EVTOPTA10"
 		add_stability = -1
@@ -488,10 +500,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME11"
 	desc = "flavor_byz.EVTDESC11"
 	picture = MILITARY_CAMP_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		OR = {
 			has_country_flag = fate_of_ottoman_mission_flag
@@ -511,11 +523,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	option = {		# Expulsion or conversion!
 		name = "flavor_byz.EVTOPTA11"
 		ai_chance = {
@@ -572,7 +584,7 @@ country_event = {
 	title = "flavor_byz.EVTNAME12"
 	desc = "flavor_byz.EVTDESC12"
 	picture = BYZ_ORTHODOX_CONVERSION_eventPicture
-	
+
 	fire_only_once = yes
 
 	trigger = {
@@ -589,7 +601,7 @@ country_event = {
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			set_country_flag = byz_levantine_inquisition
@@ -598,7 +610,7 @@ country_event = {
 	#Let us make a clean sweep for the Glory of God
 	option = {
 		name = "flavor_byz.EVTOPTA12"
-		
+
 		every_owned_province = {
 			limit = {
 				region = mashriq_region
@@ -609,7 +621,7 @@ country_event = {
 				name = forced_conversion
 				duration = 3650
 			}
-		}	
+		}
 		random_country = {
 			limit = {
 				religion_group = muslim
@@ -648,7 +660,7 @@ country_event = {
 	picture = ECONOMY_eventPicture
 
 	is_triggered_only = yes
-	
+
 	#They are a welcome addition
 	option = {
 		name = "flavor_byz.EVTOPTA13"
@@ -665,10 +677,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME14"
 	desc = "flavor_byz.EVTDESC14"
 	picture = BORDER_TENSION_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		tag = BYZ
 		religion = catholic
@@ -693,11 +705,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 60
 	}
-	
+
 	immediate = {
 		hidden_effect = {
 			random_owned_province = {
@@ -721,7 +733,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {		# Ok.
 		name = "flavor_byz.EVTOPTA14"
 		add_stability = -1
@@ -767,10 +779,10 @@ country_event = {
 	title = "flavor_byz.EVTNAME15"
 	desc = "flavor_byz.EVTDESC15"
 	picture = MILITARY_CAMP_eventPicture
-	
+
 	fire_only_once = yes
-	
-	
+
+
 	trigger = {
 		OR = {
 			has_country_flag = fate_of_levant_mission_flag
@@ -790,11 +802,11 @@ country_event = {
 			}
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 12
 	}
-	
+
 	option = {		# Expulsion or conversion!
 		name = "flavor_byz.EVTOPTA15"
 		ai_chance = {
