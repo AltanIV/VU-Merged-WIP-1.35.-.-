@@ -1,9 +1,9 @@
 #7915 - StFlour
 
 #Default
-owner = BOU
-controller = BOU
-add_core = BOU
+owner = AUV
+controller = AUV
+add_core = AUV
 culture = auvergnat_culture
 religion = catholic
 capital = "St. Flour"
@@ -15,7 +15,6 @@ is_city = yes
 hre = no
 
 #Claimants
-add_core = AUV
 add_core = TOU
 
 #Buildings
@@ -46,5 +45,6 @@ discovered_by = russian_tech_group
 #Histories
 1215.6.15 = { owner = TOU controller = TOU add_core = TOU } # Countship of Toulouse - By San Felipe
 
-1444.11.11 = { owner = BOU controller = BOU add_core = BOU } # Duchy of Bourbonais - By San Felipe
+1444.1.1 = { owner = AUV controller = AUV add_core = AUV remove_core = FRA }
+
 1531.1.1 = { owner = FRA controller = FRA add_core = FRA }

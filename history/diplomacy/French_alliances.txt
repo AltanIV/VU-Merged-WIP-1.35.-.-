@@ -19,14 +19,33 @@ dependency = {
 	end_date = 1532.8.3
 }
 
-## France-Auvergne
-#dependency = {
-#	subject_type = appanage
-#	first = FRA
-#	second = AUV
-#	tart_date = 1444.11.11
-#	end_date = 1532.08.03
-#}
+# France-Auvergne
+dependency = {
+	subject_type = appanage
+	first = FRA
+	second = AUV
+	tart_date = 1444.11.11
+	end_date = 1531.9.22
+}
+
+# France-Comminges
+dependency = {
+	subject_type = appanage
+	first = FRA
+	second = CMG
+	tart_date = 1444.11.11
+	end_date = 1453.6.1
+}
+
+
+# France-Forez
+dependency = {
+	subject_type = appanage
+	first = FRA
+	second = FOR
+	tart_date = 1444.11.11
+	end_date = 1531.9.22
+}
 
 # France-Foix
 dependency = {
@@ -797,7 +816,6 @@ guarantee = {
 }
 
 guarantee = {
-		 
 	first = FRA
 	second = TOA
 	start_date = 1444.11.1 #VictorumUniversalis batch edit shortcut second performance start ends
@@ -805,21 +823,19 @@ guarantee = {
 }
 
 guarantee = {
-		 
 	first = BFR
 	second = AOR
 	start_date = 1589.8.3
 	end_date = 1837.1.1
-					 
 }
 
 #Bishophoric of Verdun (VU)
-march = {
-	first = FRA
-	second = VDN
-	start_date = 1331.1.25
-	end_date = 1552.4.22
-}
+#march = {	#Bishopric of HRE, annexed and reformed into Three Bishoprics in 1552.4.22
+#	first = FRA
+#	second = VDN
+#	start_date = 1331.1.25
+#	end_date = 1552.4.22
+#}
 
 #French Counts of Rethel (VU)
 dependency = {
@@ -846,7 +862,6 @@ dependency = {
 	end_date = 1589.1.1
 }
 
-						   
 dependency = {
 	subject_type = "vassal"
 	first = BFR
@@ -855,25 +870,22 @@ dependency = {
 	end_date = 1607.1.1
 }
 
-						 
-dependency = {
-	subject_type = "vassal"
-	first = FRA
-	second = LAO
-	start_date = 1444.11.1 #VictorumUniversalis batch edit shortcut second performance start ends
-	end_date = 1589.1.1
-}
+#dependency = {
+#	subject_type = "vassal"
+#	first = FRA
+#	second = LAO
+#	start_date = 1444.11.1 #VictorumUniversalis batch edit shortcut second performance start ends
+#	end_date = 1589.1.1
+#}
 
-						   
-dependency = {
-	subject_type = "vassal"
-	first = BFR
-	second = LAO
-	start_date = 1589.1.2 #VictorumUniversalis batch edit shortcut second performance start ends
-	end_date = 1607.1.1
-}
+#dependency = {
+#	subject_type = "vassal"
+#	first = BFR
+#	second = LAO
+#	start_date = 1589.1.2 #VictorumUniversalis batch edit shortcut second performance start ends
+#	end_date = 1607.1.1
+#}
 
-						 
 dependency = {
 	subject_type = "vassal"
 	first = FRA

@@ -3,8 +3,8 @@
 #Core Details
 capital = "Brassó"
 is_city = yes
-owner = TRA
-controller = TRA # Should be Szaszfold but no tag yet
+owner = SZE
+controller = SZE
 
 #Demographics
 culture = transylvanian_saxons
