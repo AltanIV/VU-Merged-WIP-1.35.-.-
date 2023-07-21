@@ -24,7 +24,7 @@ country_event = {
 		any_owned_province = {
 		    OR = {
 		    	region = egypt_region
-		    	region = mashriq_region }
+		    	region = mashriq_region
 		    }
 			religion_group = muslim
 		}
@@ -47,7 +47,7 @@ country_event = {
 			limit = {
 				OR = {	
 					region = egypt_region
-					region = mashriq_region }
+					region = mashriq_region
 				}
 				religion_group = muslim
 			}
