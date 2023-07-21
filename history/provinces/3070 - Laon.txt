@@ -40,16 +40,16 @@ discovered_by = russian_tech_group
 	controller = FRA
 	add_core = FRA
 	remove_core = LAO
-} 
+}
 1444.11.18 = { #VictorumUniversalis batch edit shortcut second performance start ends
 	owner = LAO
 	controller = LAO
 	add_core = LAO
 	remove_core = FRA
 }
- 
+
 1420.5.12 = { owner = ENG controller = ENG add_core = ENG } # Treaty of Troyes, ceded to the English
-1429.1.1 = { owner = LAO controller = LAO remove_core = ENG } # Retaken by the French
+1429.1.1 = { owner = FRA controller = FEA add_core = FRA remove_core = ENG } # Retaken by the French
 1466.2.10 = { add_core = BUR } # Treaty of Conflans, Champagne is promised to Charles the Bold as dowry
 1477.1.5 = { remove_core = BUR } # Charles the Bold dies
 1562.3.1 = { unrest = 7 } # Massacre at Wassy, the fuse is put in the French powder keg

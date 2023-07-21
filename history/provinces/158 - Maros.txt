@@ -3,8 +3,8 @@
 #Core Details
 capital = "Targu Mures"
 is_city = yes
-owner = TRA
-controller = TRA
+owner = SZE
+controller = SZE
 
 #Demographics
 culture = szekely
