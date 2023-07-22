@@ -1,7 +1,8 @@
 #130 - Istria
 
-owner = AQU
-controller = AQU
+owner = VEN
+controller = VEN
+add_core = VEN
 add_core = AQU
 culture = friulian_culture
 religion = catholic

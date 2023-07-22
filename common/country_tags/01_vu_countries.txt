@@ -297,6 +297,7 @@ MYO = "countries/Mayo.txt"
 THO = "countries/Thomond.txt"
 
 #VU - Italian Peninsula
+LOD = "countries/Lodi.txt"
 ABR = "countries/Abruzzo.txt"
 ADR = "countries/Andria.txt"
 ALP = "countries/AlbaPiedmont.txt"

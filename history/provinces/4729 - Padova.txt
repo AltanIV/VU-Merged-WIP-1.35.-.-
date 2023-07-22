@@ -36,7 +36,11 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-
+1215.1.1 = {
+owner = VRN
+controller = VRN
+add_core = VRN
+}
 #Province history completed by - Nikicaga & Darth Modus
 #First shattering unused
 1291.5.24 = { #VictorumUniversalis batch edit shortcut first performance start begins

@@ -1,4 +1,4 @@
-#232 - Braganï¿½a
+#232 - Bragança
 #Region - Iberia
 #Area - Beiras
 
@@ -6,7 +6,7 @@ owner = POR
 controller = POR
 culture = portugese
 religion = catholic
-capital = "Braganï¿½a"
+capital = "Bragança"
 trade_goods = fruit
 hre = no
 base_tax = 2 

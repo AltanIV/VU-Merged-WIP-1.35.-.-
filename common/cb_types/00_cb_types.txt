@@ -484,7 +484,7 @@ cb_triggered_independence_war = {
 cb_nationalist = {
 
 	prerequisites_self = {
-		dip_tech = 23
+		dip_tech = 40
 		is_free_or_tributary_trigger = yes
 		is_revolutionary = no
 	}
@@ -502,7 +502,7 @@ cb_imperial = {
 
 	prerequisites_self = {
 		OR = {
-			dip_tech = 23
+			dip_tech = 40
 			invasion_nation = yes
 			AND = {
 				has_country_flag = me_mug_imperialism

@@ -35,6 +35,12 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
+1215.1.1 = {
+	owner = PAV
+	controller = PAV
+	add_core = PAV
+}
+
 1359.1.1 = {
 	owner = MLO
 	controller = MLO

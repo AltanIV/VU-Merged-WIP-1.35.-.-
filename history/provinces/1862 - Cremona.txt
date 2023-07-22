@@ -34,6 +34,16 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
+1215.1.1 = {
+owner = MAN
+controller = MAN
+add_core = MAN
+}
+1315.1.1 = {
+owner = MLO
+controller = MLO
+add_core = MLO
+}
 1495.1.1 = { hre = no }
 1499.8.10 = { controller = FRA } # Louis XII of France invades...
 1504.1.31 = { owner = FRA add_core = FRA } # ...and seizes Milan, Treaty of Lyon

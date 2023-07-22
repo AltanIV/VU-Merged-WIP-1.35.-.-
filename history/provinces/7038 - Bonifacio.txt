@@ -37,6 +37,11 @@ discovered_by = russian_tech_group
 
 
 #Province history completed by - 
+1215.1.1 = {
+	owner = PIS
+	controller = PIS
+	add_core = PIS
+}
 1291.5.21 = { #VictorumUniversalis batch edit shortcut the first shattering begins
 	owner = COR
 	controller = COR

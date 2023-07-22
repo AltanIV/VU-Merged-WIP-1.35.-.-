@@ -281,9 +281,9 @@
  Lost_Culture_Return:0 "Return of the old cultures"
  lost_culture_returned:0 "We have found the old cultures"
  #Poland
- krantor_title:0 "Crane"
- krantor:0 "Crane"
- great_project_krantor:0 "Crane"
+ krantor_title:0 "Krantor"
+ krantor:0 "Krantor"
+ great_project_krantor:0 "Krantor"
  artushof_title:0 "Artus Court"
  artushof:0 "Artus Court"
  great_project_artushof:0 "Artus Court"

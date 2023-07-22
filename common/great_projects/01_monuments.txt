@@ -10937,7 +10937,7 @@ bara_katra = {
 }
 
 bran_castle = {
-    start = 7010
+    start = 4128
     
     date = 1212.01.01
     
@@ -10962,7 +10962,7 @@ bran_castle = {
 					NOT = { has_country_flag = teu_can_utilize_bran_castle }
 				}
 			}
-			culture_group = carpathian
+			culture_group = dacian 
 			province_is_or_accepts_culture = yes
 		}
         else = {
@@ -11087,6 +11087,7 @@ bran_castle = {
 		country_modifiers = {
 			global_missionary_strength = 0.0175
 			defensiveness = 0.20
+			land_morale = 0.05
 		}
 
 		#what effects happen when this tier is achieved
@@ -11118,6 +11119,7 @@ bran_castle = {
 			global_missionary_strength = 0.02
 			defensiveness = 0.30
 			army_tradition = 1
+			land_morale = 0.10
 		}
 
 		#what effects happen when this tier is achieved

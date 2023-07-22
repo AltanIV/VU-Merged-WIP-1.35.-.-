@@ -1,11 +1,11 @@
-#8097 - Poenca
+#8097 - Proença
 
 owner = POR
 controller = POR
 add_core = POR
 culture = portugese
 religion = catholic
-capital = "Proenï¿½a"
+capital = "Proença"
 base_tax = 2
 base_production = 2
 base_manpower = 1

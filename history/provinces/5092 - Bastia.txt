@@ -40,6 +40,19 @@ discovered_by = ottoman
 
 
 #Province history completed by - 
+
+1215.1.1 = {
+	owner = PIS
+	controller = PIS
+	add_core = PIS
+}
+
+1315.1.1 = {
+	owner = GEN
+	controller = GEN
+	add_core = GEN
+}
+
 1401.1.1 = {
 	capital = "Bastia"
 }

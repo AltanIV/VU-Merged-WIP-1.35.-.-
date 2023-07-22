@@ -1,8 +1,8 @@
 #7078 - Lodi
 
-owner = MLO
-controller = MLO
-add_core = MLO
+owner = LOD
+controller = LOD
+add_core = LOD
 culture = lombard
 religion = catholic
 capital = "Lodi"
@@ -35,6 +35,7 @@ discovered_by = russian_tech_group
 
 
 #Province history completed by - 
+1315.1.1 = { controller = MLO owner = MLO add_core = MOL } # Massimiliano Sforza restored by the Swiss
 1499.8.10 = { controller = FRA } # Louis XII of France invades...
 1504.1.31 = { owner = FRA add_core = FRA } # ...and seizes Milan, Treaty of Lyon
 1512.1.1 = { controller = MLO owner = MLO } # Massimiliano Sforza restored by the Swiss

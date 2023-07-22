@@ -443,6 +443,38 @@ alliance = {
 dependency = {
 	subject_type = "papal_subject_vu"
 	first = PAP
+	second = FER
+	start_date = 1215.1.1 
+	end_date = 1291.5.21
+}
+
+dependency = {
+	subject_type = "papal_subject_vu"
+	first = PAP
+	second = BLG
+	start_date = 1215.1.1 
+	end_date = 1291.5.21 
+}
+
+dependency = {
+	subject_type = "papal_subject_vu"
+	first = PAP
+	second = FNZ
+	start_date = 1215.1.1
+	end_date = 1291.5.21 
+}
+
+dependency = {
+	subject_type = "papal_subject_vu"
+	first = PAP
+	second = RAV
+	start_date = 1215.1.1 
+	end_date = 1291.5.21 
+}
+
+dependency = {
+	subject_type = "papal_subject_vu"
+	first = PAP
 	second = PGA
 	start_date = 1291.5.19 #VictorumUniversalis batch edit shortcut Start Date
 	end_date = 1291.5.21 #VictorumUniversalis batch edit shortcut the first shattering begins

@@ -12667,7 +12667,7 @@ krantor = {
 			global_ship_trade_power = 0.2
 			tolerance_heretic = 1
 			global_institution_spread = 0.1
-            placed_merchant_power = 1
+            placed_merchant_power = 10
             trade_steering = 0.2
 		}
 

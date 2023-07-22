@@ -1,8 +1,8 @@
 #7086 - Pordenone
 
-owner = HAB
-controller = HAB
-add_core = HAB
+owner = AQU
+controller = AQU
+add_core = AQU
 culture = friulian_culture
 religion = catholic
 capital = "Pordenone"
@@ -44,6 +44,9 @@ discovered_by = russian_tech_group
 	base_tax = 5
 	base_production = 5
 	base_manpower = 3
+	owner = HAB
+	controller = HAB
+	add_core = HAB
 } # Habsburgs turn this into a flourishing enclave
 
 1514.1.1 = { 

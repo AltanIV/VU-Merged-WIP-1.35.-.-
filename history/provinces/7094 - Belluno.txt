@@ -41,6 +41,11 @@ discovered_by = russian_tech_group
 
 #Province history completed by - Nikicaga & Darth Modus
 #First shattering unused
+1215.1.1 = {
+owner = VRN
+controller = VRN
+add_core = VRN
+}
 1291.5.24 = { #VictorumUniversalis batch edit shortcut first performance start begins
 	owner = VEN
 	controller = VEN

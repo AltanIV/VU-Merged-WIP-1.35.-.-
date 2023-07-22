@@ -43,5 +43,5 @@ discovered_by = spanish_tech_group
 discovered_by = swiss_tech_group
 
 #Histories by SF
-1215.6.15 = { owner = CRO controller = CRO add_core = CRO } # Croatian territorial lands - By San Felipe
+1215.6.15 = { add_core = CRO } # Croatian territorial lands - By San Felipe
 1444.11.11 = { owner = VEN controller = VEN add_core = VEN } # Venetian territorial lands - By San Felipe
