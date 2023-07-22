@@ -184,4 +184,10 @@
  desc_ship_upkeep_CC:0 "Due to our lack of forests and materials needed to build and equip the navy, our nation has had to in recent years rely on the importation wood and naval supplies, which has increased the cost of building ships for our fleets. This of-course cannot go on but unless we find new sources of wood suitable for shipbuilding, then I'm afraid we have very little choice in the matter."
  ship_upkeep_CCL:0 "Ship Upkeep"
  desc_ship_upkeep_CCL:0 "Due to our lack of forests and materials needed to build and equip the navy, our nation has had to in recent years rely on the importation wood and naval supplies, which has increased the cost of building ships for our fleets. This of-course cannot go on but unless we find new sources of wood suitable for shipbuilding, then I'm afraid we have very little choice in the matter."
- #
+ #New VU merc companies
+ merc_byz_help_venice:0 "Venetian Brigade"
+ merc_byz_help_genoa:0 "Genoese Brigade"
+ merc_byz_help_iberia:0 "Iberian Reinforcements"
+ merc_byz_help_pope:0 "Holy Regiments"
+ merc_byz_help_slavs:0 "Slavic Brigades"
+ merc_byz_help_balkans:0 "Balkan Supporting Army"

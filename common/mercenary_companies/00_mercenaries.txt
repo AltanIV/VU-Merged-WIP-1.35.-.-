@@ -2646,3 +2646,113 @@ merc_local_qizilbash_company = {
 		reinforce_speed = 0.25
 	}
 }
+
+#############################
+# Help troops for Byzantium #
+#############################
+
+merc_byz_help_venice = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 2
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		landing_penalty = -1
+		regiment_disembark_speed = 0.25
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 5
+	manpower_pool = 5
+}
+merc_byz_help_genoa = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 2
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		landing_penalty = -1
+		regiment_disembark_speed = 0.25
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 5
+	manpower_pool = 5
+}
+merc_byz_help_iberia = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 2
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		morale_damage_received = -0.025
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 5
+	manpower_pool = 5
+}
+merc_byz_help_pope = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 2
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		recover_army_morale_speed = 0.10
+		land_morale = 0.05
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 5
+	manpower_pool = 8
+}
+merc_byz_help_slavs = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 2
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		shock_damage = 0.025
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 5
+	manpower_pool = 10
+}
+merc_byz_help_balkans = {
+    regiments_per_development = 0.05
+    cavalry_weight = 0.33
+    artillery_weight = 0.0
+	cavalry_cap = 3
+    trigger = {
+		always = no				#Spawned only from event
+	}
+	cost_modifier = 0.0			#Free because it's foreign help
+	modifier = {
+		land_attrition = -0.10
+	}
+	counts_towards_force_limit = no
+    min_size = 4
+    max_size = 6
+	manpower_pool = 10
+}
