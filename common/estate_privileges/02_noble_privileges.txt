@@ -565,7 +565,7 @@ estate_nobles_french_strong_duchies = {
 		custom_trigger_tooltip = {
 			tooltip = estate_nobles_strong_duchies_trigger_tooltip
 			calc_true_if = {
-				amount = 2
+				amount = 3
 				all_subject_country = {
 					OR = {
 						is_subject_of_type = appanage
@@ -589,7 +589,7 @@ estate_nobles_french_strong_duchies = {
 	penalties = {
 	}
 	benefits = {
-		diplomatic_upkeep = 3
+		diplomatic_upkeep = 4
 		reduced_liberty_desire_on_same_continent = 10
 	}
 	conditional_modifier = {
