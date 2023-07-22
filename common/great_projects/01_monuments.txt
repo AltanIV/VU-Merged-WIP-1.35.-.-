@@ -15174,18 +15174,18 @@ churches_lalibela = {
 
 royal_palace_caserta = {
 	start = 121 #Napoli
-	date = 1752.1.1
+	date = 1444.1.1
 	time = { months = 0	}
 	build_cost = 0
 	can_be_moved = no
 	move_days_per_unit_distance = 10
 	starting_tier = 0
 	type = monument
-	build_trigger = { is_year = 1752 culture = neapolitan }
+	build_trigger = { culture = neapolitan }
 	on_built = {}
 	on_destroyed = {}
 	can_use_modifiers_trigger = { culture = neapolitan }
-	can_upgrade_trigger = { is_year = 1753 culture = neapolitan }
+	can_upgrade_trigger = { culture = neapolitan }
 	keep_trigger = {}
 
 	tier_0 = {
