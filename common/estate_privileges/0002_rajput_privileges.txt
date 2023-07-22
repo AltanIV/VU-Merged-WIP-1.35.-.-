@@ -273,6 +273,7 @@ estate_rajput_rajput_regiments = {
 	}
 	benefits = {
 	    infantry_cost = -0.10
+		special_unit_forcelimit = 0.1
 	}
 	mechanics = {
 		enables_rajput_regiments

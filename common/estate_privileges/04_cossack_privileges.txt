@@ -496,6 +496,7 @@ estate_cossacks_expand_the_cossack_regiments = {
 	penalties = {
 	}
 	benefits = {
+		special_unit_forcelimit = 0.05
 	}
 	conditional_modifier = {
 		trigger = { has_government_mechanic = russian_modernization_mechanic }
