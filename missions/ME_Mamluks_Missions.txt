@@ -520,7 +520,7 @@ MAM_missions_2 = {
 					key = MAM_supporting_red_sea_trade
 				}
 			}
-			4346 = {
+			1331 = {
 				add_trade_modifier = {
 					who = ROOT
 					duration = -1
@@ -537,7 +537,7 @@ MAM_missions_2 = {
 		position = 3
 		provinces_to_highlight = {
 			OR = {
-				province_id = 4346
+				province_id = 1331
 				AND = {
 					province_id = 2315
 					NOT = { owned_by = ROOT }
@@ -545,7 +545,7 @@ MAM_missions_2 = {
 			}
 		}
 		trigger = {
-			4346 = {
+			1331 = {
 				trade_share = {
 					country = ROOT
 					share = 10 
@@ -691,7 +691,7 @@ MAM_missions_2 = {
 			}
 		}
 		effect = {
-			4346 = {
+			1331 = {
 				add_trade_modifier = {
 					who = ROOT
 					duration = -1
@@ -1144,10 +1144,10 @@ MAM_missions_3 = {
 		required_missions = { MAM_red_sea_trade }
 		position = 4
 		provinces_to_highlight = {
-			province_id = 4346
+			province_id = 1331
 		}
 		trigger = {
-			4346 = {
+			1331 = {
 				has_most_province_trade_power = ROOT
 			}
 		}
