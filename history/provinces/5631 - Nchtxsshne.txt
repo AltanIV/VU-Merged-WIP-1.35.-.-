@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5631 - Nchtxsshn
 
 culture = interior_salish
 religion = totemism 
-capital = "Nchtxsshn'�" 
+capital = "Nchtxsshn" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

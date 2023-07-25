@@ -1806,7 +1806,7 @@ country_event = {
 	}
 }
 
-# Copper found in Frï¿½ï¿½ and Husï¿½
+# Copper found in Frösön
 country_event = {
 	id = flavor_nor.38
 	title = "flavor_nor.38.t"

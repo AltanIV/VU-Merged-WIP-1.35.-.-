@@ -1,4 +1,4 @@
-#3108 - SetÃºbal
+#3108 - Setúbal
 #Region - Iberia
 #Area - Alentejo
 
@@ -7,7 +7,7 @@ owner = POR
 controller = POR
 culture = portugese
 religion = catholic
-capital = "SetÃºbal"
+capital = "Setúbal"
 trade_goods = salt
 hre = no
 base_tax = 4
@@ -64,7 +64,7 @@ discovered_by = russian_tech_group
 1444.11.11 = { owner = POR controller = POR add_core = POR } # Portuguese territorial lands - By San Felipe
 
 
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Braganï¿½a
+1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }
 1704.1.1 = { controller = SPA } # War of the Spanish succession
 1713.4.11 = { controller = POR } # Treaty of Utrecht

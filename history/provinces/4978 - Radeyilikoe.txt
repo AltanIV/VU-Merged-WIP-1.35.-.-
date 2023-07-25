@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#4978 - Radeyilikoe
 
 culture = sahtu
 religion = totemism 
-capital = "Rï¿½deyï¿½lï¿½kï¿½ï¿½" 			#Tsiigehtchic note
+capital = "Rádeyîlîkóé" 			#Tsiigehtchic note
 trade_goods = unknown
 hre = no 
 base_tax = 1 

@@ -7,7 +7,7 @@
 # graphical_culture = westerngfx second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 #VU Corrupted encoding symbols to look out for
-#ï ½ ? ¿½ ï VUl ?? ¿ ï¿½
+#ï ½ ? ¿½ ï VUl ?? ¿ ï¿½ ï¿½'ï¿½ '
 
 germanic = {
 	graphical_culture = westerngfx
@@ -6869,9 +6869,9 @@ iranian	= {
 			Sadri Salman Shahab Shahab Shahbaz Shahbaz Shahin Shahin Shahram Shahram Shahrokh Sharokh
 			Shahruz Shahruz Shahryar Shahryar Shapur Shapur Shayan Shayan Sina Tahmasb Tahmasb Vahhab
 			Vahhab Vahid Vali Vandad Varshasb Varshasb Vishtasb Vishtasb Yazdegerd Yousef Joseph Zahak
-			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ismï¿½'ï¿½l Tamï¿½shp Mohammad Kodabï¿½nda 'Abbï¿½s Safi
-			Hosayn Nï¿½der Shï¿½h 'ï¿½del Shï¿½h Ebrï¿½him Shï¿½h Rukh Nï¿½der Mirza Karim Khï¿½n Abu'l Fath
-			Sï¿½diq Morï¿½d Ja'far Loft Ali Aga Muhammad Fath Alï¿½ Solaymï¿½n
+			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ismâ'îl Tamâshp Mohammad Kodabânda 'Abbâs Safi 
+			Hosayn Nâder Shâh 'Âdel Shâh Ebrâhim Shâh Rukh Nâder Mirza Karim Khân Abu'l Fath 
+			Sâdiq Morâd Ja'far Loft Ali Aga Muhammad Fath Alî Solaymân
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek Babak Bahman 
 			Behrad Behram Bahram Behrouz Bextîyar Bakhtiar Bozorg Cehandar Jahandar Cehangir Jahangir
 			Cehanšah Jahanshah Cemšîd Jamshid Cevid Javeed Danûš Danush Darab Daryûš Darius Davud David 
@@ -6950,9 +6950,9 @@ iranian	= {
 			Sadri Salman Shahab Shahab Shahbaz Shahbaz Shahin Shahin Shahram Shahram Shahrokh Sharokh
 			Shahruz Shahruz Shahryar Shahryar Shapur Shapur Shayan Shayan Sina Tahmasb Tahmasb Vahhab
 			Vahhab Vahid Vali Vandad Varshasb Varshasb Vishtasb Vishtasb Yazdegerd Yousef Joseph Zahak
-			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ismï¿½'ï¿½l Tamï¿½shp Mohammad Kodabï¿½nda 'Abbï¿½s Safi
-			Hosayn Nï¿½der Shï¿½h 'ï¿½del Shï¿½h Ebrï¿½him Shï¿½h Rukh Nï¿½der Mirza Karim Khï¿½n Abu'l Fath
-			Sï¿½diq Morï¿½d Ja'far Loft Ali Aga Muhammad Fath Alï¿½ Solaymï¿½n
+			Zakaria Zand Zartosht Zartosht Zia Joneid Haidar Ismâ'îl Tamâshp Mohammad Kodabânda 'Abbâs Safi 
+			Hosayn Nâder Shâh 'Âdel Shâh Ebrâhim Shâh Rukh Nâder Mirza Karim Khân Abu'l Fath 
+			Sâdiq Morâd Ja'far Loft Ali Aga Muhammad Fath Alî Solaymân
 			Abbas Abolhassan Alah-Verdi Allahyar Amin Aram Assad Aurang Ayeshah Azad Babek Babak Bahman 
 			Behrad Behram Bahram Behrouz Bextîyar Bakhtiar Bozorg Cehandar Jahandar Cehangir Jahangir
 			Cehanšah Jahanshah Cemšîd Jamshid Cevid Javeed Danûš Danush Darab Daryûš Darius Davud David 

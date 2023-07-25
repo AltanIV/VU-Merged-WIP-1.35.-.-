@@ -187,7 +187,7 @@ historical_friend = BUR			#Brittany allied several times with Burgundy, often se
 		death_date = 1442.8.29
 		claim = 95
 		adm = 3			#Confiscated the Penthièvre's possessions and reunited them to the ducal crown.
-		dip = 4			#A good diplomat, he managed to be friend with Armagnac and Burgundy. He renewed the truces with England. He was allied to the French, and managed to retake Saint-Malo which was under french sovereignty. In fact, he praticed 'une politique de neutralitï¿½ teintï¿½e d'opportunisme'.
+		dip = 4			#A good diplomat, he managed to be friend with Armagnac and Burgundy. He renewed the truces with England. He was allied to the French, and managed to retake Saint-Malo which was under french sovereignty. In fact, he praticed 'une politique de neutralité teintée d'opportunisme'.
 		mil = 2			#Nothing particular, but he doesn't deserve less.
 	}
 	add_heir_personality = charismatic_negotiator_personality
@@ -199,7 +199,7 @@ historical_friend = BUR			#Brittany allied several times with Burgundy, often se
 		dynasty = "de Montfort"
 		birth_date = 1389.12.24
 		adm = 3			#Confiscated the Penthièvre's possessions and reunited them to the ducal crown. He was called Jean V the wise man.
-		dip = 4			#A good diplomat, he managed to be friend with Armagnac and Burgundy. He renewed the truces with England. He was allied to the French, and managed to retake Saint-Malo which was under french sovereignty. In fact, he praticed 'une politique de neutralitï¿½ teintï¿½e d'opportunisme'.
+		dip = 4			#A good diplomat, he managed to be friend with Armagnac and Burgundy. He renewed the truces with England. He was allied to the French, and managed to retake Saint-Malo which was under french sovereignty. In fact, he praticed 'une politique de neutralité teintée d'opportunisme'.
 		mil = 2			#Nothing in particular, but he doesn't deserve less.
 	}
 	queen = {

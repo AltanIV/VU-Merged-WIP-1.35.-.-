@@ -39,7 +39,7 @@ discovered_by = north_american
 	trade_goods = fish 
 	culture = castillian
 	religion = catholic
-}	#Father Presidente Junï¿½pero Serra founds Mission San Antonio de Padua
+}	#Father Presidente Junípero Serra founds Mission San Antonio de Padua
 1791.10.9 = {
 	capital = "Soledad"
 }	#Mission Mission Nuestra Senora de la Soledad

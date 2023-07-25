@@ -155,3 +155,4 @@
 4531 = "Gyurgyevó"
 4532 = "Szörény"
 4720 = "Genf"
+4756 = "Belovár"

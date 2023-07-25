@@ -56,8 +56,8 @@ capital = 118		# Roma
 
 1811.3.20 = {
 	heir = {
-		name = "Napol�on"
-		monarch_name = "Napol�on II"
+		name = "Napoléon"
+		monarch_name = "Napoléon II"
 		dynasty = "Bonaparte"
 		birth_date = 1811.3.20
 		death_date = 1832.7.22
@@ -70,7 +70,7 @@ capital = 118		# Roma
 
 1814.4.11 = {
 	monarch = {
-		name = "Napol�on II"
+		name = "Napoléon II"
 		dynasty = "Bonaparte"
 		adm = 2
 		dip = 2

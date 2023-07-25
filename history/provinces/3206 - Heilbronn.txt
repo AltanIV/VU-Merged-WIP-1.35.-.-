@@ -54,5 +54,5 @@ discovered_by = russian_tech_group
 	controller = WUR
 	add_core = WUR
 	remove_core = HEL
-} # House Wï¿½rtemberg reconquers the coutnry and installs the protestant religion
+} # House Würtemberg reconquers the coutnry and installs the protestant religion
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

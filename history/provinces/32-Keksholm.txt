@@ -1,4 +1,4 @@
-#Keksholms l�n+Karelen, incl. Sordavala and Keksholm.
+#Karelen, incl. Sordavala and Keksholm.
 #Region - Russia
 #Area - Karelia
 

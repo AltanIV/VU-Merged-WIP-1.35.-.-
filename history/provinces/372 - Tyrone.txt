@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 trade_goods = iron
-capital = "Dï¿½n Geanainn"
+capital = "Dún Geanainn"
 is_city = yes
 fort_15th = yes #Dungannon, Geanann's fort. Castle on the hill, etc. etc. Tyrone is a major power in the region and so this place deserves a fort.
 

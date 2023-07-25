@@ -1,4 +1,4 @@
-# No previous file for Omushkego
+#2592 - Omushkego
 
 owner = MKG			#Swampy Cree
 controller = MKG
@@ -6,7 +6,7 @@ add_core = MKG
 is_city = yes
 culture = cree
 religion = totemism
-capital = "Omaskï¿½kowak"
+capital = "Omaskêkowak"
 trade_goods = fur
 hre = no
 base_tax = 1 

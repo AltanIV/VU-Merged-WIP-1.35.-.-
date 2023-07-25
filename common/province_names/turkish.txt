@@ -1,3 +1,5 @@
+#XXX = { "Province Name" "City Name" } - New addition to EUIV
+
 131 = { "Zagreb" "Zagreb" }
 134 = { "Viyana" "Beç" }
 135 = { "Shubruna" "Shubruna" }
@@ -140,7 +142,7 @@
 2327 = { "Gayal" "Gayal" }
 2348 = { "Sakiz" "Sakiz" }
 2405 = "Bender"
-2410 = { "Mangupkale" "Mangupkale" }
+2410 = { "Akyar" "Akyar" }
 2414 = { "Yeya" "Yeya" }
 2447 = { "Taman" "Onogurya" }
 2750 = "Filibe"
@@ -164,7 +166,7 @@
 3182 = { "Iskodra" "Iskodra" }
 3183 = { "Manastir" "Manastir" }
 3244 = { "Kirim" "Kirim" }
-3245 = { "Kerç" "Yenikale" }
+3245 = { "Keriç" "Keriç" }
 3247 = { "Üzüm" "Üzüm" }
 3248 = { "Lazistan" "Rize" }
 3754 = { "Suruç" "Suruç" }
@@ -279,7 +281,7 @@
 7158 = { "Gazi" "Gazi" }
 7159 = { "Rusçuk" "Rusçuk" }
 7163 = { "Menekse" "Menekse" }
-7190 = { "Akyar" "Akyar" }
+7190 = { "Baliklava" "Baliklava" }
 7192 = { "Bahçesaray" "Bahçesaray" }
 7193 = { "Içki" "Içki" }
 7197 = { "Sokul" "Sokul" }

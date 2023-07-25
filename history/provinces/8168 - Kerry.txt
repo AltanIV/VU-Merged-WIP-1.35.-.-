@@ -61,7 +61,7 @@ discovered_by = russian_tech_group
 1215.6.15 = { owner = ENG controller = ENG add_core = ENG } # English Lordship of Ireland territory - By San Felipe
 
 1291.1.1 = {
-	capital = "Trï¿½igh Lï¿½"
+	capital = "Tráigh Lí"
 }
 
 1444.11.11 = { owner = DMS controller = DMS add_core = DMS } # Desmond clan territory - By San Felipe

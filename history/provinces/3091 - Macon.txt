@@ -1,8 +1,8 @@
-#3091 - Macon
+#3091 - Mâcon
 
 owner = BUR
 controller = BUR 
-capital = "Mï¿½con"
+capital = "Mâcon"
 is_city = yes
 culture = burgundian
 religion = catholic

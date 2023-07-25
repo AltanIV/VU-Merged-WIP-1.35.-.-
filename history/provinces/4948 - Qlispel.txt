@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#4948 - Qlispél
 
 owner = YYI			#Flatheads
 controller = YYI
@@ -6,7 +6,7 @@ add_core = YYI
 is_city = yes
 culture = interior_salish
 religion = totemism 
-capital = "Nc'mqnï¿½tkw" 
+capital = "Nc'mqnétkw" 
 trade_goods = fur
 hre = no 
 base_tax = 1 			#One source places estimate of Salish and Pend d'Oreilles population at 20k to 60k, with 2k to 8k observed in 1806. This includes - #4948, #4960, #5630, #5631, #5743, #5753, and #5824. I'd call this estimates plausible, and actually unusually well researched.
@@ -19,7 +19,6 @@ center_of_trade = 1
 discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
-
 
 1444.11.15 = { #VictorumUniversalis batch edit shortcut no native start date begin
 	owner = XXX

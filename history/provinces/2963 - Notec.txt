@@ -1,13 +1,13 @@
-#3218 - Krajna
+#2963 - Notec
 
 #Default
 owner = GPL
 controller = GPL
 add_core = GPL
-capital = "Zlotow"
+capital = "Zlotów"
 culture = polish
 religion = catholic
-trade_goods = livestock		#rich valley of Notec River, perfect for farming. There was gold mine is Zlotï¿½w but it only existed in medieval era and would soon be depleted.
+trade_goods = livestock		#rich valley of Notec River, perfect for farming. There was gold mine is Zlotów but it only existed in medieval era and would soon be depleted.
 hre = no
 base_tax = 2 
 base_production = 1 

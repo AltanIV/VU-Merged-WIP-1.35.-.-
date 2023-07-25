@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5767 - Rumsen Mutsun
 
 culture = utian
 religion = totemism 
@@ -14,7 +14,6 @@ native_hostileness = 3
 
 discovered_by = north_american
 
-
 1542.1.1 = { discovered_by = SPA } # Juan Rodriguez Cabrillo
 1770.3.28 = {
 	owner = SPA
@@ -28,5 +27,5 @@ discovered_by = north_american
 	base_tax = 3
 	base_production = 3
 	base_manpower = 2
-} # Don Gaspar de Portolï¿½ and the Mission San Carlos Borromeo de Carmelo, later Monterrey, modern Monterey. Capital of California
+} # Gaspar de Portolá and the Mission San Carlos Borromeo de Carmelo, later Monterrey, modern Monterey. Capital of California
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

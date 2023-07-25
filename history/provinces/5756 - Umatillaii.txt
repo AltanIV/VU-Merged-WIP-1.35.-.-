@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5756 - Umatillaii
 
 culture = plateau_penutian
 religion = totemism 
-capital = "Imatilï¿½m" 
+capital = "Imatilám" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 			#Notes in #2483

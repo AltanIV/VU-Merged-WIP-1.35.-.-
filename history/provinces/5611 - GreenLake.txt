@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5611 - Green Lake
 
 latent_trade_goods = {
     oil
@@ -6,7 +6,7 @@ latent_trade_goods = {
 
 culture = cree
 religion = totemism 
-capital = "Akwï¿½kopï¿½wi Sï¿½kahikan"
+capital = "Akwâkopîwi Sâkahikan"
 trade_goods = unknown
 hre = no 
 base_tax = 1 

@@ -1,4 +1,4 @@
-#6296 - Travemï¿½nde
+#7616 - Travemünde
 
 owner = BLK
 controller = BLK
@@ -12,7 +12,7 @@ base_production = 3
 trade_goods = grain
 base_manpower = 2
 fort_15th = yes
-capital = "Travemï¿½nde"
+capital = "Travemünde"
 is_city = yes
 shipyard = yes
 

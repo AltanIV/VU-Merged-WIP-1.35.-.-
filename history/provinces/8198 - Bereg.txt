@@ -3,7 +3,7 @@
 #Region - Carpathia
 
 #Core Details
-capital = "Munkï¿½cs"
+capital = "Munkács"
 is_city = yes
 owner = HUN
 controller = HUN

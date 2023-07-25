@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5056 - Kichesipirini
 
 owner = AGQ			#Algonquins
 controller = AGQ
@@ -6,7 +6,7 @@ add_core = AGQ
 is_city = yes
 culture = anishinabe					# Algonquins
 religion = totemism
-capital = "Kitcisï¿½pi" 				#Not a good name, just the name of the river. All names I found came from the story of an explorer who lost some matches downstream, and I'm no using that
+capital = "Kitcisìpi" 				#Not a good name, just the name of the river. All names I found came from the story of an explorer who lost some matches downstream, and I'm no using that
 trade_goods = fur
 hre = no
 base_tax = 1
@@ -19,20 +19,20 @@ native_hostileness = 3
 discovered_by = north_american
 
 
-1444.11.15 = { #VictorumUniversalis batch edit shortcut no native start date begin
+1444.11.15 = { #Victorum Universalis batch edit shortcut no native start date begin
 	owner = XXX
 	controller = XXX
 	is_city = no
 	trade_goods = unknown
 }
-1444.11.17 = { #VictorumUniversalis batch edit shortcut no native start date end
+1444.11.17 = { #Victorum Universalis batch edit shortcut no native start date end
 	owner = AGQ
 	controller = AGQ
 	add_core = AGQ
 	is_city = yes
 	trade_goods = fur
 }
-1611.6.13 = { discovered_by = FRA } # Samuel de Champlain via ï¿½tienne Brï¿½lï¿½
+1611.6.13 = { discovered_by = FRA } # Samuel de Champlain via Étienne Brûlé
 
 #1650.1.1 = {
 #} #Native people almost completely wiped out by the Iroquois, who remained the primary presence in the region until at least 1701, may ignore this in game because French were able to travel upriver and extend influence that way farther north earlier
@@ -49,7 +49,7 @@ discovered_by = north_american
 1688.1.1 = {
 	owner = XXX
 	controller = XXX
-	capital = "Kitcisï¿½pi"
+	capital = "Kitcisìpi"
 	is_city = no
 	trade_goods = unknown
 } #Iroquois destroy French holdings and push French back to Montreal

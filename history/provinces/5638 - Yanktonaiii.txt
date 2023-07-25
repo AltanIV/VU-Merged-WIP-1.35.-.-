@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5638 - Yanktonaiii
 
 culture = dakota
 religion = totemism 
-capital = "Ablï¿½la" 
+capital = "Ablíla" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

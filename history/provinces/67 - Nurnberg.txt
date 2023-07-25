@@ -11,7 +11,7 @@ base_tax = 13
 base_production = 14			#Consistantly one of the richest, most populous, and politically important polities in Central Europe. Around our start date, almost certainly the largest city in Germany outside of Prague and Koeln. Before Habsburg dominance, even considered one of the primary HRE capital contenders.
 trade_goods = books
 base_manpower = 6
-capital = "Nï¿½rnberg"
+capital = "Nürnberg"
 is_city = yes
 hre = yes
 center_of_trade = 5
@@ -36,7 +36,7 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-1533.1.1 = { religion = protestant } # Brandenburg-Nï¿½rnbergische Kirchenordnung
+1533.1.1 = { religion = protestant } # Brandenburg-Nürnbergische Kirchenordnung
 1806.7.12 = {
 	hre = no
 	owner = BAV

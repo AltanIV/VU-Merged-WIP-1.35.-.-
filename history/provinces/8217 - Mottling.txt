@@ -1,9 +1,9 @@
-#8217 - Mï¿½ttling
+#8217 - Möttling
 #Area - Carniola
 #Region - South Germany
 
 #Core Details
-capital = "Mï¿½ttling"
+capital = "Möttling"
 is_city = yes
 owner = CLI
 controller = CLI

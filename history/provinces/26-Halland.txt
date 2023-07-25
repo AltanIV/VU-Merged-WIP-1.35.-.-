@@ -15,7 +15,6 @@ base_manpower = 2
 capital = "Halmstad"
 is_city = yes
 
-
 discovered_by = western
 discovered_by = dutch_tech_group
 discovered_by = english_tech_group
@@ -52,5 +51,5 @@ discovered_by = russian_tech_group
 1536.1.1 = { religion = protestant} # Unknown date
 1565.9.15 = { controller = SWE } # The Nordic Seven-year War
 1569.12.4 = { controller = DAN } # The Nordic Seven-year War
-1645.8.13 = { owner = SWE add_core = SWE  } # The Peace of Brï¿½msebro
+1645.8.13 = { owner = SWE add_core = SWE  } # The Peace of Brömsebro
 1680.1.1 = { culture = swedish } # The population adepted to Swedish ways.

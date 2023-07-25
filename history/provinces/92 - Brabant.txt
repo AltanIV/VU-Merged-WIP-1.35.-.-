@@ -14,6 +14,7 @@ base_tax = 14
 base_production = 14
 trade_goods = cloth			#Niki - Those were major Beer producing regions. So was Brussels but I was reluctant to change it since the city itself was a major cloth producer.
 base_manpower = 7
+extra_cost = 20
 
 discovered_by = western
 discovered_by = dutch_tech_group
@@ -35,60 +36,6 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-extra_cost = 20
-
-
-
-#Province history completed by - Darth Modus
-#1291.5.21 = { #VictorumUniversalis batch edit shortcut the first shattering begins
-#	owner = XXX
-#	controller = XXX
-#	add_core = XXX
-#	remove_core = XXX
-#} #Fantasy/alt-history tags for gameplay & multiplayer balance in SE. Please also remember to cut any cores from original larger tags then readd below.
-#1291.5.23 = { #VictorumUniversalis batch edit shortcut the first shattering ends
-#	owner = XXX
-#	controller = XXX
-#	add_core = XXX
-#	remove_core = XXX
-#} #End of shattered history. Please revert owner to historical and cut any fantasy cores. Also don't forget to readd any cut historical cores
-#1291.5.24 = { #VictorumUniversalis batch edit shortcut first performance start begins
-#	owner = XXX
-#	controller = XXX
-#	add_core = XXX
-#} #Cut all mod added tags, reverting to nearest or most logical vanilla tag owner. I think it is safe to leave cores, though.
-#1291.5.26 = { #VictorumUniversalis batch edit shortcut first performance start ends
-#	owner = XXX
-#	controller = XXX
-#	remove_core = XXX
-#} #Return to proper mod added owners and cuts vanilla core, typically.
-
-#1291 - 1444
-
-#1444.11.13 = { #VictorumUniversalis batch edit shortcut the second shattering begins
-#	owner = XXX
-#	controller = XXX
-#	add_core = XXX
-#} #Fantasy/alt-history tags for gameplay & multiplayer balance in SE. Please also remember to cut any cores from original larger tags then readd below.
-#1444.11.15 = { #VictorumUniversalis batch edit shortcut the second shattering ends
-#	owner = XXX
-#	controller = XXX
-#	remove_core = XXX
-#} #End of shattered history. Please revert owner to historical and cut any fantasy cores. Also don't forget to readd any cut historical cores
-#1444.11.16 = { #VictorumUniversalis batch edit shortcut second performance start begins
-#	owner = XXX
-#	controller = XXX
-#	add_core = XXX
-#} #Cut all mod added tags, reverting to nearest or most logical vanilla tag owner. I think it is safe to leave cores, though.
-#1444.11.18 = { #VictorumUniversalis batch edit shortcut second performance start ends
-#	owner = XXX
-#	controller = XXX
-#	remove_core = XXX
-#} #Return to proper mod added owners and cuts vanilla core, typically.
-
-#1444 on
-
-
 #New history by Darth Modus
 1477.1.5 = { owner = HAB controller = HAB add_core = HAB }	#from vanilla. Mary of Burgundy, an heiress, passes all Burgundian holdings in the Low Countries to the Habsburgs
 #Charles V inherited the Seventeen provinces in 1506, would later go on to inherit Spain, then finally the HRE
@@ -101,7 +48,7 @@ extra_cost = 20
 #End of new history by Darth Modus, back to vanilla
 
 1590.1.1 = { base_manpower = 10 } # Increased militarisation to match Dutch to the north
-1648.1.30 = { controller = SPA unrest = 0 } # Peace of Mï¿½nster/Westphalia
+1648.1.30 = { controller = SPA unrest = 0 } # Peace of Münster/Westphalia
 1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1672.5.10 = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 1678.9.19 = { controller = SPA } # Peace of Nijmegen (France-Spain)
@@ -112,7 +59,7 @@ extra_cost = 20
 1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
 1719.2.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Under the guidance of guildmaster Anneesens, Brussels revolts against the Austrian taxation policy
 1719.9.19 = { revolt = {} controller = HAB } # Revolt suppressed, Anneesens executed
-1746.10.11 = { controller = FRA } # Marï¿½chal Saxe launches a succesful offensive
+1746.10.11 = { controller = FRA } # Maréchal Saxe launches a succesful offensive
 1748.10.18 = { controller = HAB } # Peace of Aachen
 1789.1.1 = { unrest = 15 } # 'Brabantse Omwenteling' at hand
 1789.6.18 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # The 'Brabant Revolution' (Brabantse Omwenteling) against Joseph II starts

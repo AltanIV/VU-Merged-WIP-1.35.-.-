@@ -1,4 +1,4 @@
-# 65 - Mï¿½nchen
+# 65 - München
 #Region - Germany
 #Area - Upper Bavaria
 
@@ -11,7 +11,7 @@ base_tax = 9
 base_production = 8			#Not nearly so rich at this period. Total BAV dev lowered from 58 to 39, which is already much to high. Most of the extremely high population densities and wealth which were in the region were not under Bavaria, like Regensburg and Nuremberg
 trade_goods = beer
 base_manpower = 4
-capital = "Mï¿½nchen"
+capital = "München"
 is_city = yes
 hre = yes
 center_of_trade = 3

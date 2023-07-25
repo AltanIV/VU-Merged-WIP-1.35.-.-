@@ -1,4 +1,4 @@
-#Finland, incl. ï¿½bo.
+#Finland, incl. Åbo.
 #Region - Scandinavia
 #Area - Finland
 
@@ -42,8 +42,6 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-
-
 #Province history completed by - Darth Modus
 1291.5.21 = { #VictorumUniversalis batch edit shortcut the first shattering begins
 	owner = FIN
@@ -84,13 +82,13 @@ discovered_by = russian_tech_group
 1502.9.8 = { controller = SWE } # Retaken by Sweden
 1527.6.1 = { religion = protestant}
 1563.6.7 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Duke Johan is sentenced to death
-1563.8.12 = { revolt = {} controller = SWE } # ï¿½bo falls and Duke Johan is imprisoned.
+1563.8.12 = { revolt = {} controller = SWE } # Åbo falls and Duke Johan is imprisoned.
 1598.8.1 = { controller = PLC } # Sigismund tries to reconquer his crown
 1599.7.5 = { owner = SWE controller = SWE } # Duke Karl get it back
 1713.8.28 = { controller = RUS } # The Great Nordic War-Captured by Apraksin
 1721.8.30 = { controller = SWE } # The Peace of Nystad
 1742.10.15 = { controller = RUS } # The War of the Hats-Estimated date
-1743.8.7 = { controller = SWE } # The Peace of ï¿½bo
+1743.8.7 = { controller = SWE } # The Peace of Åbo
 1808.3.1 = { controller = RUS } # Overran by Russian troops
 1809.9.17 = {
 	owner = RUS

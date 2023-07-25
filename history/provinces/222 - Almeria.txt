@@ -48,8 +48,8 @@ discovered_by = ottoman
 
 1444.11.11 = { owner = GRA controller = GRA add_core = GRA } # Granadan territorial lands - By San Felipe
 
-1487.1.1 = { revolt = { type = religious_rebels size = 2 } controller = REB } # After King Muhammad X pacts with the Catholic Kings, Muhammad El Zagal flees to Almerï¿½a to proceed the war against the christians from there.
-1489.12.10 = { revolt = {} controller = CAS owner = CAS add_core = CAS } # After the capitulation of the town of Baza, Sultan Muhammad El Zagal gives the port of Almerï¿½a to the Catholic Kings
+1487.1.1 = { revolt = { type = religious_rebels size = 2 } controller = REB } # After King Muhammad X pacts with the Catholic Kings, Muhammad El Zagal flees to Almería to proceed the war against the christians from there.
+1489.12.10 = { revolt = {} controller = CAS owner = CAS add_core = CAS } # After the capitulation of the town of Baza, Sultan Muhammad El Zagal gives the port of Almería to the Catholic Kings
 1499.12.1 = { unrest = 2 } # The Inquisition forces Spanish muslims to convert back to Christianity. Occasional revolts occur.
 1502.2.1 = { 
 	unrest = 0 

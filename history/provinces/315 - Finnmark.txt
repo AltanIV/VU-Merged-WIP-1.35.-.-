@@ -4,6 +4,7 @@
 
 owner = NOR
 controller = NOR
+add_core = NOR
 culture = sapmi
 add_core = SMI
 religion = finnish_pagan_reformed
@@ -12,10 +13,9 @@ base_tax = 1
 base_production = 1 
 base_manpower = 1 
 trade_goods = whaling
-capital = "Vardï¿½"
+capital = "Vardø"
 add_local_autonomy = 55 #This stacks with culture and religious starting autonomy, it seems. Reducing from 90.
 is_city = yes
-add_core = NOR
 
 discovered_by = western
 discovered_by = dutch_tech_group

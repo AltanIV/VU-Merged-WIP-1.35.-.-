@@ -57,7 +57,7 @@ discovered_by = russian_tech_group
 1627.8.1 = { controller = HAB }
 1629.5.22 = { controller = SHL }
 1644.1.12 = { controller = SWE } #Torstenssons War-Captured by Lennart Torstensson
-1645.8.13 = { controller = SHL } #The Peace of Brï¿½msebro
+1645.8.13 = { controller = SHL } #The Peace of Brömsebro
 1657.10.23 = { controller = SWE } #Karl X Gustavs First Danish War-Captured by Wrangel
 1658.2.26 = { owner = SHL controller = SHL } #The Peace of Roskilde
 1720.6.3 = { add_core = DNR owner = DNR controller = DNR add_core = DAN } #Treaty of Friedriksborg, Schleswig incorporated

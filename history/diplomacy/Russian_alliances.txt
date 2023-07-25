@@ -338,7 +338,7 @@ alliance = {
 	end_date = 1800.11.22
 }
 
-# The Second Coalition, Treaty of Lun�ville
+# The Second Coalition, Treaty of Lunéville
 alliance = {
 	first = RUS
 	second = HAB

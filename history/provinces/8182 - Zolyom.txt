@@ -1,9 +1,9 @@
-#8182 - Zï¿½lyom
+#8182 - Zólyom
 #Area - Lower Hungary
 #Region - Carpathia
 
 #Core Details
-capital = "Besztercebï¿½nya"
+capital = "Besztercebányán"
 is_city = yes
 owner = HUN
 controller = HUN

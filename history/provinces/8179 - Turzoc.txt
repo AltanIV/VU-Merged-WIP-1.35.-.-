@@ -1,7 +1,7 @@
-#8179 - Tï¿½rï¿½cz
+#8179 - Túrócz
 
 #Core Details
-capital = "Turï¿½cszentmï¿½rton"
+capital = "Turócszentmárton"
 is_city = yes
 owner = HUN
 controller = HUN

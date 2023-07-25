@@ -28,7 +28,7 @@ discovered_by = north_american
 
 1741.1.1 = { discovered_by = RUS } # Vitus Bering
 1778.1.1 = { discovered_by = GBR } # James Cook
-1788.1.1 = { discovered_by = SPA } # Esteban Josï¿½ Martï¿½nez and Gonzalo Lï¿½pez de Haro
+1788.1.1 = { discovered_by = SPA } # Esteban José Martínez and Gonzalo López de Haro
 
 1796.1.1 = {
 	owner = RUS

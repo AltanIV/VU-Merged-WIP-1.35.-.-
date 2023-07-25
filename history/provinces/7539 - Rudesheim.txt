@@ -3,7 +3,7 @@
 owner = MAI
 controller = MAI
 add_core = MAI
-capital = "Rï¿½desheim"
+capital = "Rüdesheim"
 culture = hessian
 religion = catholic
 trade_goods = wine

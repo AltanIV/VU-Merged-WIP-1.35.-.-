@@ -2,7 +2,7 @@
 
 culture = chinook
 religion = totemism
-capital = "Tlï¿½t'cap" 
+capital = "Aasíccóóútaan" 
 trade_goods = unknown 
 hre = no 
 base_tax = 1			#Notes in #5755

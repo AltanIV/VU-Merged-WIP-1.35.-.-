@@ -2,7 +2,7 @@
 
 culture = tlingit
 religion = totemism 
-capital = "Tlakw ï¿½an" 			#Or Dzï¿½ntik'i Hï¿½eni, or ï¿½ak'w 
+capital = "Tlakw Áan" 			#Or Dzintik'i Haeni, or Tak'w 
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -29,5 +29,5 @@ discovered_by = north_american
 
 1741.1.1 = { discovered_by = RUS } # Aleksei Chirikov under Vitus Bering
 1778.1.1 = { discovered_by = GBR } # James Cook
-1788.1.1 = { discovered_by = SPA } # Esteban Josï¿½ Martï¿½nez and Gonzalo Lï¿½pez de Haro
+1788.1.1 = { discovered_by = SPA } # Esteban José Martínez and Gonzalo López de Haro
 #Doesn't appear Russian settled here. First settlements I could find was circa 1880-1890

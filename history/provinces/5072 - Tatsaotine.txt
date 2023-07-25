@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5072 - Tatsaotine
 
 culture = slavey
 religion = totemism 
-capital = "Wekweï¿½tï¿½"			#Actually a Dogrib name for a Yellowknife province, but calling it close enough for now
+capital = "Wekweètì"			#Actually a Dogrib name for a Yellowknife province, but calling it close enough for now
 trade_goods = unknown
 hre = no 
 base_tax = 1 

@@ -1,11 +1,11 @@
-# - Hradecko
+#2970 - Hradecko
 #Region - Germany
 #Area - Bohemia
 
 owner = BOH
 controller = BOH
 add_core = BOH
-capital = "Hradec Krï¿½lovï¿½"
+capital = "Hradec Králové"
 culture = czech
 religion = catholic
 trade_goods = silver	#silver

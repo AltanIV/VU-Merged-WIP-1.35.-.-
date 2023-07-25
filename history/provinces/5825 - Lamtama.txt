@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5825 - Lamtama
 
 culture = nez_perce_culture
 religion = totemism 
-capital = "Nacoï¿½x kuus" 			#Salmon River
+capital = "Naco’x kuus" 			#Salmon River
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -14,7 +14,6 @@ native_hostileness = 3
 
 discovered_by = north_american
 #discovered_by = vu_northwest_tech
-
 
 1805.1.1 = { discovered_by = USA } #Lewis and Clarke
 1811.1.1 = { discovered_by = GBR } #David Thompson

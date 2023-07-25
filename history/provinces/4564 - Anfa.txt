@@ -90,6 +90,6 @@ discovered_by = russian_tech_group
 	base_manpower = 4
 	trade_goods = wool
 	capital = "ad-Dar al-Bayda"
-} #The town was finally reconstructed by Sultan Mohammed ben Abdallah (1756�1790), the grandson of Moulay Ismail and an ally of George Washington, with the help of Spaniards from the nearby emporium. Town exports wool to Britain in exchange for tea
+} #The town was finally reconstructed by Sultan Mohammed ben Abdallah (1756-1790), the grandson of Moulay Ismail and an ally of George Washington, with the help of Spaniards from the nearby emporium. Town exports wool to Britain in exchange for tea
 
 #1766.1.1 = { } #Mogador or Essaouira built, Sultan Mohammed ben Abdallah banned foreign trade in all Moroccan ports except in his newly built city

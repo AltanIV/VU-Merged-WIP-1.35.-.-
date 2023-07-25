@@ -3,9 +3,10 @@
 #Default
 owner = VEN
 controller = VEN
+add_core = VEN
 culture = serbian
 religion = catholic
-capital = "C�ttaro"
+capital = "Cattaro"
 trade_goods = naval_supplies
 hre = no
 base_tax = 3
@@ -13,7 +14,6 @@ base_production = 2
 base_manpower = 2 
 is_city = yes
 fort_15th = yes			#Moved here from Scutari
-add_core = VEN
 center_of_trade = 2
 
 #Claimants

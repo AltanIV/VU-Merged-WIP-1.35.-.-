@@ -60,7 +60,7 @@ discovered_by = russian_tech_group
 
 1536.4.1 = { controller = FRA } 
 1538.6.17 = { owner = FRA } # Treaty of Nice
-1559.1.1 = { owner = SAV controller = SAV remove_core = FRA }	#Peace of Cateau-Cambrï¿½sis
+1559.1.1 = { owner = SAV controller = SAV remove_core = FRA }	#Peace of Cateau-Cambrésis
 1648.1.1 = { hre = no }	#Peace of Westphalia, the 'Kingdom of Italy' definitively leaves the Holy Roman Empire
 #1713.4.12 = { owner = SIC controller = SIC add_core = SIC } # Treaty of Utrecht gives Sicily to Savoy, who becomes the King of Sicily  -VU is calling this still Savoy, rather than Sicily.
 1720.2.17 = { owner = SPI controller = SPI add_core = SPI remove_core = SAV } # Treaty of the Hague, Victor Amadeus II trades Sicily for Sardinia, founding the Kingdom of Piedmont-Sardinia

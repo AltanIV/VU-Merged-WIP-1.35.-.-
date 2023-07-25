@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5823 - Yavapaiii
 
 culture = yuman
 religion = totemism 
-capital = "'Wï¿½kwatha Ksik'ita" 
+capital = "'Wíkwatha Ksik'ita" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,5 +15,5 @@ native_hostileness = 3
 discovered_by = north_american
 
 
-1776.1.1 = { discovered_by = SPA } #Dominguezï¿½Escalante expedition
+1776.1.1 = { discovered_by = SPA } #Dominguez–Escalante expedition
 #Prescott area

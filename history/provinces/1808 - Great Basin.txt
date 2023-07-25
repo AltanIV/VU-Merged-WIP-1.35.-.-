@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#1808 - Great Basin
 
 culture = shoshone
 religion = totemism 
-capital = "Mahaguadï¿½ka" 
+capital = "Mahaguadüka" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -13,7 +13,6 @@ native_ferocity = 1
 native_hostileness = 3 
 
 discovered_by = north_american
-
 
 1444.11.12 = { #VictorumUniversalis batch edit shortcut native start date begin
 	owner = YYN			#Paiute

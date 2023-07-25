@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5781 - Chimakum
 
 culture = quileute
 religion = totemism 
-capital = "C'ï¿½c'abus"			#The last stronghold of the Chimakum before their extinction
+capital = "C'íc'abus"			#The last stronghold of the Chimakum before their extinction
 trade_goods = unknown
 hre = no 
 base_tax = 1			#Population 400 identified in 1789. Note this immediately followed a major war with the Lushootseed and Wakashans, as well as a major smallpox outbreak, so population impossible to accurately guess. anything in the 2k-10k seems plausible pre-1700.

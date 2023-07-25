@@ -1,8 +1,8 @@
-#Bro Sant-Maloï¿½
+#8430 - Bro Sant-Maloù
 
 owner = BRI
 controller = BRI
-capital = "Sant-Malou"
+capital = "Sant-Maloù"
 is_city = yes
 culture = gallo_culture
 religion = catholic

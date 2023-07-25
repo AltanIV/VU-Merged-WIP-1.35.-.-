@@ -1,4 +1,4 @@
-#New Victorum Universalis Province
+#5625 - Pembina
 
 culture = arapaho
 religion = totemism
@@ -15,4 +15,4 @@ native_hostileness = 3
 discovered_by = north_american
 
 
-1732.1.1 = { discovered_by = FRA } # La V�rendrye
+1732.1.1 = { discovered_by = FRA } # La Verendrye

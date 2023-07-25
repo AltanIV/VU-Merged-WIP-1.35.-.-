@@ -1,4 +1,4 @@
-#4773 - Gï¿½ttingen
+#4773 - Göttingen
 #Region - Germany
 #Area - Lower Saxony
 
@@ -6,7 +6,7 @@ owner = BRU
 controller = BRU
 culture = eastphalian
 religion = catholic
-capital = "Gï¿½ttingen"
+capital = "Göttingen"
 trade_goods = cloth
 hre = yes
 base_tax = 6

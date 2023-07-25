@@ -1,4 +1,4 @@
-# No previous file for Haaninin
+#2502 - Haaninin
 
 owner = KIO
 controller = KIO
@@ -6,7 +6,7 @@ add_core = KIO
 is_city = yes
 culture = kiowa
 religion = totemism
-capital = "Cï¿½uiqop"			#Kiowa mountain, probably/possibly Bearpaw mountains
+capital = "Cáuiqop"			#Kiowa mountain, probably/possibly Bearpaw mountains
 trade_goods = fur
 hre = no
 base_tax = 1 

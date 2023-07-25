@@ -1,4 +1,4 @@
-#4756 - Belov�r
+#4756 - Bjelovar
 
 owner = CRO
 controller = CRO

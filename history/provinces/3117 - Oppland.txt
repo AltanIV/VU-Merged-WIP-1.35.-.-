@@ -50,7 +50,7 @@ discovered_by = russian_tech_group
 	controller = DAN
 	add_core = DAN
 	religion = protestant
-} # 'Handfï¿½stningen'(Unknown date)
+} # 'Handfästningen'(Unknown date)
 1630.1.1 = { trade_goods = copper } # Approximate date
 1814.1.14 = {
 	owner = SWE

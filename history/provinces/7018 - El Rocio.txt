@@ -1,10 +1,10 @@
 #7018 - El Rocío
 
 #Default
-owner = CAS	#Juan II of Castille
+owner = CAS
 controller = CAS
 add_core = CAS
-add_core = SVL #BTB added: Castilian revolter tag.
+add_core = SVL
 culture = andalucian
 religion = catholic
 hre = no
@@ -52,7 +52,7 @@ discovered_by = russian_tech_group
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucï¿½a, which is speedily and uneventfully performed
+1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, which is speedily and uneventfully performed
 1713.4.11 = { remove_core = CAS }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1813.12.11 = { revolt = {} controller = SPA }

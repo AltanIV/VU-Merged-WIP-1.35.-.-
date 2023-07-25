@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5084 - Fond du Lac
 
 culture = chipewyan
 religion = totemism 
-capital = "Gï¿½ne Kï¿½nan"
+capital = "Gáne Kúnan"
 trade_goods = unknown
 hre = no 
 base_tax = 1 

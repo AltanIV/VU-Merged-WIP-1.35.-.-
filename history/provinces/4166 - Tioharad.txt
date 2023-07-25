@@ -1,4 +1,4 @@
-#Western Smï¿½land - Tiohï¿½rads Lagsaga, ie: Vï¿½rend, Finnveden och Njudung
+#Western Småland - Tiohärads Lagsaga, ie: Värend, Finnveden och Njudung
 
 add_core = SWE
 owner = SWE
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 1 
 trade_goods = beer
 base_manpower = 1 
-capital = "Vï¿½xjï¿½"
+capital = "Växjö"
 is_city = yes
 add_core = GTA
 
@@ -78,5 +78,5 @@ discovered_by = ottoman
 1598.8.1 = { controller = PLC } # Sigismund tries to reconquer his crown
 1599.5.12 = { controller = SWE } # Duke Karl get it back
 1611.8.3 = { controller = DAN } # The War of Kalmar-Captured by Christian IV
-1613.1.20 = { controller = SWE }# The Peace of Knï¿½red
+1613.1.20 = { controller = SWE }# The Peace of Knäred
 

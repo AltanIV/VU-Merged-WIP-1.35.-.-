@@ -60,7 +60,7 @@ discovered_by = russian_tech_group
 1444.11.11 = { owner = TLC controller = TLC add_core = TLC } # Tlemcen territorial lands - By San Felipe
 
 #Handy Wiki quote for reference and reinforcement -
-#As early as 1302 the islet of Peï¿½ï¿½n in front of Algiers harbour had been occupied by Spaniards. Thereafter, a considerable amount of trade began to flow between Algiers and Spain. However, Algiers 
+#As early as 1302 the islet of Peñón in front of Algiers harbour had been occupied by Spaniards. Thereafter, a considerable amount of trade began to flow between Algiers and Spain. However, Algiers 
 #continued to be of comparatively little importance until after the expulsion of the Moors from Spain, many of whom sought asylum in the city.
 #Only wiki, but it is so convenient to copy-paste and this appears to be correct.
 1491.1.1 = {

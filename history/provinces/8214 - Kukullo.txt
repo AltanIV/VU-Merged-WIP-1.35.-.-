@@ -1,9 +1,9 @@
-#8214 - Kï¿½kï¿½llo
+#8214 - Küküllo
 #Area - Southern Transylvania
 #Region - Carpathia
 
 #Core Details
-capital = "Dicsoszentmï¿½rton"
+capital = "Dicsoszentmárton"
 is_city = yes
 owner = TRA
 controller = TRA

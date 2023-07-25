@@ -1,8 +1,8 @@
-#6406 - Rheingï¿½nheim
+#7553 - Rheingönheim
 #Region - Germany
 #Area - Palatinate
 
-capital = "Rheingï¿½nheim"
+capital = "Rheingönheim"
 culture = franconian
 religion = catholic
 trade_goods = wool

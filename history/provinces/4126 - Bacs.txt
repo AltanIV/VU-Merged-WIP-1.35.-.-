@@ -1,10 +1,10 @@
-#3149 - Kiskun
+#4126 - Bacs
 
 owner = HUN
 controller = HUN 
 culture = cuman
 religion = catholic
-#capital = "Kecskemï¿½t"
+#capital = "Kecskemét"
 capital = "Kiskunhalas"
 trade_goods = horses
 hre = no

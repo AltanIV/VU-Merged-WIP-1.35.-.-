@@ -52,7 +52,7 @@ discovered_by = russian_tech_group
 	base_tax = 10
 	base_production = 10
 	base_manpower = 6
-}	#Duke Emmanuel Philibert moved his capital to Turin in 1563, and, consequently, Chambï¿½ry declined.
+}	#Duke Emmanuel Philibert moved his capital to Turin in 1563, and, consequently, Chambéry declined.
 1713.4.12 = {
 	owner = SIC
 	controller = SIC

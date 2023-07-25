@@ -50,21 +50,6 @@ discovered_by = ottoman
 	remove_core = HAB
 } #Return to proper mod added owners and cuts vanilla core, typically.
 
-#1291 to 1444
-
-#Second shattering unused
-#1444.11.16 = { #VictorumUniversalis batch edit shortcut second performance start begins
-#	owner = HAB
-#	controller = HAB
-#	add_core = HAB
-#} #Cut all mod added tags, reverting to nearest or most logical vanilla tag owner. I think it is safe to leave cores, though.
-#1444.11.18 = { #VictorumUniversalis batch edit shortcut second performance start ends
-#	owner = TNT
-#	controller = TNT
-#	remove_core = HAB
-#} #Return to proper mod added owners and cuts vanilla core, typically.
-#Trent added to vanilla, removing
-
 1475.3.21 = { unrest = 10 }	#3 year old Christian boy murdered, local Jews blamed, the kid controversially canonised
 1476.3.21 = { unrest = 0 }	#things settle down
 1545.1.1 = {
@@ -86,7 +71,7 @@ discovered_by = ottoman
 	controller = ITL
 	add_core = ITL
 	remove_core = BAV
-} # Incorporated into the Kingdom of Italy after the treaty of Schï¿½nbrunn
+} # Incorporated into the Kingdom of Italy after the treaty of Schönbrunn
 1814.4.11 = {	owner = HAB
 	controller = HAB
 } # Treaty of Fontainebleau, Napoleon abdicates unconditionally

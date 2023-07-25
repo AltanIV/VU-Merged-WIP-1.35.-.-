@@ -1,7 +1,7 @@
 #8177 - Bars
 
 #Core Details
-capital = "Lï¿½va"
+capital = "Léva"
 is_city = yes
 owner = HUN
 controller = HUN

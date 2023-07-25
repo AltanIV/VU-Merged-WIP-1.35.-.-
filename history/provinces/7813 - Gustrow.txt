@@ -1,11 +1,11 @@
-#7813 - Gustrow
+#7813 - Güstrow
 
 owner = MKL
 controller = MKL
 add_core = MKL
 culture = pommeranian
 religion = catholic
-capital = "Gï¿½strow"
+capital = "Güstrow"
 base_tax = 2 
 base_production = 2 
 base_manpower = 1 

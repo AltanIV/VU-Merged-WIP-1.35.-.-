@@ -58,7 +58,7 @@ discovered_by = ottoman
 #1526.8.30 = { 
 #	owner = TRA 
 #	controller = TRA
-#} #Hungary fractured after Battle of Mohacs
+#} #Hungary fractured after Battle of Mohács
 1528.1.1 = { add_core = TUR }
 1551.7.19 = {
 	owner = HAB

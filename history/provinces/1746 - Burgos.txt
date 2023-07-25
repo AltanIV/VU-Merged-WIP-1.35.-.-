@@ -15,6 +15,8 @@ base_manpower = 3
 fort_15th = yes
 capital = "Burgos"
 is_city = yes
+center_of_trade = 3
+extra_cost = 20
 
 discovered_by = western
 discovered_by = dutch_tech_group
@@ -35,14 +37,11 @@ discovered_by = byzantine_tech_group
 discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
-center_of_trade = 3
-extra_cost = 20
-
 
 1464.5.1 = { unrest = 3 } # Nobiliary uprising against King Enrique, Castilla goes into anarchy
 1468.9.18 = { unrest = 0 } # Pactos de los Toros de Guisando. Isabel of Castille becomes heir to the throne and a temporary peace is achieved
 1470.1.1 = { unrest = 3 } # Isabel marries with Fernando of Aragon, breaking the Pacts of Guisando. King Enrique choses his daughter Juana ("La Beltraneja") as new heiress and a succession War erupts.
-1479.9.4 = { unrest = 0 } # Peace of Alcaï¿½ovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
+1479.9.4 = { unrest = 0 } # Peace of Alcaçovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

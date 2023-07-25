@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5820 - Tagaticutta
 
 culture = paiute_culture
 religion = totemism 
-capital = "Tagï¿½tï¿½ka" 			#Just using tribal names for Paiute provinces... Information is sparse and I don't want to spend months trying to research capital names in the desert (well, that isn't exactly true, but I don't want to do so while I'm holding up updates)
+capital = "Tagötöka" 			#Just using tribal names for Paiute provinces... Information is sparse and I don't want to spend months trying to research capital names in the desert (well, that isn't exactly true, but I don't want to do so while I'm holding up updates)
 trade_goods = unknown
 hre = no 
 base_tax = 1 

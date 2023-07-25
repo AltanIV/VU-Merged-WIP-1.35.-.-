@@ -3,7 +3,7 @@
 #Region - Poland
 
 #Core Details
-capital = "Ciechanï¿½w"
+capital = "Ciechanów"
 is_city = yes
 owner = MAZ
 controller = MAZ

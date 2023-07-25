@@ -1,8 +1,8 @@
-# No previous file for Secwepemc
+#2605 - Secwepemc
 
 culture = shuswap
 religion = totemism
-capital = "Tk'emlï¿½ps"
+capital = "Tk'emlúps"
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -15,7 +15,6 @@ native_hostileness = 3
 discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
-
 
 1811.1.1 = {
 	discovered_by = GBR

@@ -60,8 +60,9 @@ extra_cost = 15
 	controller = ORL
 }
 1422.1.1 = { #Back to Milan following a deal with the people of Asti.
-	owner = MLO
-	controller = MLO
+	owner = ATI
+	controller = ATI
+	add_core = ATI
 }
 #Missing history: Ceded county to Francesco Sforza at some point. Regained in 1441.
 1447.1.1 = { #Death of Visconti, ceded back to Orleans at this point.

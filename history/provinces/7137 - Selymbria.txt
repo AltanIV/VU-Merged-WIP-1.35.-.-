@@ -91,7 +91,7 @@ discovered_by = swiss_tech_group
 	base_manpower = 9
 	shipyard = yes
 }
-1651.1.1 = { unrest = 5 } # The murder of Kï¿½sem Sultana
+1651.1.1 = { unrest = 5 } # The murder of Kösem Sultana
 1652.1.1 = { unrest = 0 }
 1690.1.1 = { base_tax = 10 base_production = 10 } #The Decentralizing Effect of the Provincial System
 1700.1.1 = { base_manpower = 16 }

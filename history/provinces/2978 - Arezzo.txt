@@ -43,9 +43,9 @@ discovered_by = russian_tech_group
 
 #Histories by SF
 1384.1.1 = {
-	controller = LAN
-	owner = LAN
-	add_core = LAN
+	controller = ARE
+	owner = ARE
+	add_core = ARE
 }
 1495.1.1 = { hre = no }
 1527.1.1 = { controller = SPA } # War of the League of Cognac
@@ -61,7 +61,7 @@ discovered_by = russian_tech_group
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-} # The Treaty of Lunï¿½ville
+} # The Treaty of Lunüville
 1801.3.21 = {
 	owner = ETR
 	controller = ETR

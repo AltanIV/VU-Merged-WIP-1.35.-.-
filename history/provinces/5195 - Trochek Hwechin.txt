@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5195 - Trochek Hwechin
 
 culture = kutchin
 religion = totemism 
-capital = "Tr'och�k" 
+capital = "Tr'ochek" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

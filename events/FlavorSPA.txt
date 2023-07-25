@@ -133,7 +133,7 @@ country_event = {
 			#define_consort = {
 		    #    name = "Fernando"
 			#    age = 17
-			#    dynasty = "de Trast�mara"
+			#    dynasty = "de Trastámara"
 			#    culture = aragonese
 			#    dip = 3
 			#    adm = 3
@@ -259,7 +259,7 @@ country_event = {
 		name = "flavor_spa.EVTOPTA3150"
 		define_advisor = {
 			type = inquisitor
-			name = "Tom�s de Torquemada"
+			name = "Tomás de Torquemada"
 			location = 215 # Castilla La Vieja 
 			discount = yes
 			skill = 1
@@ -666,7 +666,7 @@ country_event = {
 }
 
 
-# Casa de Contrataci�n
+# Casa de Contratación
 country_event = {
 	id = flavor_spa.1003
 	title = "flavor_spa.EVTNAME1003"
@@ -1476,7 +1476,7 @@ country_event = {
 	}
 }
 
-# Jos� Monino
+# José Moñino
 country_event = {
 	id = flavor_spa.3094
 	title = "flavor_spa.EVTNAME3094"
@@ -1513,7 +1513,7 @@ country_event = {
 		}
 		define_advisor = {
 			type = statesman
-			name = "Jos� Monino"
+			name = "José Moñino"
 			#culture = andalusi_culture
 			culture = andalucian
 			discount = yes
@@ -1601,7 +1601,7 @@ country_event = {
 	}
 }
 
-# Tom�s Luis de Victoria
+# Tomás Luis de Victoria
 country_event = {
 	id = flavor_spa.1101
 	title = "flavor_spa.EVTNAME1101"
@@ -1883,7 +1883,7 @@ country_event = {
 	
 	
 
-	option = {		# Allow Sep�lveda's arguments to shape our policies
+	option = {		# Allow Sepúlveda's arguments to shape our policies
 		name = "flavor_spa.2.a"
 		ai_chance = {
 			factor = 15
@@ -2184,7 +2184,7 @@ country_event = {
 	}
 }
 
-# S�lo Madrid es corte
+# Sólo Madrid es corte
 country_event = {
 	id = flavor_spa.6
 	title = "flavor_spa.6.t"
@@ -2358,7 +2358,7 @@ country_event = {
 			}
 			spawn_rebels = {
 				type = nationalist_rebels
-				leader = "Ab�n Umayyad"
+				leader = "Abén Umayyad"
 				friend = GRA
 				size = 2
 				win = yes

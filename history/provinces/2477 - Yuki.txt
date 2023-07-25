@@ -1,4 +1,4 @@
-# No previous file for Yuki
+#2477 - Yuki
 
 culture = hupa
 religion = totemism
@@ -30,7 +30,7 @@ discovered_by = north_american
 	is_city = no
 	trade_goods = unknown
 }
-1565.1.1 = { discovered_by = SPA }	#Andrï¿½s de Urdaneta
+1565.1.1 = { discovered_by = SPA }	#Andrés de Urdaneta
 1779.1.1 = { discovered_by = GBR } # James Cook
 1786.1.1 = { discovered_by = FRA } # Jean Francois la Perouse, Explored Monterrey to Yakutat
 1792.5.12 = { discovered_by = USA } # Robert Gray

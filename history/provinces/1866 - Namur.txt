@@ -1,4 +1,4 @@
-# 1866 - Namur
+#1866 - Namur
 
 latent_trade_goods = {
 	coal
@@ -52,9 +52,9 @@ discovered_by = russian_tech_group
 1583.1.1 = { fort_15th = no fort_16th = yes }
 1635.5.1 = { controller = FRA } # French troops capture parts of the Southern Lowlands
 1648.1.1 = { fort_16th = no fort_17th = yes } 
-1648.1.30 = { controller = SPA } # Peace of Mï¿½nster/Westphalia
+1648.1.30 = { controller = SPA } # Peace of Münster/Westphalia
 1665.9.17 = { add_claim = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
-1667.9.25 = { controller = FRA } # Marï¿½chal captures alot of cities in the region for Louis XIV
+1667.9.25 = { controller = FRA } # Maréchal captures alot of cities in the region for Louis XIV
 1668.5.2 = { controller = SPA } # Peace of Aachen
 1672.5.5 = { controller = FRA } # France blitzes through the Lowlands in the Franco-Dutch War
 1678.9.19 = { controller = SPA } # Peace of Nijmegen (France-Spain)
@@ -64,7 +64,7 @@ discovered_by = russian_tech_group
 1715.9.1 = { remove_claim = FRA } # Louis XIV passes away
 1744.4.1 = { controller = FRA } # France captures Hainaut in the Austrian War of Succession
 1744.7.1 = { controller = HAB } # France withdraws
-1746.10.11 = { controller = FRA } # Marï¿½chal Saxe launches a succesful offensive
+1746.10.11 = { controller = FRA } # Maréchal Saxe launches a succesful offensive
 1748.10.18 = { controller = HAB } # Peace of Aachen
 1789.5.5 = { base_tax = 12 
 base_production = 12 } # The General Estates

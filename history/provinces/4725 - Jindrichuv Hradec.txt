@@ -1,11 +1,11 @@
-#4725 - Tï¿½bor
+#4725 - Tábor
 #Region - Germany
 #Area - Bohemia
 
 owner = BOH
 controller = BOH
 add_core = BOH
-capital = "Tï¿½bor"
+capital = "Tábor"
 culture = czech
 religion = hussite
 trade_goods = lumber	# was gold, much more forest buisness there and gold deposits very scarse

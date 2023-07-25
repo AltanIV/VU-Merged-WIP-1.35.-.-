@@ -30,7 +30,7 @@ discovered_by = north_american
 	is_city = no
 	trade_goods = unknown
 }
-1541.1.1 = { discovered_by = SPA } # Francisco Vï¿½squez de Coronado
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
 1731.1.1 = {
 	owner = SPA
 	controller = SPA

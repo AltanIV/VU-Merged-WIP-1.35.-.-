@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5745 - Okanogan
 
 culture = okanagan
 religion = totemism 
-capital = "Umï¿½k"
+capital = "Umák"
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,7 +15,6 @@ native_hostileness = 3
 discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
-
 
 1811.1.1 = {
 	discovered_by = USA

@@ -1,9 +1,9 @@
-#8195 - Gï¿½mï¿½r
+#8195 - Gömör
 #Area - Upper Hungary
 #Region - Carpathia
 
 #Core Details
-capital = "Gï¿½mï¿½r"
+capital = "Gömör"
 is_city = yes
 owner = HUN
 controller = HUN

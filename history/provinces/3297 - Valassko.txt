@@ -2,7 +2,7 @@
 
 owner = BOH
 controller = BOH
-capital = "Hradiï¿½te"
+capital = "Hradište"
 culture = slovak
 religion = hussite
 trade_goods = cheese

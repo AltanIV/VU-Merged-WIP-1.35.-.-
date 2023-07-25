@@ -36,7 +36,7 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jï¿½lich-Berg
+1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jülich-Berg
 1610.1.1 = { owner = PAL controller = PAL add_core = PAL remove_core = KLE } # Berg is inherited by Pfalsz-Neuenburg
 1777.12.30 = { owner = BAV controller = BAV add_core = BAV remove_core = PAL } # The Palatian Wittelsbachs inherit Bavaria and govern their lands from Munich.
 1795.1.1 = { controller = FRA } # Occupied by French troops

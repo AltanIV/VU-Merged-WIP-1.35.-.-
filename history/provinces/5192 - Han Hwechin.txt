@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5192 - Han Hwechin
 
 culture = kutchin
 religion = totemism 
-capital = "Tthee T��wdlenn" 
+capital = "Han Hwechin" #was Tthee Tewdlenn
 trade_goods = unknown
 hre = no 
 base_tax = 1 

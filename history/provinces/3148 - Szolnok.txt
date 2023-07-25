@@ -49,7 +49,7 @@ discovered_by = ottoman
 	owner = HAB
 	controller = HAB
 	add_core = HAB
-} # Battle of Mohï¿½cs, the end of the independent Kingdom of Hungary
+} # Battle of Mohács, the end of the independent Kingdom of Hungary
 1540.1.1 = { religion = reformed }
 1542.1.1 = { controller = TRA } # Controlled by John II Sigusmund Zapolya
 1545.8.1 = { owner = TRA add_core = TRA remove_core = HAB } # End of Ottoman-Habsburg War

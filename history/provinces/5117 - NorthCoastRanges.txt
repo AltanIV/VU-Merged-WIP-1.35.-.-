@@ -1,3 +1,4 @@
+#5117 - North Coast Ranges
 #Impassable mountains.
 
 discovered_by = north_american
@@ -7,4 +8,4 @@ discovered_by = north_american
 #Discovered with coast. Hard to not notice these when sailing by.
 1741.1.1 = { discovered_by = RUS } # Vitus Bering
 1778.1.1 = { discovered_by = GBR } # James Cook
-1788.1.1 = { discovered_by = SPA } # Esteban Josï¿½ Martï¿½nez and Gonzalo Lï¿½pez de Haro
+1788.1.1 = { discovered_by = SPA } # Esteban José Martínez and Gonzalo López de Haro

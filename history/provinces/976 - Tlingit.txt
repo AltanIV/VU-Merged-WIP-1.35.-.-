@@ -6,7 +6,7 @@ add_core = TGI
 is_city = yes
 culture = tlingit
 religion = totemism
-capital = "Dzï¿½nti K'ihï¿½eni"
+capital = "Dzánti K'ihéeni"
 trade_goods = fish
 hre = no
 base_tax = 1 
@@ -43,6 +43,6 @@ discovered_by = north_american
 
 1741.1.1 = { discovered_by = RUS } # Aleksei Chirikov under Vitus Bering
 1778.1.1 = { discovered_by = GBR } # James Cook
-1788.1.1 = { discovered_by = SPA } # Esteban Josï¿½ Martï¿½nez and Gonzalo Lï¿½pez de Haro
+1788.1.1 = { discovered_by = SPA } # Esteban José Martínez and Gonzalo López de Haro
 
 #Russia only settled south of Sitka later on

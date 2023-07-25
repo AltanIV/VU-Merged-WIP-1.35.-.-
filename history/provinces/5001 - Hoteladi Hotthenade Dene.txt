@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5001 - Hoteladi Hotthenade Dene
 
 culture = chipewyan
 religion = totemism 
-capital = "Hoteladi Hï¿½tthï¿½nï¿½dï¿½ Dï¿½ne" 
+capital = "Hoteladi Hótthënádé Dëne" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

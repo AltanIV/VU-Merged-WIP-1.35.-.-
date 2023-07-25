@@ -1,4 +1,4 @@
-# No previous file for Tkaronto
+#2670 - Tkaronto
 
 latent_trade_goods = {
     oil
@@ -10,8 +10,8 @@ add_core = TAH
 is_city = yes
 culture = huron
 religion = totemism
-capital = "Tahontaenrat"
-trade_goods = tobacco #nearby Petuns were called the Tobacco indians
+capital = "Teiaiagon" #Name unknown now called the Mantle Site located in modern Whitchurch–Stouffville using later Iroquois name Teiaiagon instead
+trade_goods = grain #Maize evidence suggest early pre contact natives grew massive amounts and even traded it with neighbours VANILLA good is tobacco VANILLANOTE nearby Petuns were called the Tobacco indians
 hre = no
 base_tax = 5
 base_production = 6
@@ -28,7 +28,7 @@ add_permanent_province_modifier = {
 
 discovered_by = north_american
 
-1615.1.1 = { discovered_by = FRA } # ï¿½tienne Brï¿½lï¿½
+1615.1.1 = { discovered_by = FRA } # Étienne Brûlé
 1629.1.1 = { discovered_by = ENG }
 
 1649.1.1 = {
@@ -46,7 +46,7 @@ discovered_by = north_american
 	religion = catholic
 } #Great Peace of Montreal, French and allies dominant in this area
 1750.1.1 = {	
-	capital = "Fort Rouillï¿½"
+	capital = "Fort Rouillé"
 }
 1763.2.10 = {
 	owner = GBR

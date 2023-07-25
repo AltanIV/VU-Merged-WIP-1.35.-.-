@@ -1,12 +1,10 @@
-# 1769 - Gï¿½rz
+#1769 - Görz
 #Region - Germany
 #Area - Carniola
 
 owner = GRZ
 controller = GRZ
 add_core = GRZ
-add_core = AQU
-add_core = CNL
 culture = friulian_culture
 religion = catholic
 base_tax = 5
@@ -16,6 +14,9 @@ base_manpower = 4
 capital = "Gorizia"
 is_city = yes
 hre = yes
+
+add_core = AQU
+add_core = CNL
 
 discovered_by = western
 discovered_by = dutch_tech_group
@@ -56,7 +57,7 @@ discovered_by = ottoman
 	owner = HAB
 	controller = HAB
 	add_core = HAB
-	capital = "Gï¿½rz"
+	capital = "Görz"
 }
 1525.5.1 = { unrest = 5 } # Farmer insurrections 
 1526.1.1 = { unrest = 0 }

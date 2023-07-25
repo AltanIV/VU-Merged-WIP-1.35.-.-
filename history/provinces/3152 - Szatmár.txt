@@ -1,11 +1,11 @@
-#3152 - Szatm√°r
+#3152 - Szatm·r
 
 #Default
 owner = HUN
 controller = HUN 
 culture = hungarian
 religion = catholic
-capital = "Nagyk√°roly" #"Szatm√°rn√©meti"
+capital = "Nagyk·roly" #"Szatm·rnÈmeti"
 trade_goods = beer
 hre = no
 base_tax = 2
@@ -55,7 +55,7 @@ discovered_by = ottoman
 	owner = TRA
 	controller = TRA
 	add_core = HAB
-} # Battle of MohÔøΩcs, the end of the independent Kingdom of Hungary
+} # Battle of Moh·cs, the end of the independent Kingdom of Hungary
 1540.1.1 = { religion = reformed }
 1551.7.19 = {
 	owner = HAB

@@ -47,7 +47,7 @@ discovered_by = russian_tech_group
 	controller = FRA
 	add_core = FRA
 	remove_core = PRU
-} # Treaty of Schï¿½nbrunn
+} # Treaty of Schönbrunn
 1806.1.1 = {	owner = BAV
 	controller = BAV
 	add_core = BAV

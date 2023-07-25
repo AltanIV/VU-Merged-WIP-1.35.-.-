@@ -2,6 +2,7 @@
 
 owner = CRO
 controller = CRO
+add_core = CRO
 culture = croatian
 religion = catholic
 capital = "Virovitica"
@@ -11,7 +12,6 @@ base_tax = 2
 base_production = 2 
 base_manpower = 1 
 is_city = yes
-add_core = CRO
 add_core = SLA
 
 #Special Modifiers
@@ -46,7 +46,7 @@ discovered_by = ottoman
 	owner = TUR
 	controller = TUR
 	add_core = TUR
-} # Battle of Mohï¿½cs
+} # Battle of Mohács
 1567.1.1 = { religion = reformed } # Synod of Debrecen
 1604.1.1 = { revolt = { type = noble_rebels size = 1.5 } controller = REB } # The nobility in Royal Hungary rebelled
 1606.1.1 = { revolt = {} controller = TUR }

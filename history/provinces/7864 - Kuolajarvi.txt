@@ -1,4 +1,4 @@
-#7864 - Kuolajarvi
+#7864 - Kuolajärvi
 
 owner = SWE
 controller = SWE
@@ -6,7 +6,7 @@ add_core = SWE
 add_core = SMI
 culture = sapmi
 religion = finnish_pagan_reformed
-capital = "Kuolajï¿½rvi"
+capital = "Kuolajärvi"
 base_tax = 1
 base_production = 1
 base_manpower = 1
@@ -78,7 +78,7 @@ add_province_triggered_modifier = vu_birkarls
 1713.10.6 = { controller = RUS } # The Great Nordic War-Captured by Apraksin
 1721.8.30 = { controller = SWE } # The Peace of Nystad
 1742.10.30 = { controller = RUS } # The War of the Hats-Estimated date
-1743.8.7 = { controller = SWE } # The Peace of ï¿½bo
+1743.8.7 = { controller = SWE } # The Peace of Åbo
 1808.2.21 = { controller = RUS } # Conquered by Friedrich Wilhelm von Buxhoevden
 1809.9.17 = {
 	owner = RUS

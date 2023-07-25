@@ -1,3 +1,5 @@
+#XXX = { "Province Name" "City Name" } - New addition to EUIV
+
 6 = "Skåne"
 10 = "Jämtlands Län"
 12 = "Själland"
@@ -14,7 +16,7 @@
 
 4123 = "Birkaland"
 4141 = "Ditmarsken"
-4152 = "Kajanaland"
+4152 = { "Kajanaland" "Kajaani" }
 
 1306 = "Sankt Tomas"
 1986 = "Nya Kaledonien"

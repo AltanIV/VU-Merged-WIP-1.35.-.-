@@ -45,7 +45,7 @@ discovered_by = russian_tech_group
 1215.6.15 = { owner = ECO controller = ECO add_core = ECO } # Connacht territory - By San Felipe
 
 1291.1.1 = {
-	capital = "Eanach Dhï¿½in"
+	capital = "Eanach Dhúin"
 }
 
 1444.11.11 = { owner = WCO controller = WCO add_core = WCO } # Clanricarde clan territory - By San Felipe

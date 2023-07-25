@@ -47,4 +47,4 @@ discovered_by = north_american
 	remove_core = YYA
 	capital = "Fort Nikolaevskaia" 
 } # Russian settlement founded by Grigori Shelekho
-1788.1.1 = { discovered_by = SPA } # Esteban Josï¿½ Martï¿½nez and Gonzalo Lï¿½pez de Haro
+1788.1.1 = { discovered_by = SPA } # Esteban José Martínez and Gonzalo López de Haro

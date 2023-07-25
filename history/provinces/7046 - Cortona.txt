@@ -48,9 +48,9 @@ discovered_by = russian_tech_group
 	add_core = NAP
 } # taken by Ladislaus
 1411.1.1 = {
-  owner = LAN
-  controller = LAN
-  add_core = LAN
+  owner = CTN
+  controller = CTN
+  add_core = CTN
   remove_core= NAP
 } # sold to the Medici
 1495.1.1 = { hre = no }

@@ -1,7 +1,7 @@
 #8205 - Doboka
 
 #Core Details
-capital = "Dï¿½s"
+capital = "Dés"
 is_city = yes
 owner = TRA
 controller = TRA

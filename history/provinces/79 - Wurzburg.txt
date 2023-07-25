@@ -1,4 +1,4 @@
-#79 - Wï¿½rzburg
+#79 - Würzburg
 #Region - Germany
 #Area - Franconia
 
@@ -12,7 +12,7 @@ base_production = 8
 trade_goods = wine
 base_manpower = 4 
 fort_15th = yes # Marienberg Fortress
-capital = "Wï¿½rzburg"
+capital = "Würzburg"
 is_city = yes
 hre = yes
 center_of_trade = 2

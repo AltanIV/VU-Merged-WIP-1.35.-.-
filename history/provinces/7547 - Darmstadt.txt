@@ -1,9 +1,9 @@
-#6323 - Rï¿½sselsheim
+#7547 - Rüsselsheim
 
 owner = KTZ
 controller = KTZ
 add_core = KTZ
-capital = "Rï¿½sselsheim"
+capital = "Rüsselsheim"
 culture = franconian
 religion = catholic
 trade_goods = gunpowder
@@ -12,7 +12,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 hre = yes
-
 
 discovered_by = eastern
 discovered_by = bohemian_tech_group

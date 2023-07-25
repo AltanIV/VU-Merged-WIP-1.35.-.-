@@ -1,4 +1,4 @@
-#6338 - Altenmuhr
+#7661 - Gremesdorf
 #Region - Germany
 #Area - Franconia
 
@@ -6,7 +6,7 @@ owner = ING
 controller = ING
 add_core = ING
 add_core = DWT
-capital = "Nï¿½rdlingen"
+capital = "Nördlingen"
 is_city = yes
 culture = bavarian
 religion = catholic

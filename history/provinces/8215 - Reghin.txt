@@ -1,6 +1,6 @@
-#8215 - Rï¿½gen
+#8215 - Régen
 
-capital = "Szï¿½szrï¿½gen"
+capital = "Szászrégen"
 is_city = yes
 owner = TRA
 controller = TRA

@@ -1,12 +1,12 @@
-# No previous file for Victorum Universalis province
+#5826 - Taos
 
 owner = ZIA				#Tanoan tag, turning PEU into a formable eventually, following Neprut's lead
 controller = ZIA
-is_city = yes
 add_core = ZIA
+is_city = yes
 culture = pueblo
 religion = totemism 
-capital = "ï¿½alophï¿½ymup'ohï¿½othï¿½olbo"
+capital = "Ìalopháymup'ohéothèolbo"
 trade_goods = bison_hides
 hre = no 
 base_tax = 1 

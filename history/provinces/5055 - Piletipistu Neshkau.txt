@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5055 - Piletipistu Neshkâu
 
-culture = innu					# 
+culture = innu
 religion = totemism 
-capital = "Piletipistu Neshkï¿½u" 				
+capital = "Piletipistu Neshkâu" 				
 trade_goods = unknown
 hre = no 
 base_tax = 1

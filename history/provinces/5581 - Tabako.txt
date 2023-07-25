@@ -1,4 +1,4 @@
-# No previous file - Victorum Universalis new
+#5581 - Tabako
 
 owner = KRN
 controller = KRN
@@ -6,7 +6,7 @@ add_core = KRN
 culture = karina
 is_city = yes
 religion = animism
-capital = "Tabako"
+capital = "Aloubaera"
 trade_goods = sugar 
 hre = no
 base_tax = 1
@@ -79,7 +79,7 @@ discovered_by = south_american
 	add_core = FRA
 	culture = cosmopolitan_french
 	religion = catholic
-	capital = "Trois Riviï¿½res"
+	capital = "Trois-Rivières"
 } # Taken by the French
 1763.12.1 = {
 	discovered_by = GBR

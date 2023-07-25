@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5834 - Yoowetuh
 
 culture = ute_culture
 religion = totemism 
@@ -14,6 +14,5 @@ native_hostileness = 3
 
 discovered_by = north_american
 
-
-#1776.1.1 = { discovered_by = SPA } #Dominguezï¿½Escalante expedition			#Don't think they made it quite this far?
+#1776.1.1 = { discovered_by = SPA } #Dominguez–Escalante expedition			#Don't think they made it quite this far?
 #Fort Duchesne area

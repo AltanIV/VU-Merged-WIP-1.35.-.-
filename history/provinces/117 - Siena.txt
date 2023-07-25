@@ -69,7 +69,7 @@ discovered_by = russian_tech_group
 	owner = FRA
 	controller = FRA
 	add_core = FRA
-} # The Treaty of Lunï¿½ville
+} # The Treaty of Lunéville
 1801.3.21 = {
 	owner = ETR
 	controller = ETR

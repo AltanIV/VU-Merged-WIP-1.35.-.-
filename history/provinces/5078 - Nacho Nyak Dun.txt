@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5078 - Nacho Nyak Dun
 
 culture = tutchone
 religion = totemism 
-capital = "Nï¿½hcho Nyï¿½k" 
+capital = "Náhcho Nyäk" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

@@ -1,7 +1,7 @@
 #8191 - Tolna
 
 #Core Details
-capital = "Szegzï¿½rd"
+capital = "Szegzárd"
 is_city = yes
 owner = HUN
 controller = HUN

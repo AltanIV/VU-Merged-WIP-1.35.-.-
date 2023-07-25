@@ -520,7 +520,7 @@ MAM_missions_2 = {
 					key = MAM_supporting_red_sea_trade
 				}
 			}
-			1331 = {
+			4346 = {
 				add_trade_modifier = {
 					who = ROOT
 					duration = -1
@@ -537,7 +537,7 @@ MAM_missions_2 = {
 		position = 3
 		provinces_to_highlight = {
 			OR = {
-				province_id = 1331
+				province_id = 4346
 				AND = {
 					province_id = 2315
 					NOT = { owned_by = ROOT }
@@ -545,7 +545,7 @@ MAM_missions_2 = {
 			}
 		}
 		trigger = {
-			1331 = {
+			4346 = {
 				trade_share = {
 					country = ROOT
 					share = 10 
@@ -691,7 +691,7 @@ MAM_missions_2 = {
 			}
 		}
 		effect = {
-			1331 = {
+			4346 = {
 				add_trade_modifier = {
 					who = ROOT
 					duration = -1
@@ -729,7 +729,7 @@ MAM_missions_2 = {
 		position = 7
 		provinces_to_highlight = {
 			OR = {
-				area = syria_area
+				#area = syria_area
 				area = aleppo_area
 				area = delta_area
 			}
@@ -741,10 +741,10 @@ MAM_missions_2 = {
 			}
 		}
 		trigger = {
-			syria_area = {
-				owned_by = ROOT
-				has_shipyard_building_trigger = yes
-			}
+			#syria_area = {
+			#	owned_by = ROOT
+			#	has_shipyard_building_trigger = yes
+			#}
 			aleppo_area = {
 				owned_by = ROOT
 				has_shipyard_building_trigger = yes
@@ -1144,10 +1144,10 @@ MAM_missions_3 = {
 		required_missions = { MAM_red_sea_trade }
 		position = 4
 		provinces_to_highlight = {
-			province_id = 1331
+			province_id = 4346
 		}
 		trigger = {
-			1331 = {
+			4346 = {
 				has_most_province_trade_power = ROOT
 			}
 		}

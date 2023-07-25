@@ -1,9 +1,9 @@
-#8186 - Veszprï¿½m
+#8186 - Veszprém
 #Area - Transdanubia
 #Region - Carpathia
 
 #Core Details
-capital = "Veszprï¿½m"
+capital = "Veszprém"
 is_city = yes
 owner = HUN
 controller = HUN

@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5801 - Kwihdichchuhahtx
 
 culture = wakashan
 religion = totemism 
@@ -16,13 +16,12 @@ discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
 
-
 1750.1.1 = { capital = "Waatch" }	#Mudslide destroys the best documented settlement. Might have been larger, but no info obvious at the moment.
 1790.1.1 = {
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	capital = "Nï¿½ï¿½ez Gaona"
+	capital = "Núñez Gaona"
 	is_city = yes
 	trade_goods = naval_supplies
 } # Manuel Quimper's outpost

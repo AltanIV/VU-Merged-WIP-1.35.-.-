@@ -54,7 +54,7 @@ discovered_by = russian_tech_group
   add_core = LAN
   remove_core = NAP
 } # Naples sells Prato to Florence
-1444.11.11 = { owner = PRA controller = PRA add_core = PRA } # Prato territorial lands - By San Felipe
+1444.11.11 = { owner = LAN controller = LAN add_core = LAN } # Prato territorial lands - By San Felipe
 1495.1.1 = { hre = no }
 1527.1.1 = { controller = SPA } # War of the League of Cognac
 1529.8.3 = { controller = LAN } # Treaty of Cambrai

@@ -66,7 +66,7 @@ alliance = {
 	start_date = 1618.5.22
 	end_date = 1629.5.22
 }
-# Denmark-L�neburg
+# Denmark-Lüneburg
 alliance = {
 	first = DAN
 	second = LUN
@@ -234,7 +234,7 @@ alliance = {
 	end_date = 1648.10.24
 }
 
-# First northern war, Treaty of K�nigsberg
+# First northern war, Treaty of Königsberg
 alliance = {
 	first = SWE
 	second = BRA
@@ -329,7 +329,7 @@ royal_marriage = {
 # Vassals #
 ###########
 
-# Swedish vassal, Treaty of K�nigsberg
+# Swedish vassal, Treaty of Königsberg
 vassal = {
 	first = SWE
 	second = BRA

@@ -1,4 +1,4 @@
-#Nï¿½set + the land around the river Neva, incl. Nï¿½teborg, Nyen and St.Petersburg.
+#5646 - Oreshek
 #Region - Russia
 #Area - Ingria
 
@@ -46,10 +46,10 @@ discovered_by = russian_tech_group
 1547.4.16 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }	#Ivan IV (the Terrible) crowned 'Tsar of all Russians'
 1610.1.1 = { culture = russian } # Russian cultural consolidation
 1612.4.10 = { controller = SWE } # The Ingermanian War-Captured by Evert Horn
-1617.2.17 = { owner = SWE add_core = SWE remove_core = RUS capital = "Nï¿½teborg" } # The Peace of Stolbova, Nyenskans fortress built
-1656.8.1 = { controller = RUS } # Russo-Swedish war, Potemkin takes Nyenskans and Nï¿½teborg
+1617.2.17 = { owner = SWE add_core = SWE remove_core = RUS capital = "Nöteborg" } # The Peace of Stolbova, Nyenskans fortress built
+1656.8.1 = { controller = RUS } # Russo-Swedish war, Potemkin takes Nyenskans and Nöteborg
 1658.8.1 = { controller = SWE } # Russo-Swedish war, retaken by Gustav Horn
-1702.10.22 = { controller = RUS } # Siege of Nï¿½teborg
+1702.10.22 = { controller = RUS } # Siege of Nöteborg
 1703.5.27 = {
 	owner = RUS
 	add_core = RUS

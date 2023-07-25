@@ -63,13 +63,13 @@ extra_cost = 15
 #1495.1.1 = { hre = no }	#Shadow Kingdom. Vanilla calls Northern Italy out of the HRE by 1500, VU is going with 1648, when the Peace of Westphalia definitively ended HRE influence in Italy.
 1536.4.1 = { controller = FRA } 
 1538.6.17 = { owner = FRA } # Treaty of Nice
-1559.1.1 = { owner = SAV controller = SAV remove_core = FRA }	#Peace of Cateau-Cambrï¿½sis
+1559.1.1 = { owner = SAV controller = SAV remove_core = FRA }	#Peace of Cateau-Cambrésis
 1563.1.1 = {
 	base_tax = 10
 	base_production = 10
 	base_manpower = 8
 	fort_16th = yes
-}	#Duke Emmanuel Philibert moved his capital to Turin in 1563, and, consequently, Chambï¿½ry declined. The first priority was also fortifying Turin, which was accomplished to great effect as well. The Holy Shroud was also moved from Chambï¿½ry in 1578.
+}	#Duke Emmanuel Philibert moved his capital to Turin in 1563, and, consequently, Chambéry declined. The first priority was also fortifying Turin, which was accomplished to great effect as well. The Holy Shroud was also moved from Chambéry in 1578.
 1620.1.1 = {
 	base_tax = 12
 	base_production = 12

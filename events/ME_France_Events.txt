@@ -67,7 +67,7 @@ country_event = {
 	}
 }
 
-#Ch�teau of the Loire Valley
+#Château of the Loire Valley
 country_event = {
 	id = ME_France_Events.5
 	title = ME_France_Events.5.T

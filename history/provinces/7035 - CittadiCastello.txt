@@ -1,4 +1,4 @@
-#7035 - CittadiCastello
+#7035 - Città di Castello
 
 #Default
 owner = CDC
@@ -6,7 +6,7 @@ controller = CDC
 add_core = CDC
 culture = umbrian
 religion = catholic
-capital = "Cittï¿½ di Castello"
+capital = "Città di Castello"
 base_tax = 5
 base_production = 5
 base_manpower = 4
@@ -56,7 +56,6 @@ discovered_by = russian_tech_group
 	add_core = CDC
 } #Return to proper mod added owners and cuts vanilla core, typically.
 1495.1.1 = { hre = no }
-
 1502.1.1  = { 
 	owner = RMG
 	controller = RMG

@@ -315,7 +315,7 @@ province;red;green;blue;x;x
 314;44;148;255;Ustyug;x
 315;173;150;0;Finnmark;x
 316;45;152;64;Kocaeli;x
-317;173;154;128;Hï¿½davendigar;x
+317;173;154;128;Hüdavendigar;x
 318;45;156;192;Sugla;x
 319;173;158;255;Mentese;x
 320;45;32;0;Rhodes;x
@@ -825,7 +825,7 @@ province;red;green;blue;x;x
 824;117;144;255;Mariquita;x
 825;245;146;0;Bogota;x
 826;118;148;64;Choco;x
-827;246;150;128;Antioquï¿½a;x
+827;246;150;128;Antioquía;x
 828;118;152;192;Cartagena;x
 829;246;154;255;Magdalena;x
 830;118;156;0;Maracaibo;x
@@ -840,7 +840,7 @@ province;red;green;blue;x;x
 839;128;42;79;Pipil;x
 840;0;44;126;Honduras;x
 841;129;46;173;Guatemala;x
-842;1;48;32;Petï¿½n;x
+842;1;48;32;Petén;x
 843;129;50;79;Belize;x
 844;1;52;126;Zapotec;x
 845;129;54;173;Campeche;x
@@ -1879,7 +1879,7 @@ province;red;green;blue;x;x
 1878;214;86;173;Aachen;x
 1879;86;88;32;Alencon;x
 1880;214;90;79;Sundgau;x
-1881;213;74;79;St. Barthï¿½lemy;x
+1881;213;74;79;St. Barthélemy;x
 1882;214;94;173;Bône;x
 1883;0;0;232;Western Finish lakes;x
 1884;1;0;236;East Finish lakes;x
@@ -2951,7 +2951,7 @@ province;red;green;blue;x;x
 2950;32;218;173;Buhera;x
 2951;236;57;116;Manikya;x
 2952;236;220;116;Madanda;x
-2953;236;222;116;Hjï¿½lmaren;x
+2953;236;222;116;Hjälmaren;x
 2954;29;59;159;Djerba;x
 2955;107;121;191;Ingolstadt;x
 2956;224;134;54;Straubing;x
@@ -3117,7 +3117,7 @@ province;red;green;blue;x;x
 3116;38;160;57;Eastbourne;x
 3117;163;153;219;Oppland;x
 3118;252;112;18;Romsdal;x
-3119;252;152;242;Tromsï¿½;x
+3119;252;152;242;Tromsø;x
 3120;244;85;32;Kronoberg;x
 3121;241;182;1;Kalmar;x
 3122;131;88;201;Södermanland;x
@@ -4112,7 +4112,7 @@ province;red;green;blue;x;x
 4111;119;212;150;Saintonge;x
 4112;157;124;213;Aurilac;x
 4113;103;160;108;Uleaborg;x
-4114;145;85;134;Luleï¿½;x
+4114;145;85;134;Luleå;x
 4115;156;39;189;Mazyr;x
 4116;119;162;166;Belyov;x
 4117;205;163;151;Bezhetsk;x
@@ -4709,7 +4709,7 @@ province;red;green;blue;x;x
 4708;136;148;128;Freising;x
 4709;71;104;32;Passau;x
 4710;48;231;108;Bregenz;x
-4711;226;210;106;Donauwï¿½rth;x
+4711;226;210;106;Donauwörth;x
 4712;27;146;0;Konstanz;x
 4713;185;110;79;Urach;x
 4714;139;150;128;Durlach;x
@@ -4743,7 +4743,7 @@ province;red;green;blue;x;x
 4742;24;36;126;Nordhausen;x
 4743;70;32;26;Weimar;x
 4744;35;63;199;Zwickau;x
-4745;86;194;97;Rï¿½gen;x
+4745;86;194;97;Rügen;x
 4746;213;132;0;Wolgast;x
 4747;111;118;8;Dramburg;x
 4748;170;79;248;Brandenburg;x
@@ -4771,12 +4771,12 @@ province;red;green;blue;x;x
 4770;181;160;75;s-Hertogenbosch;x
 4771;52;36;48;Verden;x
 4772;228;189;115;Celle;x
-4773;70;135;54;Gï¿½ttingen;x
+4773;70;135;54;Göttingen;x
 4774;175;138;37;Fulda;x
 4775;199;14;89;Bielefeld;x
 4776;177;186;20;Blois;x
 4777;202;126;16;Forez;x
-4778;32;31;94;Gï¿½rlitz;x
+4778;32;31;94;Görlitz;x
 4779;124;10;162;Gallipoli;x
 4780;25;224;138;Ohrid;x
 4781;197;9;45;Transvaal;x
@@ -7605,7 +7605,7 @@ province;red;green;blue;x;x
 7604;39;101;84;Offenbach;
 7605;46;149;62;Engen;
 7606;232;226;107;Dornstadt;
-7607;67;77;114;Hjï¿½rring;
+7607;67;77;114;Hjørring;
 7608;130;106;6;Samso;
 7609;167;44;228;Nordsjaelland;
 7610;229;45;103;Sydsjaelland;

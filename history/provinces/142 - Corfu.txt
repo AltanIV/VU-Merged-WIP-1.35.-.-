@@ -16,6 +16,7 @@ is_city = yes
 center_of_trade = 2
 
 #Claimants
+add_core = EPI
 
 #Buildings
 fort_15th = yes
@@ -55,7 +56,7 @@ discovered_by = swiss_tech_group
 	owner = VEN 
 	controller = VEN
 }
-1444.11.11 = { owner = CEP controller = CEP add_core = CEP } # Corfu territorial lands - By San Felipe
+#1444.11.11 = { owner = CEP controller = CEP add_core = CEP } # Corfu territorial lands - By San Felipe
 1610.1.1 = { unrest = 7 } # Exploatation by the nobles, several minor revolts
 1650.1.1 = { unrest = 0 }
 1750.1.1 = { add_core = GRE }

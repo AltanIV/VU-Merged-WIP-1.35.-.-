@@ -3,7 +3,7 @@
 #Region - Carpathia
 
 #Core Details
-capital = "Mï¿½ramarossziget"
+capital = "Máramarossziget"
 is_city = yes
 owner = HUN
 controller = HUN

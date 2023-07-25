@@ -1,9 +1,9 @@
-#8202 - Csanï¿½d
+#8202 - Csanád
 #Area - East Alfold
 #Region - Carpathia
 
 #Core Details
-capital = "Csanï¿½d"
+capital = "Csanád"
 is_city = yes
 owner = HUN
 controller = HUN

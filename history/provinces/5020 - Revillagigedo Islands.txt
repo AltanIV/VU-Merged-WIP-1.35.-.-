@@ -1,6 +1,6 @@
-# No previous file for Victorum Universalis province
+#5020 - Revillagigedo Islands
 
-capital = "San Tomï¿½s"
+capital = "San Tomãs"
 culture = piman
 religion = animism
 trade_goods = unknown

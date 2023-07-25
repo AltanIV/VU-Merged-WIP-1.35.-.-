@@ -1,4 +1,4 @@
-#6301 - Gï¿½tersloh
+#7524 - Gütersloh
 #Region - Germany
 #Area - North Rhine
 
@@ -12,7 +12,7 @@ add_core = TCK
 culture = hannoverian
 religion = catholic
 trade_goods = iron
-capital = "Gï¿½tersloh"
+capital = "Gütersloh"
 base_tax = 3
 base_production = 2
 base_manpower = 2 

@@ -1,7 +1,7 @@
-#8196 - Aba�j
+#8196 - Abuaj
 
 #Core Details
-capital = "G�nc"
+capital = "Kassa"
 is_city = yes
 owner = HUN
 controller = HUN

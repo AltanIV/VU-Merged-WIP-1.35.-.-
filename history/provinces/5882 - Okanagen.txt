@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5882 - Okanagen
 
 culture = okanagan
 religion = totemism 
-capital = "Ukwnaqï¿½n"
+capital = "Ukwnaqín"
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -13,6 +13,5 @@ native_ferocity = 1
 native_hostileness = 3 
 
 discovered_by = north_american
-
 
 #Province History

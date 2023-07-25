@@ -1,4 +1,4 @@
-#2463 - Kasdir
+#2463 - Maaskar
 
 #Default
 owner = TLC
@@ -6,7 +6,7 @@ controller = TLC
 add_core = TLC
 culture = algerian
 religion = sunni
-capital = "Naï¿½ma"			#Kasdir in vanilla, which is probably a better option objectively, but information is sparse and Naama is more important later.
+capital = "Naâma"			#Kasdir in vanilla, which is probably a better option objectively, but information is sparse and Naama is more important later.
 trade_goods = silver
 hre = no
 base_tax = 1  

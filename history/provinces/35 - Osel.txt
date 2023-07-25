@@ -1,4 +1,4 @@
-#ï¿½sel and Dagï¿½, incl. Sonnenburg and Arensburg.
+#Ösel and Dagö, incl. Sonnenburg and Arensburg.
 #Region - Baltic
 #Area - Estonia
 
@@ -68,7 +68,7 @@ discovered_by = russian_tech_group
 	controller = SWE
 	add_core = SWE
 	remove_core = DAN
-} # The Peace of Brï¿½msebro
+} # The Peace of Brömsebro
 1710.9.20 = { controller = RUS }
 1721.8.30 = {
 	owner = RUS

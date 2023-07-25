@@ -72,7 +72,7 @@ discovered_by = ottoman
 	controller = TFL
 	add_core = TFL
 	remove_core = POR
-}	#Quickly, the Portuguese were exposed to the hostility of the tribes of the region. From 1530, they were blockaded in Santa Cruz. Portuguese weakness showed itself on 12 March 1541 when Sherif Sa�dien Mohammed ash-Sheikh captured the fortress of Santa Cruz de Aguer.
+}	#Quickly, the Portuguese were exposed to the hostility of the tribes of the region. From 1530, they were blockaded in Santa Cruz. Portuguese weakness showed itself on 12 March 1541 when Sherif Sa'dien Mohammed ash-Sheikh captured the fortress of Santa Cruz de Aguer.
 
 1549.1.1 = {
 	owner = MOR

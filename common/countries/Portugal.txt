@@ -130,8 +130,8 @@ leader_names = {
 ship_names = {
 	Activo "Afonso de Albuquerque" Águia Albacora "Almas Santas" Amazona Andorinha António Arpão Bazana Belém Benjamin Boaventura "Bom Jesus de Mazagão"
 	"Cabo de São Vicente" Calipso Capitania Chagas "Cinco Chagas" Colombo "Conde Dom Henrique" "Condessa de Resende" "Coração de Jesus" Coroa "Corte Real"
-	Curiosa Damão Dão Delfim Diana Diligente "Diogo Cão" "Dom João VI" "Don João Sexto" "Dona Maria II" Douro "Duquesa de Bragança" Espadarte Falcão Fénix
-	"Fénix Constitucional" Fereta "Flor de la Mar" Furão Gaivota Galgo Garça Garota Giavota Golfinho "Graça Divina" Guadiana "Infante Don Pedro" "Jesus da Ajuda"
+	Curiosa Damão Dão Delfim Diana Diligente "Diogo Cão" "Dom João VI" "Dom João Sexto" "Dona Maria II" Douro "Duquesa de Bragança" Espadarte Falcão Fénix
+	"Fénix Constitucional" Fereta "Flor de la Mar" Furão Gaivota Galgo Garça Garota Giavota Golfinho "Graça Divina" Guadiana "Infante Dom Pedro" "Jesus da Ajuda"
 	Lebre Leio Liz "Lobo Soares" Luanda "Madre de Deus" Magnânimo "Maria I" "Martim de Freitas" Medusa Minerva "Monte du Ouro" Neptuno Ninfa "N. Sra. Belém"
 	"N. Sra. da Ajuda" "N. Sra. da Ajuda e São Fransisco" "N. Sra. da Ajuda e São Pedro" "N. Sra. da Arribada" "N. Sra. da Assunção" "N. Sra. da Atalaia"
 	"N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Caridade" "N. Sra. da Caridade e São Fransisco" "N. Sra. da Conceicao"

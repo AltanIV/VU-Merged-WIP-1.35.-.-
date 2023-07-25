@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#4949 - Nlaka'pamux
 
 culture = okanagan			#Both Thompson River and Okanogan here... Okanogan looks better.
 religion = totemism 
-capital = "Metxwï¿½" 
+capital = "Metxwú" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

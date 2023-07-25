@@ -1,8 +1,10 @@
+#4711 - Donauwoerth
+
 owner = OET
 controller = OET
 add_core = OET
 add_core = DWT
-capital = "Nï¿½rdlingen"
+capital = "Nördlingen"
 is_city = yes
 culture = bavarian
 religion = catholic

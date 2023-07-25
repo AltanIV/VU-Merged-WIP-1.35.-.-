@@ -1,12 +1,12 @@
-# No previous file for Victorum Universalis province
+#5057 - Nanikana
 
 add_core = WCR
 owner = WCR
 controller = WCR
 is_city = yes
-culture = cree					# 
+culture = cree
 religion = totemism 
-capital = "Wï¿½swï¿½nipï¿½" 		
+capital = "Wâswânipî" 		
 trade_goods = fur		
 hre = no 
 base_tax = 1

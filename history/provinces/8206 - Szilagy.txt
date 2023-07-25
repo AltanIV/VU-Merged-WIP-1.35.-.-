@@ -1,7 +1,7 @@
-#8206 - Szilï¿½gy
+#8206 - Szilágy
 
 #Core Details
-capital = "Szilï¿½gysomlyï¿½"
+capital = "Szilágysomlyó"
 is_city = yes
 owner = TRA
 controller = TRA

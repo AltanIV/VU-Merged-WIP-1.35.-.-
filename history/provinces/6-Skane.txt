@@ -1,4 +1,4 @@
-#Skï¿½ne
+#Skåne
 #Region - Scandinavia
 #Area - Skaneland
 
@@ -11,9 +11,9 @@ hre = no
 base_tax = 4
 base_production = 5
 #trade_goods = grain
-trade_goods = fish #The Great Herring Market of Skï¿½ne
+trade_goods = fish #The Great Herring Market of Skåne
 base_manpower = 3
-capital = "Malmï¿½"
+capital = "Malmö"
 is_city = yes
 center_of_trade = 1
 
@@ -63,8 +63,8 @@ discovered_by = ottoman
 #2nd Performance Start Unused
 
 #1444 on
-1525.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sï¿½ren Norrby)
-1525.5.10 = { revolt = {} controller = DAN } # Sï¿½ren Norrby is defeated
+1525.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
+1525.5.10 = { revolt = {} controller = DAN } # Sören Norrby is defeated
 1534.8.15 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
 1536.3.15 = { revolt = {} controller = DAN } # Liberated by Sweden
 1536.3.15 = { religion = protestant} # Unknown date

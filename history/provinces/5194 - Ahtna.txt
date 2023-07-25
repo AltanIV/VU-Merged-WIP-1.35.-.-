@@ -2,7 +2,7 @@
 
 culture = denaina
 religion = totemism 
-capital = "Tsedi Na�" 
+capital = "Tsedi Na'" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

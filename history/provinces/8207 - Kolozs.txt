@@ -3,7 +3,7 @@
 #Region - Carpathia
 
 #Core Details
-capital = "Kolozsvï¿½r"
+capital = "Kolozsvár"
 is_city = yes
 owner = TRA
 controller = TRA

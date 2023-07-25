@@ -13,9 +13,10 @@ base_tax = 1
 base_production = 1 
 trade_goods = cloth
 base_manpower = 1 
-capital = "Old Perona"			#Vana-Pï¿½rnu, or DE Alt-Pernau
+capital = "Vana-Pärnu"			#Was Old Perona but I changed it because why would it be in English? Other alts can be, Vana-Pärnu, or DE Alt-Pernau - By San Felipe
 is_city = yes
 center_of_trade = 1
+
 1444.1.1 = { discovered_by = KAZ } 1444.1.1 = { discovered_by = CRI } 1444.1.1 = { discovered_by = GOL } 1444.1.1 = { discovered_by = AST } 1444.1.1 = { discovered_by = QAS } 
 discovered_by = western
 discovered_by = dutch_tech_group

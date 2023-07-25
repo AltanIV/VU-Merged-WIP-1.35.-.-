@@ -15,7 +15,7 @@ religion = catholic
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = beer #The Den Hoorn brewery in Leuven was opened in 1366 when it was a tavern brewing its own beer for sale to hunters under the sign of a hunting horn. In 1708, Sï¿½bastien Artois became head brewer; then, in 1717, purchased the brewery, renaming it Brouwerij Artois. By San Felipe
+trade_goods = beer #The Den Hoorn brewery in Leuven was opened in 1366 when it was a tavern brewing its own beer for sale to hunters under the sign of a hunting horn. In 1708, Sébastien Artois became head brewer; then, in 1717, purchased the brewery, renaming it Brouwerij Artois. By San Felipe
 base_manpower = 3
 
 #Claimants
@@ -77,7 +77,7 @@ discovered_by = russian_tech_group
 #End of new history by Darth Modus, back to vanilla
 
 1635.5.1 = { controller = FRA } # French troops capture parts of the Southern Lowlands
-1648.1.30 = { controller = SPA } # Peace of Mï¿½nster/Westphalia
+1648.1.30 = { controller = SPA } # Peace of Münster/Westphalia
 1650.1.1 = { add_core = FRA } # Chambers of Reunion
 1658.6.14 = { controller = FRA } # French troops capture most of the area
 1659.10.28 = { owner = FRA remove_core = SPA } # Peace of the Pyrenees

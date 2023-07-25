@@ -39,12 +39,12 @@ discovered_by = north_american
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	capital = "Santa Bï¿½rbara"
+	capital = "Santa Bárbara"
 	is_city = yes
 	culture = castillian
 	religion = catholic	
 	trade_goods = grain
-} # El Presidio Real de Santa Bï¿½rbara
+} # El Presidio Real de Santa Bárbara
 1810.9.16 = {
 	owner = MEX
 	add_core = MEX

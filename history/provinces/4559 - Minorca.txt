@@ -53,8 +53,8 @@ discovered_by = ottoman
 
 1444.11.11 = { owner = ARA controller = ARA add_core = ARA } # Aragonese territorial lands - By San Felipe
 
-1462.1.1 = { unrest = 2 } # Remenï¿½a peasant revolt, in parallel with the Catalan civil war.
-1472.1.1 = { unrest = 0 } # End of the First Remenï¿½a revolt
+1462.1.1 = { unrest = 2 } # Remença peasant revolt, in parallel with the Catalan civil war.
+1472.1.1 = { unrest = 0 } # End of the First Remença revolt
 1516.1.23 = {
 	controller = SPA
 	owner = SPA
@@ -78,7 +78,7 @@ discovered_by = ottoman
 1782.1.5 = {
 	controller = SPA
 	add_core = SPA
-	capital = "Mahï¿½n"
+	capital = "Mahôn"
 }# Invasion of Menorca during American Revolutionary War
 1783.9.3 = {
 	owner = SPA

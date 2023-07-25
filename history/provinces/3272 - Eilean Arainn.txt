@@ -2,6 +2,7 @@
 
 owner = LOI
 controller = LOI
+add_core = LOI
 culture = highland_scottish
 religion = catholic
 hre = no
@@ -9,10 +10,9 @@ base_tax = 1
 base_production = 1
 trade_goods = fish
 base_manpower = 1
-capital = "Eadar Dhï¿½ Rubha"
+capital = "Eadar Dhà Thòb"
 is_city = yes
 
-add_core = LOI
 add_core = SCO
 
 discovered_by = western

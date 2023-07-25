@@ -1,4 +1,4 @@
-#141 - Serbia/�umadija
+#141 - Serbia
 
 owner = SER
 controller = SER

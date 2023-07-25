@@ -4,7 +4,8 @@
 
 owner = TEU
 controller = TEU
-capital = "Stallupï¿½nen"
+add_core = TEU
+capital = "Stallupönen"
 culture = yotvingian_culture
 religion = catholic
 trade_goods = naval_supplies
@@ -13,8 +14,8 @@ base_tax = 1
 base_production = 1 
 base_manpower = 1 
 is_city = yes
-add_core = TEU
 center_of_trade = 1
+
 discovered_by = western
 discovered_by = dutch_tech_group
 discovered_by = english_tech_group

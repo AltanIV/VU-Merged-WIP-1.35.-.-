@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5846 - Basawaxaawuua
 
 culture = crow_culture
 religion = totemism 
-capital = "Iisaxpï¿½atahchee Isawaxaawï¿½ua" 
+capital = "Iisaxpúatahchee Isawaxaawúua" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

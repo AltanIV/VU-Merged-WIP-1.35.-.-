@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5808 - Skagit
 
 culture = salish
 religion = totemism 
-capital = "Kwï¿½be"			#Cocrete would seem the best candidate, but little evidence of native settlement. Newhalem also seems feasible, but only etymology found is an asinine story about a goat. History seems poor here in general, as I'm also finding no good non-anglicised spelling for Skagit. Going with Mount Baker for lack of better options.
+capital = "Kwúbe"			#Cocrete would seem the best candidate, but little evidence of native settlement. Newhalem also seems feasible, but only etymology found is an asinine story about a goat. History seems poor here in general, as I'm also finding no good non-anglicised spelling for Skagit. Going with Mount Baker for lack of better options.
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,7 +15,6 @@ native_hostileness = 3
 discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
-
 
 1444.11.12 = { #VictorumUniversalis batch edit shortcut native start date begin
 	owner = SAL

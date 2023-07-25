@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#4630 - Natahende
 
 culture = pueblo
 religion = totemism 
-capital = "Abï¿½" 
+capital = "Abó" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

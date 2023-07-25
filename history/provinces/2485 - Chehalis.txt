@@ -1,8 +1,8 @@
-# No previous file for Chehalis
+#2485 - Chehalis
 
 culture = salish
 religion = totemism
-capital = "Spuyalepabï¿½"
+capital = "Spuyalepabš"
 trade_goods = unknown
 hre = no
 base_tax = 1

@@ -1,11 +1,11 @@
-#7519 - Coppenbrï¿½gge
+#7519 - Coppenbrügge
 
 owner = COP
 controller = COP
 add_core = COP
 culture = eastphalian
 religion = catholic
-capital = "Coppenbrï¿½gge"
+capital = "Coppenbrügge"
 trade_goods = beer
 hre = yes
 base_tax = 1

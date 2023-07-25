@@ -67,7 +67,7 @@ discovered_by = ottoman
 	controller = ITL
 	add_core = ITL
 	remove_core = BAV
-} # Incorporated into the Kingdom of Italy after the treaty of Schï¿½nbrunn
+} # Incorporated into the Kingdom of Italy after the treaty of Schönbrunn
 1814.4.11 = {	owner = HAB
 	controller = HAB
 	add_core = HAB

@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#4634 - Tsékaadn
 
 culture = navajo
 religion = totemism 
-capital = "Dilzhï¿½'ï¿½" 
+capital = "Dilzhé'é" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

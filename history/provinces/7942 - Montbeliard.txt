@@ -1,11 +1,11 @@
-#7942 - Montbeliard
+#7942 - Montbéliard
 
 owner = BUR
 controller = BUR
 add_core = BUR
 culture = burgundian
 religion = catholic
-capital = "Montbï¿½liard"
+capital = "Montbéliard"
 base_tax = 4
 base_production = 4
 base_manpower = 2

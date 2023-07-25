@@ -155,6 +155,8 @@ theodoro_missions_column_3 = {
 				province_id = 285
 				province_id = 2447
 				province_id = 286
+				province_id = 7190
+				province_id = 3245
 			}
 			NOT = { owned_by = ROOT }
 		}
@@ -166,6 +168,12 @@ theodoro_missions_column_3 = {
 				owned_by = ROOT
 			}
 			286 = {
+				owned_by = ROOT
+			}
+			7190 = {
+				owned_by = ROOT
+			}
+			3245 = {
 				owned_by = ROOT
 			}
 		}

@@ -60,9 +60,6 @@ discovered_by = russian_tech_group
 
 #Histories
 1215.6.15 = { owner = AMD controller = AMD add_core = AMD } # Alhomad territorial lands - By San Felipe
-
-1444.11.11 = { owner = MOR controller = MOR add_core = MOR } # Moroccan territorial lands - By San Felipe
-
 #1415.8.21 = { controller = POR add_core = POR }
 1415.9.1 = { controller = POR add_core = POR owner = POR capital = Ceuta }
 1500.1.1 = { religion = catholic }

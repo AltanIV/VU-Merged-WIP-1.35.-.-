@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5395 - Nûkhoen 
 
 culture = kama_culture
 religion = shamanism 
-capital = "Nï¿½khoen" 
+capital = "Nûkhoen" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5813 - Kumsheen
 
 culture = shuswap
 religion = totemism 
-capital = "K'q'emcï¿½n" 			#Lytton
+capital = "K'q'emcín" 			#Lytton
 trade_goods = unknown
 hre = no 
 base_tax = 2			#Imperfect borders here, as the province includes core-ish territory from 3 different groups (Stolo, Lillooet, and Okanogan), but I decided on this compromise for a variety of reasons. Anyhow, between the 3 groups, population would have been rather high for the New World.

@@ -1,4 +1,4 @@
-#Sanggau, previously Putussibau
+#8546 - Sanggau
 
 owner = SGG
 controller = SGG

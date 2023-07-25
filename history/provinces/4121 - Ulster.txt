@@ -79,7 +79,7 @@ discovered_by = russian_tech_group
 	remove_core = ANR
 	religion = catholic 
 	culture = irish
-	capital = "Bï¿½al Feirste"
+	capital = "Béal Feirste"
 } # Catholic Remonstrance signed, Beginning of Confederate Ireland. Still de jure under Charles I, it was effectively an independant polity for the duration of the revolt. How to handle this? personal union? revolt? might return and figure this out later.
 #This Rebellion was initially led by Sir Phelim O'Neill, and was intended to overthrow British rule rapidly, but quickly degenerated into attacks on colonists, in which dispossessed Irish slaughtered thousands of the colonists.
 

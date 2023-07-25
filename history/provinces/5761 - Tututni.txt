@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5761 - Tututni
 
 culture = umpqua
 religion = totemism 
-capital = "Yanshuuchitï¿½dvn" 			#Unknown meaning, probably colonial influenced
+capital = "Yanshuuchit’dvn" 			#Unknown meaning, probably colonial influenced
 trade_goods = unknown
 hre = no 
 base_tax = 1 

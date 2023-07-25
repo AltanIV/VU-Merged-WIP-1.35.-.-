@@ -8,12 +8,9 @@ religion = catholic
 capital = 3014	# Mayo
 fixed_capital = 3014
 
-#Formerly a Mayo Burke tag, but Darth Modus changed it to a � Flaithbheartaigh tag based on HR idea.
-#Reverted back to a Mayo Burke tag with the addition of WCO (West Connacht) localised as Connemara based out of Annaghdown
-
 1440.1.1 = {
 	monarch = {
-		name = "Edmund na F�as�ige"
+		name = "Edmund na Féasóige"
 		dynasty = "Burke"
 		adm = 1
 		dip = 3

@@ -1,4 +1,4 @@
-#6385 - ï¿½berlingen
+#7586 - Überlingen
 #Region - Germany
 #Area - Upper Swabia
 
@@ -6,7 +6,7 @@ culture = swabian
 owner = KNZ
 controller = KNZ
 add_core = KNZ
-capital = "ï¿½berlingen"
+capital = "Überlingen"
 religion = catholic
 trade_goods = fish
 base_tax = 3

@@ -1,4 +1,4 @@
-#5079 - Tage Cho Hudan
+#5079 - Tagé Cho Hudän
 
 owner = YZA			#Tutchone
 controller = YZA
@@ -6,7 +6,7 @@ add_core = YZA
 is_city = yes
 culture = tutchone
 religion = totemism 
-capital = "Tagï¿½ Cho" 
+capital = "Tagé Cho" 
 trade_goods = fur
 hre = no 
 base_tax = 1 

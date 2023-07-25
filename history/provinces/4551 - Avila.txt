@@ -1,4 +1,4 @@
-#3298 - ï¿½vila
+#3298 - Ávila
 
 owner = CAS		#Juan II of Castille
 controller = CAS
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 3 
 trade_goods = pottery 
 base_manpower = 2 
-capital = "ï¿½vila"
+capital = "Ávila"
 is_city = yes
 
 discovered_by = western
@@ -36,7 +36,7 @@ discovered_by = russian_tech_group
 1464.5.1 = { unrest = 3 } # Nobiliary uprising against King Enrique, Castilla goes into anarchy
 1468.9.18 = { unrest = 0 } # Pactos de los Toros de Guisando. Isabel of Castille becomes heir to the throne and a temporary peace is achieved
 1470.1.1 = { unrest = 3 } # Isabel marries with Fernando of Aragon, breaking the Pacts of Guisando. King Enrique choses his daughter Juana ("La Beltraneja") as new heiress and a succession War erupts.
-1479.9.4 = { unrest = 0 } # Peace of Alcaï¿½ovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
+1479.9.4 = { unrest = 0 } # Peace of Alcáçovas, between Queen Isabel and King Alfonso of Portugal who had entered the war supporting her wife Juana
 1516.1.23 = {
 	controller = SPA
 	owner = SPA

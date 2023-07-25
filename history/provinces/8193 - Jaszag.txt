@@ -1,7 +1,7 @@
-#8193 - Jï¿½szsï¿½g
+#8193 - Jászság
 
 #Core Details
-capital = "Jï¿½szberï¿½ny"
+capital = "Jászberény"
 is_city = yes
 owner = HUN
 controller = HUN

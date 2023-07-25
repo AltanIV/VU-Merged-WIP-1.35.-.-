@@ -35,7 +35,7 @@ discovered_by = russian_tech_group
 
 #Histories
 1291.1.1 = {
-	capital = "An Caisleï¿½n Riabhach"
+	capital = "An Caisleán Riabhach"
 }
 1567.1.1 = {
 	owner = ANI

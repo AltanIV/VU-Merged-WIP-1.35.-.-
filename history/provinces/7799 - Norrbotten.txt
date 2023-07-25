@@ -3,7 +3,7 @@
 culture = sapmi
 add_core = SMI
 religion = finnish_pagan_reformed
-capital = "Luleï¿½"
+capital = "Luleå"
 base_tax = 1
 base_production = 1
 base_manpower = 1
@@ -14,6 +14,7 @@ native_hostileness = 1
 native_size = 3
 native_ferocity = 2
 center_of_trade = 1
+
 discovered_by = western
 discovered_by = dutch_tech_group
 discovered_by = english_tech_group

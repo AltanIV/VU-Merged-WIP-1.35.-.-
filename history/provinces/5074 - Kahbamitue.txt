@@ -1,8 +1,7 @@
-# No previous file for Victorum Universalis province
-
+#5074 - Kahbamitue
 culture = sahtu
 religion = totemism 
-capital = "K'ï¿½hbamï¿½tï¿½ï¿½"
+capital = "K'áhbamítúé"
 trade_goods = unknown
 hre = no 
 base_tax = 1 

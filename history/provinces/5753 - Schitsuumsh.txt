@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5753 - Schitsuumsh
 
 culture = interior_salish
 religion = totemism 
@@ -16,10 +16,9 @@ discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
 
-
 1811.1.1 = {
 	discovered_by = GBR
 	discovered_by = USA
 } #David Thompson and David Stuart at around the same time.
 #Father DeSmet arrived in 1842, Jesuit mission near St. Maries founded shortly thereafter, then moved to the new Mission of the Sacred Heart (Cataldo Mission) by 1853.
-#Fort Coeur d�Alene founded in the late 18th century
+#Fort Coeur d'Alene founded in the late 18th century

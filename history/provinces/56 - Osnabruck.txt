@@ -1,10 +1,10 @@
-#56 - Osnabrï¿½ck
+#56 - Osnabrück
 
 owner = OSN
 controller = OSN
 culture = lower_saxon
 religion = catholic
-capital = "Osnabrï¿½ck"
+capital = "Osnabrück"
 trade_goods = fruit
 hre = yes
 base_tax = 6

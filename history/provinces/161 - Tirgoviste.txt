@@ -1,10 +1,10 @@
-#161 - Tï¿½rgoviste
+#161 - Tîrgoviste
 
 owner = WAL
 controller = WAL 
 culture = romanian		#transylvanian_saxons moved to nearby province
 religion = orthodox
-capital = "Tï¿½rgoviste"
+capital = "Tîrgoviste"
 trade_goods = cloth
 hre = no
 base_tax = 4

@@ -1,4 +1,4 @@
-# No previous file for Victorum Universalis province
+#5637 - Battlefords
 
 latent_trade_goods = {
     oil
@@ -6,7 +6,7 @@ latent_trade_goods = {
 
 culture = cree
 religion = totemism 
-capital = "Ogï¿½ciza Wakpï¿½" 			#Actually an Assiniboine (Nakota) name, but I'm not finding the Cree one.
+capital = "Ogíciza Wakpá" 			#Actually an Assiniboine (Nakota) name, but I'm not finding the Cree one.
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -14,11 +14,13 @@ base_production = 1
 base_manpower = 1 
 native_size = 10
 native_ferocity = 1 
-native_hostileness = 3 
+native_hostileness = 3
+ 
 add_permanent_province_modifier = {
     name = rich_black_soil
     duration = -1
 }
+
 discovered_by = north_american
 
 

@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5736 - Squamishii
 
 culture = halkomelem
 religion = totemism 
-capital = "Ch'iyï¿½kmesh" 
+capital = "Ch'iyákmesh" 
 trade_goods = unknown
 hre = no 
 base_tax = 2

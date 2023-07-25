@@ -1,4 +1,4 @@
-#Nï¿½rke
+#Närke
 #Region - Scandinavia
 #Area - Svealand
 
@@ -12,7 +12,7 @@ base_tax = 2
 base_production = 1 
 trade_goods = lead
 base_manpower = 1 
-capital = "ï¿½rebro"
+capital = "Örebro"
 is_city = yes
 center_of_trade = 1
 

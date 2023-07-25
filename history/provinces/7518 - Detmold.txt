@@ -1,4 +1,4 @@
-#6270 - Detmold
+#7518 - Detmold
 
 owner = BRG
 controller = BRG
@@ -35,7 +35,7 @@ discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
 
-1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jï¿½lich-Berg
+1511.9.6 = { owner = KLE controller = KLE add_core = KLE } # John III of Cleves inherits Berg through his marriage to Maria of Jülich-Berg
 1610.1.1 = { owner = BRA controller = BRA add_core = BRA }
 1701.1.18 = {
 	owner = PRU

@@ -1,11 +1,11 @@
-#1318 - Spiï¿½
+#1318 - Spiz
 
 owner = HUN
 controller = HUN  
 culture = transylvanian_saxons
 religion = catholic
-capital = "Spiï¿½"
-trade_goods = gold #Schemnitz / Banskï¿½ ï¿½tiavnica
+capital = "Spiz"
+trade_goods = gold #Schemnitz / Banská Štiavnica
 hre = no
 base_tax = 2
 base_production = 1

@@ -3,7 +3,7 @@
 #Region - Carpathia
 
 #Core Details
-capital = "Hajdï¿½bï¿½szï¿½rmï¿½ny"
+capital = "Hajdúböszörmény"
 is_city = yes
 owner = HUN
 controller = HUN

@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5743 - Sqpqpe
 
 culture = interior_salish
 religion = totemism 
-capital = "Sq'pq'pï¿½" 			#Sandy Ground. Appears to be a native name for a area around lake Pond d'Oreille
+capital = "Sq'pq'pé" 			#Sandy Ground. Appears to be a native name for a area around lake Pond d'Oreille
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,7 +15,6 @@ native_hostileness = 3
 discovered_by = north_american
 #discovered_by = vu_athabaskan_tech
 #discovered_by = vu_northwest_tech
-
 
 1809.1.1 = {
 	discovered_by = GBR

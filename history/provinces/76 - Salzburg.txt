@@ -52,7 +52,7 @@ discovered_by = ottoman
 	controller = BAV
 	add_core = BAV
 	remove_core = HAB
-} # Treaty of Schï¿½nbrunn
+} # Treaty of Schönbrunn
 1814.5.30 = {
 	owner = HAB
 	controller = HAB

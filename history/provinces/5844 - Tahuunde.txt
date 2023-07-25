@@ -1,8 +1,8 @@
-# No previous file for Victorum Universalis province
+#5844 - Tahuunde
 
 culture = navajo
 religion = totemism 
-capital = "Tï¿½'huï¿½'ndï¿½" 
+capital = "Tá'huú'ndé" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 

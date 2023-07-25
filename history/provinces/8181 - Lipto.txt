@@ -1,9 +1,9 @@
-#8181 - Liptï¿½
+#8181 - Liptó
 #Area - Lower Hungary
 #Region - Carpathia
 
 #Core Details
-capital = "Liptï¿½szentmiklï¿½s"
+capital = "Liptovský Mikuláš"
 is_city = yes
 owner = HUN
 controller = HUN

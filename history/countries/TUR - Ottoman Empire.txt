@@ -158,8 +158,8 @@ add_country_modifier = {
 
 1481.5.4 = {
 	heir = {
-		name = "Selim Yavuz"
-		monarch_name = "Selim I Yavuz"
+		name = "Selîm Yavuz"
+		monarch_name = "Selîm I Yavuz"
 		dynasty = "Osmanoglu"
 		birth_date = 1470.10.10
 		death_date = 1520.9.22
@@ -182,13 +182,13 @@ add_country_modifier = {
 
 1512.5.2 = {
 	monarch = {
-		name = "Selim I Yavuz"
+		name = "Selîm I Yavuz"
 		dynasty = Osmanoglu
 		birth_date = 1470.10.10
 		adm = 2
 		dip = 4
 		mil = 5
-		leader = { name = "Sel�m I Yavuz"         type = general	fire = 5	shock = 4	manuever = 5	siege = 1}
+		leader = { name = "Selîm I Yavuz"         type = general	fire = 5	shock = 4	manuever = 5	siege = 1}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = strict_personality
@@ -196,8 +196,8 @@ add_country_modifier = {
 
 1512.5.2 = {
 	heir = {
-		name = "S�leyman Kanuni"
-		monarch_name = "S�leyman I Kanuni"
+		name = "Süleyman Kanuni"
+		monarch_name = "Süleyman I Kanuni"
 		dynasty = "Osmanoglu"
 		birth_date = 1494.11.6
 		death_date = 1566.9.8
@@ -219,13 +219,13 @@ add_country_modifier = {
 
 1520.9.23 = {
 	monarch = {
-		name = "S�leyman I Kanuni"
+		name = "Süleyman I Kanuni"
 		dynasty = Osmanoglu
 		birth_date = 1494.11.6
 		adm = 6
 		dip = 5
 		mil = 6
-		leader = { name = "S�leyman I Kanuni"     type = general	fire = 5	shock = 3	manuever = 4	siege = 2}
+		leader = { name = "Süleyman I Kanuni"     type = general	fire = 5	shock = 3	manuever = 4	siege = 2}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = lawgiver_personality
@@ -238,8 +238,8 @@ add_country_modifier = {
 
 1524.5.28 = {
 	heir = {
-		name = "Selim"
-		monarch_name = "Selim II"
+		name = "Selîm"
+		monarch_name = "Selîm II"
 		dynasty = "Osmanoglu"
 		birth_date = 1524.5.28
 		death_date = 1574.12.15
@@ -252,11 +252,11 @@ add_country_modifier = {
 
 1525.1.1 = { leader = {	name = "Barbaros Hayreddin"              	type = admiral	fire = 6	shock = 6	manuever = 5	siege = 0	death_date = 1546.1.1 } }
 
-1538.1.1 = { leader = {	name = "�zdemir"               	type = conquistador	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1561.1.1 } }
+1538.1.1 = { leader = {	name = "Özdemir"               	type = conquistador	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1561.1.1 } }
 
 1543.1.1 = { leader = {	name = "Salih Reis"            	type = admiral	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1566.1.1 } }
 
-1551.1.1 = { leader = {	name = "Ulu� Ali"           	type = admiral	fire = 3	shock = 4	manuever = 5	siege = 0	death_date = 1587.1.1 } }
+1551.1.1 = { leader = {	name = "Uluç Ali"           	type = admiral	fire = 3	shock = 4	manuever = 5	siege = 0	death_date = 1587.1.1 } }
 
 1551.1.1 = { leader = {	name = "Turgut Reis"		type = admiral	fire = 2	shock = 4	manuever = 5	siege = 0	death_date = 1565.6.23 } }
 
@@ -264,13 +264,13 @@ add_country_modifier = {
 
 1560.1.1 = { leader = {	name = "Lala Mustafa"         	type = general	fire = 2	shock = 4	manuever = 2	siege = 0	death_date = 1580.1.1 } }
 
-1560.1.1 = { leader = {	name = "�zdemiroglu Osman"     	type = general	fire = 4	shock = 3	manuever = 2	siege = 0	death_date = 1585.1.1 } }
+1560.1.1 = { leader = {	name = "Özdemiroglu Osman"     	type = general	fire = 4	shock = 3	manuever = 2	siege = 0	death_date = 1585.1.1 } }
 
 1561.1.1 = { leader = {	name = "Sokullu Mehmed"        	type = general	fire = 2	shock = 1	manuever = 3	siege = 0	death_date = 1579.1.1 } }
 
 1566.9.8 = {
 	monarch = {
-		name = "Selim II"
+		name = "Selîm II"
 		dynasty = Osmanoglu
 		birth_date = 1524.5.28
 		adm = 4
@@ -479,7 +479,7 @@ add_country_modifier = {
 	}
 }		
 
-1628.4.6 = { leader = { name = "Gazi H�srev Pasha"   	type = general	fire = 3	shock = 4	manuever = 2	siege = 2	death_date = 1631.10.25 } }
+1628.4.6 = { leader = { name = "Gazi Hüsrev Pasha"   	type = general	fire = 3	shock = 4	manuever = 2	siege = 2	death_date = 1631.10.25 } }
 
 1640.2.8 = {
 	monarch = {
@@ -526,8 +526,8 @@ add_country_modifier = {
 
 1648.8.19 = {
 	heir = {
-		name = "S�leyman"
-		monarch_name = "S�leyman II"
+		name = "Süleyman"
+		monarch_name = "Süleyman II"
 		dynasty = "Osmanoglu"
 		claim = 95
 		birth_date = 1642.4.15
@@ -539,17 +539,17 @@ add_country_modifier = {
 }
 
 
-1656.9.15 = { leader = { name = "K�pr�l� Mehmed Pasha"   	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1661.9.30 } }
+1656.9.15 = { leader = { name = "Köprülü Mehmed Pasha"   	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1661.9.30 } }
 
-1661.1.1 = { leader = {	name = "K�pr�l�zade Fazil Ahmed"   	type = general	fire = 4	shock = 4	manuever = 4	siege = 2	death_date = 1676.11.3 } }
+1661.1.1 = { leader = {	name = "Köprülüzade Fazil Ahmed"   	type = general	fire = 4	shock = 4	manuever = 4	siege = 2	death_date = 1676.11.3 } }
 
 1676.1.1 = { leader = {	name = "Merzifonlu Kara Mustafa"         type = general	fire = 4	shock = 4	manuever = 3	siege = 1	death_date = 1683.12.25 } }
 
-1686.1.1 = { leader = {	name = "Mezzamorto H�seyin"	type = admiral	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1701.1.1 } }
+1686.1.1 = { leader = {	name = "Mezzamorto Hüseyin"	type = admiral	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1701.1.1 } }
 
 1687.11.8 = {
 	monarch = {
-		name = "S�leyman II"
+		name = "Süleyman II"
 		dynasty = Osmanoglu
 		birth_date = 1642.4.15
 		adm = 2
@@ -573,7 +573,7 @@ add_country_modifier = {
 	}
 }
 
-1690.1.1 = { leader = { name = "K�pr�l�zade Fazil Mustafa"   	type = general	fire = 3	shock = 3	manuever = 2	siege = 1	death_date = 1691.8.19 } }
+1690.1.1 = { leader = { name = "Köprülüzade Fazil Mustafa"   	type = general	fire = 3	shock = 3	manuever = 2	siege = 1	death_date = 1691.8.19 } }
 
 1691.6.23 = {
 	monarch = {
@@ -625,7 +625,7 @@ add_country_modifier = {
 	}
 }
 
-1697.1.1 = { leader = { name = "Amcazade H�seyin Pasha"   	type = general	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1704.1.1 } }
+1697.1.1 = { leader = { name = "Amcazade Hüseyin Pasha"   	type = general	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1704.1.1 } }
 
 1703.8.23 = {
 	monarch = {
@@ -719,8 +719,8 @@ add_country_modifier = {
 
 1757.10.30 = {
 	heir = {
-		name = "Abd�lhamid"
-		monarch_name = "Abd�lhamid I"
+		name = "Abdülhamid"
+		monarch_name = "Abdülhamid I"
 		dynasty = "Osmanoglu"
 		birth_date = 1725.3.20
 		death_date = 1789.4.7
@@ -735,7 +735,7 @@ add_country_modifier = {
 
 1774.1.22 = {
 	monarch = {
-		name = "Abd�lhamid I"
+		name = "Abdülhamid I"
 		dynasty = Osmanoglu
 		birth_date = 1725.3.20
 		adm = 4
@@ -746,8 +746,8 @@ add_country_modifier = {
 
 1774.1.22 = {
 	heir = {
-		name = "Selim"
-		monarch_name = "Selim III"
+		name = "Selîm"
+		monarch_name = "Selîm III"
 		birth_date = 1761.12.24
 		death_date = 1808.7.28
 		dynasty = "Osmanoglu"
@@ -760,7 +760,7 @@ add_country_modifier = {
 
 1789.4.8 = {
 	monarch = {
-		name = "Selim III"
+		name = "Selîm III"
 		dynasty = "Osmanoglu"
 		birth_date = 1761.12.24
 		adm = 2
