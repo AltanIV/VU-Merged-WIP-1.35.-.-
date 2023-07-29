@@ -503,7 +503,7 @@ estate_cultural_minorities_develop_x = {
 
 estate_cultural_minorities_build_courthouse_in_y = {
 	can_select = {
-		adm_tech = 4
+		adm_tech = 21
 		any_owned_province = {
 			NOT = { culture_group = root }
 			NOT = { has_building = town_hall }
@@ -514,7 +514,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 					num_free_building_slots = 1
 				}
 				AND = {
-					ROOT = { adm_tech = 19 }
+					ROOT = { adm_tech = 36 }
 					has_building = courthouse
 				}
 			}
@@ -536,7 +536,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 							num_free_building_slots = 1
 						}
 						AND = {
-							ROOT = { adm_tech = 19 }
+							ROOT = { adm_tech = 36 }
 							has_building = courthouse
 						}
 					}
@@ -556,7 +556,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						has_building = courthouse
 					}
 				}
@@ -585,7 +585,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						has_building = courthouse
 					}
 				}
@@ -604,7 +604,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						has_building = courthouse
 					}
 				}
@@ -623,7 +623,7 @@ estate_cultural_minorities_build_courthouse_in_y = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						has_building = courthouse
 					}
 				}

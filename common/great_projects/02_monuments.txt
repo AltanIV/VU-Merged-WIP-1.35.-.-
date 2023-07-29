@@ -49,7 +49,7 @@ walls_of_theodosius = {
 	tier_2 = {
         upgrade_time = { months = 480 }
         cost_to_upgrade = { factor = 7000 }
-        province_modifiers = { local_defensiveness = 0.2 garrison_growth = 0.2 }
+        province_modifiers = { local_defensiveness = 0.2 garrison_growth = 0.2 fort_level = 1 }
         area_modifier = { local_hostile_attrition = 2 }
         country_modifiers = { fire_damage_received = -0.05 fort_maintenance_modifier = -0.20 shock_damage = 0.02 }
         on_upgraded = { owner = { add_estate_loyalty = { estate = estate_nobles loyalty = 10 } } }
@@ -57,7 +57,7 @@ walls_of_theodosius = {
 	tier_3 = {
         upgrade_time = { months = 960 }
         cost_to_upgrade = { factor = 14000 }
-        province_modifiers = { local_defensiveness = 0.3 garrison_growth = 0.3 }
+        province_modifiers = { local_defensiveness = 0.3 garrison_growth = 0.3 fort_level = 2 }
         area_modifier = { local_hostile_attrition = 3 local_unrest = -3 }
         country_modifiers = { artillery_power = 0.025 fire_damage_received = -0.075 fort_maintenance_modifier = -0.25 shock_damage = 0.04 }
         on_upgraded = { owner = { add_estate_loyalty = { estate = estate_nobles loyalty = 10 } } }

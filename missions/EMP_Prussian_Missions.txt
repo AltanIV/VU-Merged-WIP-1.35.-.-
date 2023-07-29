@@ -10,6 +10,7 @@ emp_bra_pru_1 = {
 		}
 	}
 	potential = {
+		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -361,6 +362,7 @@ emp_bra_pru_1_b = {
 		}
 	}
 	potential = {
+		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -473,6 +475,7 @@ emp_bra_pru_2 = {
 		}
 	}
 	potential = {
+		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -802,6 +805,7 @@ emp_bra_pru_3 = {
 		}
 	}
 	potential = {
+		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -1204,6 +1208,7 @@ emp_bra_pru_4 = {
 		}
 	}
 	potential = {
+		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"

@@ -57,7 +57,7 @@ discovered_by = ottoman
 1215.1.1 = { 
 	owner = LGD
 	controller = LGD
-	remove_core = LGD
+	add_core = LGD
 } 
 1291.5.23 = { #VictorumUniversalis batch edit shortcut the first shattering ends
 	owner = GEN

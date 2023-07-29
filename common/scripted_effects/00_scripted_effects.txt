@@ -2754,15 +2754,15 @@ update_improved_military_buildings_modifier = {
 add_latest_building = {
 	[[trade]
 		if = {
-			limit = { $builder$ = { dip_tech = 32 } }
+			limit = { $builder$ = { dip_tech = 49 } }
 			add_building = corporative_headquarters
 		}
 		if = {
-			limit = { $builder$ = { dip_tech = 22 } }
+			limit = { $builder$ = { dip_tech = 39 } }
 			add_building = stock_exchange
 		}
 		else_if = {
-			limit = { $builder$ = { dip_tech = 17 } }
+			limit = { $builder$ = { dip_tech = 34 } }
 			add_building = trade_depot
 		}
 		else = {
@@ -2771,7 +2771,7 @@ add_latest_building = {
 	]
 	[[government]
 		if = {
-			limit = { $builder$ = { adm_tech = 22 } }
+			limit = { $builder$ = { adm_tech = 39 } }
 			add_building = town_hall
 		}
 		else = {
@@ -2780,15 +2780,15 @@ add_latest_building = {
 	]
 	[[production]
 		if = {
-			limit = { $builder$ = { adm_tech = 32 } }
+			limit = { $builder$ = { adm_tech = 49 } }
 			add_building = factory
 		}
 		if = {
-			limit = { $builder$ = { adm_tech = 24 } }
+			limit = { $builder$ = { adm_tech = 41 } }
 			add_building = treasury
 		}
 		if = {
-			limit = { $builder$ = { adm_tech = 12 } }
+			limit = { $builder$ = { adm_tech = 29 } }
 			add_building = counting_house
 		}
 		else = {
@@ -2797,11 +2797,11 @@ add_latest_building = {
 	]
 	[[tax]
 		if = {
-			limit = { $builder$ = { adm_tech = 29 } }
+			limit = { $builder$ = { adm_tech = 46 } }
 			add_building = grand_cathedral
 		}
 		if = {
-			limit = { $builder$ = { adm_tech = 19 } }
+			limit = { $builder$ = { adm_tech = 36 } }
 			add_building = cathedral
 		}
 		else = {
@@ -2810,7 +2810,7 @@ add_latest_building = {
 	]
 	[[manpower]
 		if = {
-			limit = { $builder$ = { mil_tech = 16 } }
+			limit = { $builder$ = { mil_tech = 25 } }
 			add_building = training_fields
 		}
 		else = {
@@ -2819,7 +2819,7 @@ add_latest_building = {
 	]
 	[[sailors]
 		if = {
-			limit = { $builder$ = { dip_tech = 19 } }
+			limit = { $builder$ = { dip_tech = 36 } }
 			add_building = drydock
 		}
 		else = {
@@ -2828,7 +2828,7 @@ add_latest_building = {
 	]
 	[[army_forcelimit]
 		if = {
-			limit = { $builder$ = { mil_tech = 22 } }
+			limit = { $builder$ = { mil_tech = 35 } }
 			add_building = conscription_center
 		}
 		else = {
@@ -2837,7 +2837,7 @@ add_latest_building = {
 	]
 	[[navy_forcelimit]
 		if = {
-			limit = { $builder$ = { dip_tech = 24 } }
+			limit = { $builder$ = { dip_tech = 41 } }
 			add_building = grand_shipyard
 		}
 		else = {
@@ -2846,11 +2846,11 @@ add_latest_building = {
 	]
 	[[coastal]
 		if = {
-			limit = { $builder$ = { dip_tech = 25 } }
+			limit = { $builder$ = { dip_tech = 42 } }
 			add_building = coastal_artillery
 		}
 		if = {
-			limit = { $builder$ = { dip_tech = 12 } }
+			limit = { $builder$ = { dip_tech = 29 } }
 			add_building = naval_arsenal
 		}
 		else = {
@@ -2859,15 +2859,15 @@ add_latest_building = {
 	]
 	[[fort]
 		if = {
-			limit = { $builder$ = { mil_tech = 24 } }
+			limit = { $builder$ = { mil_tech = 42 } }
 			add_building = fort_18th
 		}
 		else_if = {
-			limit = { $builder$ = { mil_tech = 19 } }
+			limit = { $builder$ = { mil_tech = 36 } }
 			add_building = fort_17th
 		}
 		else_if = {
-			limit = { $builder$ = { mil_tech = 14 } }
+			limit = { $builder$ = { mil_tech = 31 } }
 			add_building = fort_16th
 		}
 		else = {

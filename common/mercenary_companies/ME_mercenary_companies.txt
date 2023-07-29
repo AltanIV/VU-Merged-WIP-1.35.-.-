@@ -878,7 +878,7 @@ ME_Fusiliers = {
 	sprites = { dlc054_swe_sprite_pack dlc028_swe_sprite_pack westerngfx_sprite_pack }
 	cost_modifier = 1
 	trigger = {
-		mil_tech = 21
+		mil_tech = 38
 	}
 	modifier = {
 		movement_speed = 0.1

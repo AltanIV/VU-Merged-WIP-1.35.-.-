@@ -1,4 +1,4 @@
-#7035 - Città di Castello
+#7035 - CittadiCastello
 
 #Default
 owner = CDC
@@ -6,7 +6,7 @@ controller = CDC
 add_core = CDC
 culture = umbrian
 religion = catholic
-capital = "Città di Castello"
+capital = "Cittï¿½ di Castello"
 base_tax = 5
 base_production = 5
 base_manpower = 4
@@ -44,18 +44,10 @@ discovered_by = russian_tech_group
 #Histories by SF
 1215.6.15 = { owner = PAP controller = PAP add_core = PAP } # Papal territorial lands - By San Felipe
 1315.1.1 = { hre = yes }
-1444.11.11 = { owner = CDC controller = CDC add_core = CDC } # Citta di Castello territorial lands - By San Felipe
-1444.11.16 = { #VictorumUniversalis batch edit shortcut second performance start begins
-	owner = PAP
-	controller = PAP
-	add_core = PAP
-} #Cut all mod added tags, reverting to nearest or most logical vanilla tag owner. I think it is safe to leave cores, though.
-1444.11.18 = { #VictorumUniversalis batch edit shortcut second performance start ends
-	owner = CDC
-	controller = CDC
-	add_core = CDC
-} #Return to proper mod added owners and cuts vanilla core, typically.
+1355.1.1 = { hre = no }
+1444.11.11 = { owner = PAP controller = PAP add_core = PAP } # Papal territorial lands - By San Felipe
 1495.1.1 = { hre = no }
+
 1502.1.1  = { 
 	owner = RMG
 	controller = RMG

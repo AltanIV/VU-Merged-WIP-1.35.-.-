@@ -10,7 +10,7 @@ estate_turkic_tribes_build_tax_building = {
 					num_free_building_slots = 1
 				}
 				AND = {
-					ROOT = { adm_tech = 19 }
+					ROOT = { adm_tech = 36 }
 					OR = {
 						has_building = temple
 						num_free_building_slots = 1
@@ -18,7 +18,7 @@ estate_turkic_tribes_build_tax_building = {
 				}
 			}
 		}
-		ROOT = { adm_tech = 4 }
+		ROOT = { adm_tech = 21 }
 	}
 	selection_weight = {
 		factor = 1
@@ -36,7 +36,7 @@ estate_turkic_tribes_build_tax_building = {
 							num_free_building_slots = 1
 						}
 						AND = {
-							ROOT = { adm_tech = 19 }
+							ROOT = { adm_tech = 36 }
 							OR = {
 								has_building = temple
 								num_free_building_slots = 1
@@ -69,7 +69,7 @@ estate_turkic_tribes_build_tax_building = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						OR = {
 							has_building = temple
 							num_free_building_slots = 1
@@ -91,7 +91,7 @@ estate_turkic_tribes_build_tax_building = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { adm_tech = 19 }
+						ROOT = { adm_tech = 36 }
 						OR = {
 							has_building = temple
 							num_free_building_slots = 1
@@ -339,7 +339,7 @@ estate_turkic_tribes_build_manpower_building = {
 					num_free_building_slots = 1
 				}
 				AND = {
-					ROOT = { mil_tech = 16 }
+					ROOT = { mil_tech = 33 }
 					OR = {
 						has_building = barracks
 						num_free_building_slots = 1
@@ -347,7 +347,7 @@ estate_turkic_tribes_build_manpower_building = {
 				}
 			}
 		}
-		ROOT = { mil_tech = 6 }
+		ROOT = { mil_tech = 23 }
 	}
 	selection_weight = {
 		factor = 1
@@ -365,7 +365,7 @@ estate_turkic_tribes_build_manpower_building = {
 							num_free_building_slots = 1
 						}
 						AND = {
-							ROOT = { mil_tech = 16 }
+							ROOT = { mil_tech = 33 }
 							OR = {
 								has_building = barracks
 								num_free_building_slots = 1
@@ -398,7 +398,7 @@ estate_turkic_tribes_build_manpower_building = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { mil_tech = 16 }
+						ROOT = { mil_tech = 33 }
 						OR = {
 							has_building = barracks
 							num_free_building_slots = 1
@@ -420,7 +420,7 @@ estate_turkic_tribes_build_manpower_building = {
 						num_free_building_slots = 1
 					}
 					AND = {
-						ROOT = { mil_tech = 16 }
+						ROOT = { mil_tech = 33 }
 						OR = {
 							has_building = barracks
 							num_free_building_slots = 1

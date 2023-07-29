@@ -4,9 +4,13 @@ estate_jews = {
 	# If true, country will get estate
 	trigger = {
 		OR = {
+			AND = {
+			NOT = { religion = jewish }
 			any_owned_province = { has_province_modifier = jewish_population }
+			}
 			has_government_attribute = enables_jewish_estate
 			has_country_flag = country_has_jews_yes
+			AND = {
 			NOT = { religion = jewish }
 			capital_scope = {
 				OR = {
@@ -19,6 +23,7 @@ estate_jews = {
 					region = persia_region
 					region = mashriq_region
 					region = arabia_region
+					}
 				}
 			}
 		}

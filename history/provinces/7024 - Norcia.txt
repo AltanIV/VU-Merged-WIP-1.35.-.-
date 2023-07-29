@@ -48,7 +48,7 @@ discovered_by = russian_tech_group
 	controller = PAP
 	add_core = PAP
 }
-1444.11.11 = { owner = NRC controller = NRC add_core = NRC } # Norcia territorial lands - By San Felipe
+1444.11.11 = { owner = PAP controller = PAP add_core = PAP } # Papal territorial lands - By San Felipe
 1750.1.1 = { add_core = ITL } 
 1809.4.10 = { controller = FRA } # Occupied by French troops
 1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn

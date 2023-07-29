@@ -45,7 +45,8 @@ discovered_by = russian_tech_group
 #Histories by SF
 1215.6.15 = { owner = PAP controller = PAP add_core = PAP } # Papal territorial lands - By San Felipe
 1315.1.1 = { hre = yes }
-1444.11.11 = { owner = GUB controller = GUB add_core = GUB } # Gubbio territorial lands - By San Felipe
+1355.1.1 = { hre = no }
+1444.11.11 = { owner = PAP controller = PAP add_core = PAP } # Papal territorial lands - By San Felipe
 1495.1.1 = { hre = no }
 1502.1.1 = {
 	owner = RMG

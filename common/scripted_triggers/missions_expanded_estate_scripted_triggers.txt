@@ -4,7 +4,7 @@ can_select_estate_agenda = {
 }
 
 can_select_estate_agenda_estate_maya_build_university = {
-	adm_tech = 17
+	adm_tech = 34
 	any_owned_province = {
 		is_state_core = ROOT
 		NOT = { has_building = university }

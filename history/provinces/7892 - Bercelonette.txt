@@ -33,7 +33,4 @@ discovered_by = byzantine_tech_group
 discovered_by = hungarian_tech_group
 discovered_by = polish_tech_group
 discovered_by = russian_tech_group
-
-1444.11.11 = { hre = no }
-
 1713.4.12 = { owner = FRA controller = FRA add_core = FRA remove_core = SAV } # Treaty of Utrecht gives Savoy to France

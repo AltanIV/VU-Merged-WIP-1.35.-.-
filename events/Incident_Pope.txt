@@ -19,7 +19,7 @@ country_event = {
 		is_part_of_hre = no
 		is_subject = no		
 		tag = PAP
-		NOT = { num_of_cities = 18 }
+		NOT = { num_of_cities = 25 }
 		hre_leagues_enabled = no
 		hre_religion_treaty = no
 		hre_religion_locked = no
@@ -83,6 +83,7 @@ country_event = {
 				who = ROOT
 				modifier = opinion_pap_joins_empire
 			}
+			every_subject_country = { set_in_empire = yes }
 		}
 		if = {
 			limit = {

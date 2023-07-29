@@ -18,7 +18,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { dip_tech = 11 }
+						ROOT = { dip_tech = 28 }
 					}
 					add_building = wharf
 				}
@@ -35,7 +35,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { mil_tech = 11 }
+						ROOT = { mil_tech = 28 }
 					}
 					add_building = weapons
 				}
@@ -54,7 +54,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { adm_tech = 11 }
+						ROOT = { adm_tech = 28 }
 					}
 					add_building = textile
 				}
@@ -75,7 +75,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { adm_tech = 14 }
+						ROOT = { adm_tech = 31 }
 					}
 					add_building = plantations
 				}
@@ -95,7 +95,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { dip_tech = 14 }
+						ROOT = { dip_tech = 31 }
 					}
 					add_building = tradecompany
 				}
@@ -113,7 +113,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { adm_tech = 6 }
+						ROOT = { adm_tech = 23 }
 					}
 					add_building = farm_estate
 				}
@@ -133,7 +133,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { adm_tech = 16 }
+						ROOT = { adm_tech = 33 }
 					}
 					add_building = mills
 				}
@@ -148,7 +148,7 @@ build_possible_manufactory_in_province = {
 				}
 				if = {
 					limit = {
-						ROOT = { adm_tech = 21 }
+						ROOT = { adm_tech = 38 }
 					}
 					add_building = furnace
 				}

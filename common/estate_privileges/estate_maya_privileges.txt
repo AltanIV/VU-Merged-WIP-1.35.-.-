@@ -168,7 +168,7 @@ estate_maya_support_mayan_schools = {
 		}
 		modifier = {
 			factor = 0
-			NOT = { adm_tech = 5 }
+			NOT = { adm_tech = 15 }
 		}
 	}
 }
