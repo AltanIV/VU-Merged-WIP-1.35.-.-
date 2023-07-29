@@ -6,10 +6,11 @@ religion = orthodox
 #technology_group = eastern
 technology_group = russian_tech_group
 unit_type = eastern
-historical_rival = NOV
 capital = 6975 # Kremlin
 fixed_capital = 6975 # Cannot move capital away from this province & no power cost to move to it
 historical_rival = GOL
+historical_rival = NOV
+historical_rival = POL
 national_focus = ADM
 
 1389.5.19 = {

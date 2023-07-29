@@ -18,6 +18,24 @@ estate_magnates = {
 	}
 }
 
+estate_jews = {
+	modifier_definition = {
+		type = loyalty
+		key = estate_jews_loyalty_modifier
+		trigger = {
+			has_estate = estate_jews 
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = estate_jews_influence_modifier
+		trigger = {
+			has_estate = estate_jews 
+		}
+	}
+}
+
 #GE
 estate_peasants = {
 	modifier_definition = {

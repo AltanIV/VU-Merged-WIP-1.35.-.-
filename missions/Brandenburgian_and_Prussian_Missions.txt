@@ -1,3 +1,4 @@
+#VU updated for 1.35 by San Felipe
 prussian_missions_main_slot = {
 	slot = 1
 	generic = no
@@ -16,7 +17,6 @@ prussian_missions_main_slot = {
 				tag = PRU
 			}
 		}
-		has_country_flag = use_paradox_missions
 	}
 	has_country_shield = yes
 
@@ -255,7 +255,6 @@ prussian_missions_slot_2 = {
 				tag = PRU
 			}
 		}
-		has_country_flag = use_paradox_missions
 	}
 	has_country_shield = yes
 	prussia_partitions_poland = {

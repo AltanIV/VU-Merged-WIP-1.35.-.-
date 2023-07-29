@@ -15,7 +15,10 @@ fort_15th = yes
 add_core = FRN
 controller = FRN
 hre = yes
-
+add_permanent_province_modifier = {
+    name = jewish_population 
+    duration = -1
+}
 discovered_by = western
 discovered_by = dutch_tech_group
 discovered_by = english_tech_group

@@ -6,11 +6,32 @@ religion = catholic
 primary_culture = sicilian
 capital = 125	# Palermo
 
+1192.01.01 = {
+	monarch = {
+		name = "Costanza"
+		dynasty = "Hauteville"
+		birth_date = 1154.11.02
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+1198.01.01 = {
+	monarch = {
+		name = "Frederick I"
+		dynasty = "Hohenstaufen"
+		birth_date = 1194.12.26
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
 
 1377.1.28 = {
 	monarch = { 
 		name = "Maria I"
-		dynasty = "d'Aragó"
+		dynasty = "d'AragÃ³"
 		dip = 3
 		mil = 4
 		adm = 2

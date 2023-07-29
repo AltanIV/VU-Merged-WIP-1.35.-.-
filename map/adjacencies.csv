@@ -32,6 +32,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 8431;171;sea;1275;-1;-1;-1;-1;Belle Ile-Vannetais
 8433;4386;sea;1275;-1;-1;-1;-1;Ile de Re-Fontenay
 172;7992;sea;8319;-1;-1;-1;-1;Nantais-Retz
+178;7990;sea;8319;-1;-1;-1;-1;Angers-Cholet
 8435;174;sea;8313;-1;-1;-1;-1;Royan-Bordeaux
 96;8518;sea;8328;-1;-1;-1;-1;Zeeland-Terneuzen
 2975;3199;sea;8357;-1;-1;-1;-1;Kleve-Essen

@@ -1,9 +1,30 @@
+jewish_population = {
+	estate_jews_loyalty_modifier = 0.02
+	local_build_cost = -0.05
+	local_prosperity_growth = 0.05
+	local_production_efficiency = 0.05
+	local_tax_modifier = 0.05
+	local_development_cost = -0.05
+	local_missionary_strength = -0.01
+}
+
+jewish_expulsions = {
+	estate_jews_loyalty_modifier = -0.02
+	local_build_cost = 0.05
+	local_prosperity_growth = -0.05
+	local_production_efficiency = -0.05
+	local_tax_modifier = -0.05
+	local_development_cost = 0.05
+	local_missionary_strength = 0.01
+}
+
 nor_silver_tax = {
 	global_tax_income = 50
 }
 nor_silver_efficiency = {
 	local_gold_depletion_chance_modifier = -0.5
 }
+
 ten_years_eng_fra_country_modifier = {
 	global_prosperity_growth = 0.25
 	global_autonomy = -0.20

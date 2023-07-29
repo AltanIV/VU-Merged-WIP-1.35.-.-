@@ -443,6 +443,8 @@ can_have_center_of_reformation_trigger = { #Province Scope
 		religion = reformed
 		#VU additions by RobertK
 		religion = lollardy
+		#re-added by DonBrom
+		religion = hussite
 	}
 	NOT = { province_id = 118 }
 	is_in_capital_area = yes

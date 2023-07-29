@@ -1,3 +1,4 @@
+#DonBrom; halved militarization cost, made decay consistent, and boosted T3 stats
 prussian_militarization_mechanic_1 = {
 	alert_icon_gfx = GFX_alerticons_government_mechanics
 	alert_icon_index = 10
@@ -42,7 +43,7 @@ prussian_militarization_mechanic_1 = {
 			cost_type = prussian_militarized_society_1
 			center = no
 			trigger = {
-				mil_power = 50
+				mil_power = 25
 				not = {
 					has_government_power = {
 						mechanic_type = prussian_militarization_mechanic_1
@@ -57,7 +58,7 @@ prussian_militarization_mechanic_1 = {
 					power_type = prussian_militarized_society_1
 					value = 10
 				}
-				add_mil_power = -50
+				add_mil_power = -25
 			}
 			cooldown_years = 0
 			ai_chance = {
@@ -100,7 +101,7 @@ prussian_militarization_mechanic_2 = {
 					discipline = 0.1
 					manpower_recovery_speed = 0.2
 					land_maintenance_modifier = -0.2
-					monthly_prussian_militarized_society_2 = -0.5
+					monthly_prussian_militarized_society_2 = -0.1
 				}
 			}
 			scaled_modifier = {
@@ -123,7 +124,7 @@ prussian_militarization_mechanic_2 = {
 			cost_type = prussian_militarized_society_2
 			center = no
 			trigger = {
-				mil_power = 50
+				mil_power = 25
 				not = {
 					has_government_power = {
 						mechanic_type = prussian_militarization_mechanic_2
@@ -138,7 +139,7 @@ prussian_militarization_mechanic_2 = {
 					power_type = prussian_militarized_society_2
 					value = 10
 				}
-				add_mil_power = -50
+				add_mil_power = -25
 			}
 			cooldown_years = 0
 			ai_chance = {
@@ -180,10 +181,10 @@ prussian_militarization_mechanic_3 = {
 					NOT = { has_country_flag = me_pru_quantity_militarization }
 				}
 				modifier = {
-					discipline = 0.1
-					manpower_recovery_speed = 0.2
-					land_maintenance_modifier = -0.2
-					monthly_prussian_militarized_society_3 = -0.5
+					discipline = 0.15
+					manpower_recovery_speed = 0.25
+					land_maintenance_modifier = -0.25
+					monthly_prussian_militarized_society_3 = -0.1
 				}
 			}
 			scaled_modifier = {
@@ -281,7 +282,7 @@ prussian_militarization_mechanic_3 = {
 			gui = prussian_militarization_gov_mech_3_interaction
 			icon = GFX_prussian_militarization_upgrade	
 			trigger = {
-				mil_power = 50
+				mil_power = 25
 				not = {
 					has_government_power = {
 						mechanic_type = prussian_militarization_mechanic_3
@@ -296,7 +297,7 @@ prussian_militarization_mechanic_3 = {
 					power_type = prussian_militarized_society_3
 					value = 10
 				}
-				add_mil_power = -50
+				add_mil_power = -25
 			}
 			cooldown_years = 0
 			# ai_chance = {

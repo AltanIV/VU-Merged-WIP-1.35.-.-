@@ -1520,7 +1520,7 @@ DAL_ideas = {
 		core_creation = -0.15
 	}
 }
-
+#DonBrom
 PRU_ideas = {
     start = {
         army_tradition = 0.5
@@ -1542,7 +1542,10 @@ PRU_ideas = {
     }
     soldier_king = {
         army_tradition_decay = -0.01
-        monthly_militarized_society = 0.1
+        monthly_militarized_society = 0.2
+		monthly_prussian_militarized_society_1 = 0.02
+		monthly_prussian_militarized_society_2 = 0.04
+		monthly_prussian_militarized_society_3 = 0.06
     }
     army_professionalism = {
         land_morale = 0.20
@@ -1554,9 +1557,10 @@ PRU_ideas = {
     }
     goose_step = {
         infantry_power = 0.20
+		global_manpower_modifier = 0.25
     }
     regimental_cantons = {
-        global_manpower_modifier = 0.25
+        land_forcelimit_modifier = 0.20
         global_regiment_recruit_speed = -0.10
     }
     religious_toleration = {

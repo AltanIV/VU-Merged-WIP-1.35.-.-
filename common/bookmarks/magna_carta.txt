@@ -10,6 +10,8 @@ bookmark = {
 	country = WLS                 # Kingdom of Gwynnedd under Llywelyn
 	country = FRA                 # Kingdom of France under King Philip Augustus
 	country = CAS                 # Kingdom of Castile under King Henry I
+	country = BOH                 # Kingdom of Bohemia under King Přemysl Otakar I achieves the Golden Bull of Sicily
+	country = SIC                 # Kingdom of Sicily under King Frederick II Hohenstaufen is Emperor
 	
     easy_country = ENG            # Magna Carta is signed on June 15, 1215 in Runnymeade, England
 	easy_country = FRA            # French invasion of Southern England
@@ -17,7 +19,7 @@ bookmark = {
     
     default = no                 # Makes this bookmark the automatically selected bookmark on game load. Only use once.
     
-    # Optional. Executes effects when game is started from this bookmark.
+    #Optional. Executes effects when game is started from this bookmark.
     #effect = {
     #    <effects>
     #}

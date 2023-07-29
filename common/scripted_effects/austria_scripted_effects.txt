@@ -944,7 +944,6 @@ me_increase_emperor_of_romans_level = {
 			NOT = { has_ruler_modifier = me_sty_emperor_of_romans_2 }
 			NOT = { has_ruler_modifier = me_sty_emperor_of_romans_3 }
 			NOT = { has_ruler_modifier = me_sty_emperor_of_romans_4 }
-			NOT = { has_ruler_modifier = me_sty_emperor_of_romans_1 }
 		}
 		add_ruler_modifier = {
 			name = me_sty_emperor_of_romans_4

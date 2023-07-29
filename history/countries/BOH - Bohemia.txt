@@ -22,9 +22,20 @@ add_country_modifier = {
     duration = -1
 }
 
+1192.01.01 = {
+	monarch = {
+		name = "Otakar I"
+		dynasty = "Premyslid"
+		birth_date = 1155.1.01
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
 1378.11.29 = {
 	monarch = {
-		name = "V·clav IV"
+		name = "V√°clav IV"
 		dynasty = "von Luxemburg"
 		birth_date = 1361.2.26
 		adm = 2
@@ -35,9 +46,9 @@ add_country_modifier = {
 
 # Personal Union with Hungary under Sigismund I 1419-1437
 
-1419.1.1 = { leader = {	name = "Jan Zizka"	type = general	fire = 6	shock = 3	manuever = 5	siege = 0	death_date = 1424.10.11 } }
+1419.1.1 = { leader = {	name = "Jan Zizka" type = general fire = 6 shock = 4 manuever = 6 siege = 5	death_date = 1424.10.11 } }
 
-1419.1.1 = { leader = {	name = "Prokop Hol˝"	type = general	fire = 4	shock = 3	manuever = 5	siege = 1	death_date = 1434.5.30 } }
+1419.1.1 = { leader = {	name = "Prokop Hol√Ω" type = general	fire = 4 shock = 3 manuever = 5	siege = 1 death_date = 1434.5.30 } }
 
 # Personal Union with Habsburg under Albrecht II 1437-1439
 
@@ -75,7 +86,7 @@ add_country_modifier = {
 
 1457.11.24 = {
 	monarch = {
-		name = "JirÌ"
+		name = "Jir√≠"
 		dynasty = "z Podebrad"
 		birth_date = 1420.4.23
 		adm = 5
@@ -85,7 +96,7 @@ add_country_modifier = {
 	queen = {
 		country_of_origin = BOH
 		name = "Joanna"
-		dynasty = "Rozmit·l"
+		dynasty = "Rozmit√°l"
 		birth_date = 1430.1.1
 		death_date = 1475.11.12
 		female = yes
@@ -124,7 +135,7 @@ add_country_modifier = {
 	queen = {
 		country_of_origin = NAP
 		name = "Beatrice"
-		dynasty = "de Trast·mara"
+		dynasty = "de Trast√°mara"
 		birth_date = 1457.11.16
 		death_date = 1500.4.7 #annulled, real death: 1508.9.23
 		female = yes

@@ -13,6 +13,8 @@ capital = "Rochester"
 is_city = yes
 add_core = ENG
 
+fort_15th = yes
+
 discovered_by = western
 discovered_by = dutch_tech_group
 discovered_by = english_tech_group

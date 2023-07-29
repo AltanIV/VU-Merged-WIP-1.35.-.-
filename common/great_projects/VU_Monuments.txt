@@ -2001,8 +2001,8 @@ vu_lubarts_castle = {
 		upgrade_time = { months = 120 }
 		cost_to_upgrade = { factor = 1000 }
 		province_modifiers = { local_defensiveness = 0.05 local_manpower_modifier = 0.05 }
-		area_modifier = { local_hostile_attrition = 0.5 local_monthly_devastation = -0.01 defensiveness = 0.05}
-		country_modifiers = { }
+		area_modifier = { local_hostile_attrition = 0.5 local_monthly_devastation = -0.01 }
+		country_modifiers = { defensiveness = 0.05 }
 		on_upgraded = { }
 	}
 	tier_2 = {
@@ -2788,7 +2788,7 @@ vu_zaraysk_kremlin = {
 		cost_to_upgrade = { factor = 1000 }
 		province_modifiers = { local_defensiveness = 0.05 local_manpower_modifier = 0.05 }
 		area_modifier = { local_hostile_attrition = 0.5 local_monthly_devastation = -0.01 }
-		country_modifiers = { max_hostile_attrition = 1 }
+		country_modifiers = {  defensiveness = 0.05  }
 		on_upgraded = { }
 	}
 	tier_2 = {
@@ -2796,7 +2796,7 @@ vu_zaraysk_kremlin = {
 		cost_to_upgrade = { factor = 4500 }
 		province_modifiers = { local_defensiveness = 0.1 local_manpower_modifier = 0.10 local_garrison_size = 0.05 local_development_cost = -0.05 local_production_efficiency = 0.05 }
 		area_modifier = { local_hostile_attrition = 1 local_monthly_devastation = -0.05 local_manpower_modifier = 0.05 }
-		country_modifiers = { reinforce_speed = 0.05  rival_border_fort_maintenance = -0.05 defensiveness = 0.10 	war_exhaustion = -0.05}
+		country_modifiers = { reinforce_speed = 0.05  rival_border_fort_maintenance = -0.05 defensiveness = 0.10 war_exhaustion = -0.05}
 		on_upgraded = { }
 	}
 	tier_3 = {
@@ -2804,7 +2804,7 @@ vu_zaraysk_kremlin = {
 		cost_to_upgrade = { factor = 9000 }
 		province_modifiers = { 	fort_level = 1 	local_defensiveness = 0.15 local_manpower_modifier = 0.2 local_garrison_size = 0.10 local_development_cost = -0.10 local_production_efficiency = 0.1 }
 		area_modifier = { local_hostile_attrition = 2 local_monthly_devastation = -0.1 local_manpower_modifier = 0.10}
-		country_modifiers = { rival_border_fort_maintenance = -0.10 defensiveness = 0.15 own_territory_dice_roll_bonus = 1 	war_exhaustion = -0.10}
+		country_modifiers = { reinforce_speed = 0.1 rival_border_fort_maintenance = -0.10 defensiveness = 0.15 own_territory_dice_roll_bonus = 1 	war_exhaustion = -0.10}
 		on_upgraded = { }
 	}
 }
@@ -3076,7 +3076,7 @@ vu_khans_palacee = {
 }
 
 vu_white_mosque_of_bolgar = {
-	start = 1082
+	start = 4267
 	date = 1444.01.01 #Unknown when it was built 
 	time = { months = 120 }
 	build_cost = 1000
@@ -3707,7 +3707,7 @@ vu_shahrisabz = {
 }
 
 vu_urgench = {
-	start = 1970
+	start = 2362
 	date = 1336.01.01 
 	time = { months = 0 }
 	build_cost = 0
