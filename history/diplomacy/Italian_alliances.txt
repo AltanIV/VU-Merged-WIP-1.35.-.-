@@ -2,7 +2,7 @@
 ################ Ancona & March of Ancona (VU) ###############
 ################################################################
 
-###########
+###########`
 # Vassals #
 ###########
 
@@ -735,7 +735,7 @@ dependency = {
 	first = PAP
 	second = FMO
 	start_date = 1414.8.6 
-	end_date = 1435.1.1			#To Sforza's Marche
+	end_date = 1485.1.1			#To Sforza's Marche
 }
 
 dependency = {
