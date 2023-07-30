@@ -246,7 +246,7 @@ estate_ghulams_military_corps = {
 		nobles_influence_modifier = -0.10
 	}
 	benefits = {
-		special_unit_forcelimit = 0.1
+		allowed_rajput_fraction = 0.1
 	}
 	on_granted = {
 		add_country_modifier = {
@@ -258,7 +258,7 @@ estate_ghulams_military_corps = {
 		remove_country_modifier = GE_ghulam_regiments
 	}
 	modifier_by_land_ownership = {
-		special_unit_forcelimit = 0.5
+		allowed_rajput_fraction = 0.5
 	}
 	mechanics = {
 		enables_rajput_regiments
@@ -1208,14 +1208,14 @@ estate_nobles_elite_guards = {
 		NOT = { has_estate_privilege = estate_noble_hajduk }
 	}
 	modifier_by_land_ownership = {
-		special_unit_forcelimit = 0.25
+		allowed_rajput_fraction = 0.5
 	}
 	penalties = {
 		nobles_loyalty_modifier = -0.10
 		nobles_influence_modifier = -0.10
 	}
 	benefits = {
-		special_unit_forcelimit = 0.25
+		allowed_rajput_fraction = 0.1
 	}
 	on_granted = {
 		add_country_modifier = {

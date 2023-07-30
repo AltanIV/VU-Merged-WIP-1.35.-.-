@@ -11,9 +11,12 @@ estate_nobles_order_of_dragon = {
 	}
 	penalties = {
 	}
+	modifier_by_land_ownership = {
+		allowed_cossack_fraction = 0.5
+	}
 	benefits = {
+		allowed_cossack_fraction = 0.1
 		army_tradition = 0.05
-		special_unit_forcelimit = 0.10
 	}
 	on_granted = {
 		add_country_modifier = {
@@ -80,10 +83,13 @@ estate_noble_hajduk = {
 	can_select = {
 	NOT = {	has_estate_privilege = estate_nobles_elite_guards }
 	}
+	modifier_by_land_ownership = {
+		allowed_rajput_fraction = 0.5
+	}
 	penalties = {
 	}
 	benefits = {
-		special_unit_forcelimit = 0.1
+		allowed_rajput_fraction = 0.1
 	}
 	on_granted = {
 		add_country_modifier = {

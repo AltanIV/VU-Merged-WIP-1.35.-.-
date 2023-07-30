@@ -401,12 +401,12 @@ estate_cossacks_establish_the_cossack_regiments = {
 	on_granted = {
 	}
 	modifier_by_land_ownership = {
-		special_unit_forcelimit = 0.5
+		allowed_cossack_fraction = 0.5
 	}
 	penalties = {
 	}
 	benefits = {
-		special_unit_forcelimit = 0.1
+		allowed_cossack_fraction = 0.1
 	}
 	mechanics = {
 		enables_cossack_regiments
@@ -491,7 +491,7 @@ estate_cossacks_expand_the_cossack_regiments = {
 		}
 	}
 	modifier_by_land_ownership = {
-		special_unit_forcelimit = 0.5
+		allowed_cossack_fraction = 0.5
 	}
 	penalties = {
 	}
