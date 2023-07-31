@@ -3566,7 +3566,7 @@ shwedagon_pagoda = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 		    monthly_karma = 0.1
-			church_loyalty_modifier = 0.01
+			church_loyalty_modifier = 0.05
 			yearly_karma_decay = 0.001
 		}
 
@@ -3594,16 +3594,16 @@ shwedagon_pagoda = {
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
-		    local_unrest = -1
-			local_religious_conversion_resistance = 0.1
+		    local_unrest = -2
+			local_religious_conversion_resistance = 0.15
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-		    monthly_karma = 0.1
+		    monthly_karma = 0.15
 			expel_minorities_cost = -0.1
-			church_loyalty_modifier = 0.01
-			yearly_karma_decay = 0.001
+			church_loyalty_modifier = 0.1
+			yearly_karma_decay = 0.002
 		}
 
 		#what effects happen when this tier is achieved
@@ -3630,22 +3630,22 @@ shwedagon_pagoda = {
 
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-		    local_development_cost = -0.01
+		    local_development_cost = -0.02
 			local_autonomy = 0.01
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
-		    local_unrest = -1
-			local_religious_conversion_resistance = 0.1
+		    local_unrest = -3
+			local_religious_conversion_resistance = 0.2
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-		    monthly_karma = 0.1
-			expel_minorities_cost = -0.1
-			church_loyalty_modifier = 0.01
-			yearly_karma_decay = 0.001
+		    monthly_karma = 0.2
+			expel_minorities_cost = -0.2
+			church_loyalty_modifier = 0.2
+			yearly_karma_decay = 0.003
 			discovered_relations_impact = -0.1
 		}
 

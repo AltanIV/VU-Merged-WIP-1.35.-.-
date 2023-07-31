@@ -4233,7 +4233,7 @@ poland_sca_slot_5_branching_lit_hre = {
 			}
 			else = { 
 				has_final_tier_reforms_trigger = yes 
-				adm_tech = 20 
+				adm_tech = 37
 			}
 			is_emperor = yes 
 			OR = { 
@@ -4529,7 +4529,7 @@ poland_sca_slot_5_branching_lit_east = {
 			}
 			else = { 
 				has_final_tier_reforms_trigger = yes 
-				adm_tech = 20 
+				adm_tech = 37
 			}
 		}
 		effect = { 

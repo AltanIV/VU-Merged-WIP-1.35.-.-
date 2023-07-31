@@ -132,7 +132,7 @@ ME_OTM_missions_2 = {
 		position = 11
 		trigger = {
 			MIL = 4
-			mil_tech = 12
+			mil_tech = 29
 			quality_ideas = 2
 		}
 		effect = {

@@ -995,7 +995,7 @@ ilkhanate_missions_3 = {
 		required_missions = { ilkhanate_australian_empire }
 		position = 9
 		trigger = {
-			mil_tech = 16
+			mil_tech = 33
 		}
 		effect = {
 			add_country_modifier = {
@@ -1178,7 +1178,7 @@ ilkhanate_missions_4 = {
 		required_missions = { ilkhanate_military_cooperation }
 		position = 4
 		trigger = {
-			mil_tech = 5
+			mil_tech = 22
 			has_mil_advisor_2 = yes
 		}
 		effect = {

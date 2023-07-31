@@ -1,6 +1,7 @@
 ﻿l_english:
  #VU URBAN_PLACE_HOLDERS
  urban_london:0 "London"
+ urban_russelsheim:0 "Russelsheim"
  urban_westminster:0 "Westminster"
  urban_lambeth:0 "Lambeth"
  urban_canterbury:0 "Canterbury"
@@ -197,6 +198,7 @@
  urban_zurich:0 "Zurich"
  urban_geneva:0 "Geneva"
  urban_berlin:0 "Berlin"
+ urban_brandeburg_an_der_havel:0 "Brandenburg an der Havel"
  urban_wittenberg:0 "Wittenberg"
  urban_hamburg:0 "Hamburg"
  urban_schlesvig:0 "Schlesvig"

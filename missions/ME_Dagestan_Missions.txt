@@ -289,7 +289,7 @@ dagestan_missions_4 = {
 			}
 		}
 		trigger = {
-			adm_tech = 6
+			adm_tech = 23
 			advisor = fortification_expert
 			owns = 425
 			425 = {

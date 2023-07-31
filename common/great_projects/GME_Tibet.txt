@@ -45,7 +45,7 @@ gme_mount_kailash = {
 		upgrade_time = { months = 480 }
 		cost_to_upgrade = { factor = 5000 }
 		province_modifiers = { local_development_cost = -0.50 }
-		area_modifier = { local_unrest = -2	local_tax_modifier = 0.50 local_friendly_movement_speed = 0.22 allowed_num_of_buildings = 1	}
+		area_modifier = { local_development_cost = -0.2 local_unrest = -2 local_tax_modifier = 0.50 local_friendly_movement_speed = 0.33 allowed_num_of_buildings = 1	}
 		country_modifiers = { ae_impact = -0.05	core_creation = -0.10 }
 		on_upgraded = { }
 	}

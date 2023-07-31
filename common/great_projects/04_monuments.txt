@@ -1200,11 +1200,11 @@ schloss_moritzburg = {
         }
 
         province_modifiers = {
-		   local_great_project_upgrade_cost = -0.25
         }
 
         area_modifier = {
 		    local_friendly_movement_speed = 0.1
+			local_great_project_upgrade_cost = -0.25
         }
 
         country_modifiers = {
@@ -1227,12 +1227,12 @@ schloss_moritzburg = {
         }
 
         province_modifiers = {
-		    local_great_project_upgrade_cost = -0.35
-			statewide_governing_cost = -0.25
         }
 
         area_modifier = {
 		    local_friendly_movement_speed = 0.15
+			local_great_project_upgrade_cost = -0.35
+			statewide_governing_cost = -0.25
         }
 
         country_modifiers = {
@@ -1256,13 +1256,13 @@ schloss_moritzburg = {
         }
 
         province_modifiers = {
-		    local_great_project_upgrade_cost = -0.35
-			statewide_governing_cost = -0.35
         }
 
         area_modifier = {
 		    local_friendly_movement_speed = 0.2
 			local_development_cost = -0.1
+			local_great_project_upgrade_cost = -0.35
+			statewide_governing_cost = -0.35
         }
 
         country_modifiers = {

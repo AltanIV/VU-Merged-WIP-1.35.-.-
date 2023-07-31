@@ -40,7 +40,7 @@ country_decisions = {
 		}
 		allow = {
 			NOT = { exists = PAD }
-			adm_tech = 5
+			adm_tech = 22
 			government = theocracy
 			is_free_or_tributary_trigger = yes
 			is_nomad = no

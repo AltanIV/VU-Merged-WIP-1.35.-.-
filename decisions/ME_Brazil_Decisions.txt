@@ -3,7 +3,7 @@ country_decisions = {
 		potential = {
 			tag = BRZ
 			current_age = age_of_revolutions
-			adm_tech = 15
+			adm_tech = 32
 			NOT = { has_country_modifier = the_abolish_slavery_act }
 		}
 		allow = {

@@ -106,8 +106,8 @@ savoy_missions_1 = {
 			natural_scientist = 1
 			OR = {
 				AND = {
-					adm_tech = 10
-					dip_tech = 10
+					adm_tech = 27
+					dip_tech = 27
 				}
 				AND = {
 					ADM = 3
@@ -139,7 +139,7 @@ savoy_missions_1 = {
 				}
 				OR = {
 					innovativeness = 20
-					adm_tech = 15
+					adm_tech = 32
 					num_of_owned_provinces_with = {
 						development = 30
 						value = 3
@@ -148,7 +148,7 @@ savoy_missions_1 = {
 			}
 			else = {
 				OR = {
-					adm_tech = 15
+					adm_tech = 32
 					num_of_owned_provinces_with = {
 						development = 30
 						value = 3

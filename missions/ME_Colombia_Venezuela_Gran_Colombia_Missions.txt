@@ -1120,7 +1120,7 @@ colombia_venezuela_missions_3_3 = {
 		position = 12
 		trigger = {
 			advisor = army_reformer
-			mil_tech = 14
+			mil_tech = 31
 		}
 		effect = {
 			add_country_modifier = {

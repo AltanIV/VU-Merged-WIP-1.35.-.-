@@ -236,7 +236,7 @@ country_decisions = {
 						}
 					}
 				}
-				mil_tech = 15
+				mil_tech = 32
 			}
 			sailors = 20000
 			num_of_owned_provinces_with = {

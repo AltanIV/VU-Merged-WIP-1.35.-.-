@@ -871,7 +871,7 @@ SNG = "countries/Song.txt"
 
 #Eastern Europe
 DYM = "countries/Dymin.txt"
-GPL = "countries/Greaterpoland.txt"
+GPL = "countries/GreaterPoland.txt"
 KIR = "countries/Kievan RUS.txt"
 KPL = "countries/Kalisz.txt"
 SLP = "countries/Slawno.txt"

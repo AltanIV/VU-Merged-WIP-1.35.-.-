@@ -1772,7 +1772,7 @@ USA_missions_4 = {
 				innovativeness = 90
 			}
 			else = {
-				adm_tech = 16
+				adm_tech = 33
 			}
 			treasury = 1500
 			great_plains_region = {
@@ -2378,7 +2378,7 @@ USA_missions_5 = {
 				innovativeness = 25
 			}
 			else = {
-				adm_tech = 20
+				adm_tech = 37
 			}
 		}
 		effect = {

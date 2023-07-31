@@ -61,7 +61,7 @@ cpm_missions_1 = {
 		icon = mission_persian_soldiers
 		position = 3
 		trigger = {
-			mil_tech = 5
+			mil_tech = 22
 			manpower_percentage = 0.8
 		}
 		effect = {
