@@ -64,9 +64,10 @@ country_event = { #Margrave War
 					ai = yes
 				}
 				every_ally = {
-					limit = {
-						ai = yes
-					}
+#Hashed out by DonBrom - Player should have more influence over this
+#					limit = {
+#						ai = yes
+#					}
 					join_all_offensive_wars_of = ROOT
 				}
 			}
