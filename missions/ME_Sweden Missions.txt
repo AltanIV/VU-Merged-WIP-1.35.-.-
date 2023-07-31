@@ -195,7 +195,7 @@ SWE_missions_2 = {
 		required_missions = { sweden_organizing_our_provinces }
 		position = 2
 		trigger = {
-			mil_tech = 12
+			mil_tech = 29
 			MIL = 3
 			num_of_artillery = 15
 		}

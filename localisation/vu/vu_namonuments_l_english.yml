@@ -803,12 +803,12 @@
  construct_vu_christchurch_desc: "Christchurch is a large city in New Zealand."
  great_project_vu_christchurch: "Christchurch"
 
- great_project_vu_angle_falls: "Angle Falls"
- vu_angle_falls: "Angle Falls"
- vu_angle_falls_title: "Construct Angle Falls."
- construct_vu_angle_falls_title: "Construct Angle Falls."
+ great_project_vu_angle_falls: "Angel Falls"
+ vu_angle_falls: "Angel Falls"
+ vu_angle_falls_title: "Construct Angel Falls."
+ construct_vu_angle_falls_title: "Construct Angel Falls."
  construct_vu_angle_falls_desc: "why are you seeing this ."
- great_project_vu_angle_falls: "Angle Falls"
+ great_project_vu_angle_falls: "Angel Falls"
 
  great_project_vu_uguazu_falls: "Iguaza Falls"
  vu_uguazu_falls: "Iguaza Falls"

@@ -112,7 +112,7 @@ country_decisions = {
 			factor = 1
 			modifier = {
 				factor = 0
-				adm_tech = 20
+				adm_tech = 37
 			}
 		}
 	}

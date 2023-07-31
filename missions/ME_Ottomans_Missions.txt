@@ -727,9 +727,9 @@ Ottoman_Missions_1 = {
 			ROOT = { 
 				NOT = { full_idea_group = innovativeness_ideas } 
 				OR = { 
-					NOT = { adm_tech = 14 } 
-					NOT = { dip_tech = 14 } 
-					NOT = { mil_tech = 14 } 
+					NOT = { adm_tech = 34 } 
+					NOT = { dip_tech = 34 } 
+					NOT = { mil_tech = 34 } 
 				} 
 			} 
 		} 
@@ -738,9 +738,9 @@ Ottoman_Missions_1 = {
 			OR = { 
 				full_idea_group = innovativeness_ideas 
 				AND = { 
-					adm_tech = 14 
-					dip_tech = 14 
-					mil_tech = 14 
+					adm_tech = 34
+					dip_tech = 34 
+					mil_tech = 34 
 				} 
 				capital_scope = { 
 					province_has_center_of_trade_of_level = 2 

@@ -11138,11 +11138,11 @@ san_carlone = {
 		}
 
 		area_modifier = {
-			unrest_catholic_provinces = -0.5
 		}
 
 		country_modifiers = {
 			diplomatic_reputation = 0.5
+			unrest_catholic_provinces = -0.5
 		}
 
 		on_upgraded = {
@@ -11163,11 +11163,11 @@ san_carlone = {
 		}
 
 		area_modifier = {
-			unrest_catholic_provinces =  -0.75
 		}
 
 		country_modifiers = {
 			diplomatic_reputation = 1
+			unrest_catholic_provinces =  -0.75
 			improve_relation_modifier = 0.1
 		}	
 
@@ -11190,11 +11190,11 @@ san_carlone = {
 		}
 
 		area_modifier = {
-			unrest_catholic_provinces = -1
 		}
 
 		country_modifiers = {
 			diplomatic_reputation = 1.5
+			unrest_catholic_provinces = -1
 			improve_relation_modifier = 0.2
 		}
 

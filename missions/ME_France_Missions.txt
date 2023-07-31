@@ -365,7 +365,7 @@
 				}
 			}
 			else = {
-				adm_tech = 5
+				adm_tech = 22
 			}
 		}
 		effect = {
@@ -662,7 +662,7 @@ france_missions_2 = {
 		icon = fortify_the_passes
 		position = 3
 		trigger = {
-			mil_tech = 14
+			mil_tech = 31
 			OR = {
 				fort_15th = 15
 				fort_16th = 15
@@ -1071,7 +1071,7 @@ france_missions_2 = {
 			}
 		}
 		trigger = {
-			adm_tech = 7
+			adm_tech = 24
 			owns = 186
 			186 = { has_tax_building_trigger = yes }
 			any_country = {
@@ -1160,7 +1160,7 @@ france_missions_2 = {
 		position = 22
 		trigger = {
 			government_reform_progress = 10
-			adm_tech = 20
+			adm_tech = 37
 		}
 		effect = {
 			country_event = { id = ME_France_Events.9 }
@@ -1387,9 +1387,9 @@ france_missions_3 = {
 		icon = establish_client_states
 		position = 9
 		trigger = {
-			adm_tech = 20
-			dip_tech = 23
-			mil_tech = 20
+			adm_tech = 37
+			dip_tech = 40
+			mil_tech = 37
 			army_size = 250
 			navy_size_percentage = 1
 			total_development = 1500

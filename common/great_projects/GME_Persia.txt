@@ -1114,6 +1114,7 @@ gme_sheikh_safi = {
 		country_modifiers = {
 			legitimacy = 0.5
 			relation_with_same_religion = 10
+			reverse_relation_with_same_religion = 10
 		}
 		on_upgraded = { }
 	}
@@ -1130,6 +1131,7 @@ gme_sheikh_safi = {
 		country_modifiers = {
 			legitimacy = 1
 			relation_with_same_religion = 20
+			reverse_relation_with_same_religion = 20
 		}
 		on_upgraded = { }
 	}

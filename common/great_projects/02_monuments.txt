@@ -2768,6 +2768,7 @@ frauenkirche = {
 			global_missionary_strength = 0.02
 			missionaries = 1
 			relation_with_same_religion = 5
+			reverse_relation_with_same_religion = 5
 		}
 
         on_upgraded = {
@@ -2796,6 +2797,7 @@ frauenkirche = {
 			global_missionary_strength = 0.03
 			missionaries = 1
 			relation_with_same_religion = 10
+			reverse_relation_with_same_religion = 10
 		}
 
         on_upgraded = {
@@ -2953,6 +2955,7 @@ wormser_dom = {
 			global_missionary_strength = 0.03
 			missionaries = 1
 			relation_with_same_religion = 10
+			reverse_relation_with_same_religion = 10
 		}
 
         on_upgraded = {
@@ -3449,14 +3452,14 @@ universita_di_bologna = {
         }
 
         area_modifier = {
-		    local_unrest = 1
+		    local_unrest = 2
         }
 
         country_modifiers = {
-		    church_loyalty_modifier = 0.15
-		    religious_unity = 0.1
-			global_missionary_strength = 0.02
-			missionaries = 1
+		    church_loyalty_modifier = 0.2
+		    religious_unity = 0.2
+			global_missionary_strength = 0.03
+			missionaries = 2
 		}
 
         on_upgraded = {
@@ -4044,9 +4047,8 @@ torre_pendente_di_pisa = {
         }
 
         country_modifiers = {
-		    church_loyalty_modifier = 0.1
-		    religious_unity = 0.05
-			global_missionary_strength = 0.01
+			advisor_cost = -0.05
+		    advisor_pool = 1
         }
 
         on_upgraded = {
@@ -4070,14 +4072,40 @@ torre_pendente_di_pisa = {
         }
 
         country_modifiers = {
-		    church_loyalty_modifier = 0.15
-		    religious_unity = 0.1
-			global_missionary_strength = 0.02
-			missionaries = 1
+			advisor_cost = -0.1
+			advisor_pool = 1
 		}
 
         on_upgraded = {
-        }
+			owner = {
+				random_list = {
+					33 = {
+						define_advisor = {
+							type = natural_scientist
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+					33 = {
+						define_advisor = {
+							type = philosopher
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+					33 = {
+						define_advisor = {
+							type = theologian
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+				}
+			}
+		}
     }
 	
 	tier_3 = {
@@ -4093,18 +4121,45 @@ torre_pendente_di_pisa = {
         }
 
         area_modifier = {
-		    local_unrest = 1
+		    local_unrest = 2
         }
 
         country_modifiers = {
-		    church_loyalty_modifier = 0.15
-		    religious_unity = 0.1
-			global_missionary_strength = 0.02
-			missionaries = 1
+			advisor_cost = -0.2
+			advisor_pool = 1
+			prestige_decay = -0.005
 		}
 
         on_upgraded = {
-        }
+			owner = {
+				random_list = {
+					33 = {
+						define_advisor = {
+							type = natural_scientist
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+					33 = {
+						define_advisor = {
+							type = philosopher
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+					33 = {
+						define_advisor = {
+							type = theologian
+							culture = ROOT
+							religion = ROOT
+							skill = 2
+						}
+					}
+				}
+			}
+		}
     }
 }
 
@@ -6507,7 +6562,7 @@ het_binnenhof = {
 }
 
 certosa_di_padula = {
-    start = 2984
+    start = 1934
     
     date = 1306.04.27
     
@@ -6607,93 +6662,68 @@ certosa_di_padula = {
         }
     }
 
-    tier_1 = {
-		#time to upgrade to this level (0 for tier 0)
+	tier_1 = {
 		upgrade_time = {
-			months = 240
+			months = 24
 		}
-
-		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 3500
+			factor = 250
 		}
-
-		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.25
+			local_tax_modifier = 0.25
 		}
-
-		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 		}
-
-		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			army_tradition = 0.25
 		}
-
-		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
 	}
-	
+
 	tier_2 = {
-		#time to upgrade to this level (0 for tier 0)
 		upgrade_time = {
-			months = 480
+			months = 36
 		}
-
-		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 7000
+			factor = 500
 		}
-
-		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.25
+			local_tax_modifier = 0.3
 		}
-
-		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 		}
-
-		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			army_tradition = 0.25
+			papal_influence = 1
+			church_power_modifier = 0.2
 		}
-
-		#what effects happen when this tier is achieved
 		on_upgraded = {
+			owner = { add_papal_influence = 25 }
+			1934 = { 
+				add_or_upgrade_tax_building = yes
+			}
 		}
 	}
-	
+
 	tier_3 = {
-		#time to upgrade to this level (0 for tier 0)
 		upgrade_time = {
-			months = 960
+			months = 48
 		}
-
-		#cost to upgrade to this level (0 for tier 0)
 		cost_to_upgrade = {
-			factor = 14000
+			factor = 750
 		}
-
-		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.25
 		}
-
-		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
+			local_tax_modifier = 0.3
 		}
-
-		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			army_tradition = 0.25
+			papal_influence = 1
+			church_power_modifier = 0.25
 		}
-
-		#what effects happen when this tier is achieved
 		on_upgraded = {
+			owner = { add_papal_influence = 25 }
+			owner = { change_adm = 1 }
+			1934 = { add_base_tax = 3 }
 		}
 	}
 }
@@ -9423,7 +9453,7 @@ fishermans_bastion = {
 		cost_to_upgrade = {	factor = 3500 }
 		province_modifiers = {  }
 		area_modifier = { local_tax_modifier = 0.05 }
-		country_modifiers = { monthly_church_power = 0.01 relation_with_same_religion = 5}
+		country_modifiers = { monthly_church_power = 0.01 relation_with_same_religion = 5 reverse_relation_with_same_religion = 5}
 		on_upgraded = {}
 	}
 	tier_2 = {
@@ -9431,7 +9461,7 @@ fishermans_bastion = {
 		cost_to_upgrade = {	factor = 4000 }
 		province_modifiers = { local_development_cost = -0.05 }
 		area_modifier = {  local_tax_modifier = 0.1  }
-		country_modifiers = { monthly_church_power = 0.02 relation_with_same_religion = 15 	global_tax_modifier = 0.05}
+		country_modifiers = { monthly_church_power = 0.02 relation_with_same_religion = 15 reverse_relation_with_same_religion = 15 global_tax_modifier = 0.05}
 		on_upgraded = {}
 	}
 	tier_3 = {
@@ -9439,7 +9469,7 @@ fishermans_bastion = {
 		cost_to_upgrade = {	factor = 9000 }
 		province_modifiers = {  local_development_cost = -0.1 }
 		area_modifier = { local_tax_modifier = 0.2  }
-		country_modifiers = { missionaries = 1 	monthly_church_power = 0.03 relation_with_same_religion = 25 	global_tax_modifier = 0.1}
+		country_modifiers = { missionaries = 1 	monthly_church_power = 0.03 relation_with_same_religion = 25 reverse_relation_with_same_religion = 25 global_tax_modifier = 0.1}
 		on_upgraded = { }
 	}
 }
@@ -9975,6 +10005,7 @@ borgund_stavkirke = {
 			global_missionary_strength = 0.03
 			missionaries = 1
 			relation_with_same_religion = 10
+			reverse_relation_with_same_religion = 10
 		}
 
         on_upgraded = {

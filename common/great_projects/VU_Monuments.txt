@@ -3584,7 +3584,7 @@ vu_porvoo_cathedral = {
 		cost_to_upgrade = {	factor = 3500 }
 		province_modifiers = {  }
 		area_modifier = { local_tax_modifier = 0.05 }
-		country_modifiers = { monthly_church_power = 0.01 church_power_modifier = 0.10 relation_with_same_religion = 5}
+		country_modifiers = { monthly_church_power = 0.01 church_power_modifier = 0.10 relation_with_same_religion = 5 	reverse_relation_with_same_religion = 5 }
 		on_upgraded = {}
 	}
 	tier_2 = {
@@ -3592,7 +3592,7 @@ vu_porvoo_cathedral = {
 		cost_to_upgrade = {	factor = 4000 }
 		province_modifiers = { local_development_cost = -0.05 }
 		area_modifier = {  local_tax_modifier = 0.1  }
-		country_modifiers = { monthly_church_power = 0.02 church_power_modifier = 0.25 relation_with_same_religion = 15}
+		country_modifiers = { monthly_church_power = 0.02 church_power_modifier = 0.25 relation_with_same_religion = 15 reverse_relation_with_same_religion = 15}
 		on_upgraded = {}
 	}
 	tier_3 = {
@@ -3600,7 +3600,7 @@ vu_porvoo_cathedral = {
 		cost_to_upgrade = {	factor = 9000 }
 		province_modifiers = {  local_development_cost = -0.1 }
 		area_modifier = { local_tax_modifier = 0.2  }
-		country_modifiers = { missionaries = 1 	monthly_church_power = 0.03 church_power_modifier = 0.5 relation_with_same_religion = 25}
+		country_modifiers = { missionaries = 1 	monthly_church_power = 0.03 church_power_modifier = 0.5 relation_with_same_religion = 25 reverse_relation_with_same_religion = 25}
 		on_upgraded = { }
 	}
 }
@@ -3635,7 +3635,7 @@ vu_po_i_kalyan = {
 		cost_to_upgrade = {	factor = 3500 }
 		province_modifiers = { local_tax_modifier = 0.05 }
 		area_modifier = { }
-		country_modifiers = { 	global_missionary_strength = 0.01 relation_with_same_religion = 5}
+		country_modifiers = { 	global_missionary_strength = 0.01 relation_with_same_religion = 5 reverse_relation_with_same_religion = 5 }
 		on_upgraded = {}
 	}
 	tier_2 = {
@@ -3643,7 +3643,7 @@ vu_po_i_kalyan = {
 		cost_to_upgrade = {	factor = 4000 }
 		province_modifiers = { local_development_cost = -0.05 local_tax_modifier = 0.1 }
 		area_modifier = {    }
-		country_modifiers = { 	global_missionary_strength = 0.02 tolerance_own = 0.5 relation_with_same_religion = 15}
+		country_modifiers = { 	global_missionary_strength = 0.02 tolerance_own = 0.5 relation_with_same_religion = 15 reverse_relation_with_same_religion = 15}
 		on_upgraded = {}
 	}
 	tier_3 = {
@@ -3651,7 +3651,7 @@ vu_po_i_kalyan = {
 		cost_to_upgrade = {	factor = 9000 }
 		province_modifiers = {  local_development_cost = -0.1 local_tax_modifier = 0.2 }
 		area_modifier = {   }
-		country_modifiers = { global_missionary_strength = 0.03 missionaries = 1 tolerance_own = 1 extra_manpower_at_religious_war = yes relation_with_same_religion = 25}
+		country_modifiers = { global_missionary_strength = 0.03 missionaries = 1 tolerance_own = 1 extra_manpower_at_religious_war = yes relation_with_same_religion = 25 reverse_relation_with_same_religion = 25}
 		on_upgraded = { }
 	}
 }

@@ -1977,7 +1977,7 @@ nitra_fifth = {
 					}
 					if = {
 						limit = {
-							ROOT = { mil_tech = 24 }
+							ROOT = { mil_tech = 41 }
 						}
 						capital_scope = {
 							add_building = fort_18th
@@ -1985,7 +1985,7 @@ nitra_fifth = {
 					}
 					else_if = {
 						limit = {
-							ROOT = { mil_tech = 19 }
+							ROOT = { mil_tech = 36 }
 						}
 						capital_scope = {
 							add_building = fort_17th
@@ -1993,7 +1993,7 @@ nitra_fifth = {
 					}
 					else_if = {
 						limit = {
-							ROOT = { mil_tech = 14 }
+							ROOT = { mil_tech = 31 }
 						}
 						capital_scope = {
 							add_building = fort_16th

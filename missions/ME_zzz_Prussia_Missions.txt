@@ -2481,7 +2481,7 @@ PRU_missions_5 = {
 					}
 					innovativeness = 20
 				}
-				mil_tech = 16
+				mil_tech = 33
 			}
 		}
 		effect = {

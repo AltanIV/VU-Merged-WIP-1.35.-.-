@@ -693,7 +693,7 @@ me_bavaria_missions_1 = {
 			}
 		}
 		trigger = {
-			adm_tech = 6
+			adm_tech = 23
 			is_ahead_of_time_in_tech = { type = adm }
 			owns_or_non_sovereign_subject_of = 2955
 			2955 = {

@@ -3401,14 +3401,18 @@ fu_bosphorus_toll = {
 		}
 
 		province_modifiers = { 
-			province_trade_power_value = 5 
-			trade_value = 4
+			province_trade_power_value = 10 
+			trade_value = 12
+			local_ship_cost = -0.1
+			tax_income = 12
+			province_trade_power_modifier = 0.05
 		}
 
 		area_modifier = {
 		}
 
 		country_modifiers = {
+			global_ship_trade_power = 0.05
 		}				
 	}
 
@@ -3423,14 +3427,21 @@ fu_bosphorus_toll = {
 
 		province_modifiers = { 
 			province_trade_power_value = 15 
-			trade_value = 12
+			trade_value = 24
+			local_ship_cost = -0.15
+			tax_income = 24
+			province_trade_power_modifier = 0.1
 		}
 
 		area_modifier = {
-			
+			local_tax_modifier = 0.1
 		}
 
-		country_modifiers = { mercantilism_cost = -0.1 } 
+		country_modifiers = {
+			mercantilism_cost = -0.1
+			global_ship_trade_power = 0.1
+			merchants = 1
+		} 
 	}
 
 	tier_3 = {
@@ -3443,14 +3454,22 @@ fu_bosphorus_toll = {
 		}
 
 		province_modifiers = { 
-			province_trade_power_value = 20 
-			trade_value = 24
+			province_trade_power_value = 25 
+			trade_value = 48
+			local_ship_cost = -0.2
+			tax_income = 36
+			province_trade_power_modifier = 0.2
 		}
 
 		area_modifier = {
+			local_tax_modifier = 0.2
 		}
 
-		country_modifiers = { mercantilism_cost = -0.15 } 
+		country_modifiers = {
+			mercantilism_cost = -0.15
+			global_ship_trade_power = 0.2
+			merchants = 2
+		} 
 	}
 }
 

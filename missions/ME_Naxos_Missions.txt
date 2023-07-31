@@ -141,7 +141,7 @@ Naxos_Missions_2 = {
 			164 = {
 				owned_by = ROOT
 			}
-			mil_tech = 5
+			mil_tech = 22
 			treasury = 30
 			manpower = 1
 		}

@@ -30,7 +30,7 @@ country_decisions = {
 			GAL = {
 				NOT = { num_of_cities = 13 } #3 (asturias) + 10
 			}
-			adm_tech = 10
+			adm_tech = 27
 			is_subject = no
 			is_nomad = no
 			stability = 3

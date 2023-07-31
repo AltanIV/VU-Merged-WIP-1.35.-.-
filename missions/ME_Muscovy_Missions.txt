@@ -751,7 +751,7 @@ MOS_3 = {
 				type = all
 				owned_by = ROOT
 			}
-			mil_tech = 7
+			mil_tech = 24
 			293 = {
 				OR = {
 					has_building = workshop

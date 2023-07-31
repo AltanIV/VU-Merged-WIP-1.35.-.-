@@ -212,7 +212,7 @@ CHG_missions_3 = {
 		required_missions = { }
 		position = 1
 		trigger = {
-			mil_tech = 4
+			mil_tech = 21
 			employed_advisor = {
 				category = MIL
 			}

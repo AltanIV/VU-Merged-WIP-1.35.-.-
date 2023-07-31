@@ -45,7 +45,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			adm_tech = 8
+			adm_tech = 25
 			is_at_war = no
 			owns_core_province = 101	# Genoa
 			owns_core_province = 104	# Milan

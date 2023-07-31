@@ -472,7 +472,7 @@ mnd_maj_3 = {
 		trigger = {
 			if = {
 				limit = {
-					adm_tech = 19
+					adm_tech = 36
 				}
 				cathedral = 15
 			}

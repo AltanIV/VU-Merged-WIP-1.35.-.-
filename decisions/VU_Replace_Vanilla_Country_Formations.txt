@@ -407,7 +407,7 @@ country_decisions = {
 				limit = {
 					NOT = { has_country_flag = ARB_no_tech_requirement }
 				}
-				adm_tech = 10
+				adm_tech = 27
 			}
 			else_if = {
 				limit = {
@@ -1073,7 +1073,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			adm_tech = 10
+			adm_tech = 27
 			has_issue_unlocked_tooltip = {
 				issue = english_scottish_act_of_union
 			}
@@ -1159,7 +1159,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			adm_tech = 10
+			adm_tech = 27
 			has_issue_unlocked_tooltip = {
 				issue = english_french_act_of_union
 			}
@@ -3202,7 +3202,7 @@ country_decisions = {
 		}
 		allow = {
 			NOT = { exists = PRU }
-			adm_tech = 10
+			adm_tech = 27
 		    OR = {
 			    religion = protestant
 				religion = reformed
@@ -3384,7 +3384,7 @@ country_decisions = {
 			is_nomad = no
 			is_free_or_tributary_trigger = yes
 			is_at_war = no
-			adm_tech = 10
+			adm_tech = 27
 			owns_core_province = 41			# Königsberg
 			OR = {
 				owns_core_province = 43		# Danzig
@@ -3537,7 +3537,7 @@ country_decisions = {
 		}
 		allow = {
 			NOT = { exists = PRU }
-			adm_tech = 10
+			adm_tech = 27
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
@@ -4363,7 +4363,7 @@ country_decisions = {
 				limit = { government = monarchy }
 				legitimacy = 100
 			}
-			adm_tech = 10			#Diplo tech requirement
+			adm_tech = 27			#Diplo tech requirement
 			owns_or_vassal_of = 208	# Leon
 			owns_or_vassal_of = 214	# Zaragoza
 			owns_or_vassal_of = 215	# Valladolid

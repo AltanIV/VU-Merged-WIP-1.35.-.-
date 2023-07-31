@@ -20,7 +20,7 @@ country_decisions = {
 				AND = {
 					ai = yes
 					num_of_cities = 15
-					adm_tech = 10
+					adm_tech = 27
 				}
 			}
 			OR = {
@@ -41,7 +41,7 @@ country_decisions = {
 			mission_completed = UKS_union
 		}
 		allow = {
-			adm_tech = 10
+			adm_tech = 27
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no

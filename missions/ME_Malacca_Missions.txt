@@ -212,7 +212,7 @@ MLC_missions_1 = {
 		position = 7
 		trigger = {
 			is_ahead_of_time_in_specific_tech = { type = mil }
-			mil_tech = 6 #Arquebus
+			mil_tech = 23 #Arquebus
 		}
 		effect = {
 			add_country_modifier = {

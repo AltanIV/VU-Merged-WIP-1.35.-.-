@@ -2272,7 +2272,7 @@ vijayanagara_mission_4_expansion = {
 			}
 			if = {
 				limit = {
-					NOT = { mil_tech = 6 }
+					NOT = { mil_tech = 23 }
 				}
 				add_mil_power = 100
 			}

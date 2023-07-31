@@ -505,7 +505,7 @@ GER_missions_2 = {
 		position = 7
 		trigger = {
 			advisor = army_reformer
-			mil_tech = 23
+			mil_tech = 40
 			num_of_infantry = 150
 			years_of_income = 1.5
 		}

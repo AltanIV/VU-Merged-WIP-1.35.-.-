@@ -349,7 +349,7 @@ FLA_missions_3 = {
 		icon = mission_empire
 		required_missions = { fla_unite_low_countries }
 		trigger = {
-			adm_tech = 10
+			adm_tech = 27
 			legitimacy_equivalent = 100
 			NOT = { unrest = 0 }
 			NOT = { exists = NED }
