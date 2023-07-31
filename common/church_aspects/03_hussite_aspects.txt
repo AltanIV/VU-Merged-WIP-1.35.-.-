@@ -10,7 +10,7 @@ punishment_of_sins_aspect = {
 	cost = 100
 	modifier = {
 		nobles_influence_modifier = -0.15
-		yearly_corruption = -0.1
+		monthly_church_power = 0.02
 		advisor_cost = -0.25
 	}
 }
@@ -62,8 +62,8 @@ pacifism_aspect = {
 regular_defenestrations_aspect = {
 	cost = 100
 	modifier = {
-		global_unrest = -3
-		max_absolutism = 10
+		yearly_corruption = -0.1
+		hostile_attrition = 2
 	}
 }
 

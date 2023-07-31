@@ -10,7 +10,6 @@ emp_bra_pru_1 = {
 		}
 	}
 	potential = {
-		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -225,7 +224,7 @@ emp_bra_pru_1 = {
 				43 = { 
 					add_trade_modifier = {
 						who = ROOT
-						duration = 9125
+						duration = -1
 						power = 50
 						key = STRONG_MERCHANTS
 					}
@@ -233,6 +232,13 @@ emp_bra_pru_1 = {
 			}
 			else = { add_mil_power = 100 }
 			silesia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			opole_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -362,7 +368,6 @@ emp_bra_pru_1_b = {
 		}
 	}
 	potential = {
-		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -475,7 +480,6 @@ emp_bra_pru_2 = {
 		}
 	}
 	potential = {
-		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -577,6 +581,7 @@ emp_bra_pru_2 = {
 		provinces_to_highlight = {
 			OR = {
 				area = silesia_area
+				area = opole_area
 				area = lusatia_area
 			}
 			NOT = {
@@ -585,6 +590,10 @@ emp_bra_pru_2 = {
 		}
 		trigger = {
 			silesia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			opole_area = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
 			}
@@ -598,12 +607,14 @@ emp_bra_pru_2 = {
 				limit = { has_dlc = "Domination" }
 				custom_tooltip = pru_accepting_cultures_reduces_3_AE_tt
 				set_country_flag = reduce_ae_from_prom_cultures_flag 
-				silesia_area = { add_local_autonomy = -10 } 
+				silesia_area = { add_local_autonomy = -10 }
+				opole_area = { add_local_autonomy = -10 } 
+				lusatia_area = { add_local_autonomy = -10 } 
 			}
 			else = { 
 				add_country_modifier = {
 					name = "prussian_ambition"
-					duration = 7300
+					duration = -1
 				}
 			}
 			wielkopolska_area = {
@@ -682,7 +693,7 @@ emp_bra_pru_2 = {
 			else = { 
 				add_country_modifier = {
 					name = "polish_partitions"
-					duration = 7300
+					duration = -1
 				}
 			}
 			restore_country_name = yes 
@@ -694,16 +705,16 @@ emp_bra_pru_2 = {
 	emp_brapru_chinese_trade = {
 		icon = mission_open_up_china
 		required_missions = { emp_brapru_emden_company }
-		provinces_to_highlight = { province_id = 667 }
+		provinces_to_highlight = { province_id = 6819 }
 		trigger = {
-			667 = {
+			6819 = {
 				is_strongest_trade_power = ROOT
 			}
 		}
 		effect = {
 			add_country_modifier = {
 				name = "pru_chinese_trade"
-				duration = 7300
+				duration = -1
 			}
 			if = { 
 				limit = { 
@@ -805,7 +816,6 @@ emp_bra_pru_3 = {
 		}
 	}
 	potential = {
-		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -952,11 +962,18 @@ emp_bra_pru_3 = {
 				limit = { has_dlc = "Domination" }
 				add_country_modifier = {
 					name = pru_victory_lower_saxony_modifier
-					duration = 7300
+					duration = -1
 				}
 				custom_tooltip = pru_dev_saxon_lands_tt
 			}
 			braunschweig_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mecklenburg_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -995,7 +1012,7 @@ emp_bra_pru_3 = {
 					}
 				}
 				AND = {
-					province_id = 667
+					province_id = 6819
 					NOT = {
 						has_merchant = ROOT
 					}
@@ -1010,7 +1027,7 @@ emp_bra_pru_3 = {
 				owned_by = ROOT
 			}
 			OR = {
-				667 = {
+				6819 = {
 					has_merchant = ROOT
 				}
 				full_idea_group = trade_ideas 
@@ -1048,33 +1065,25 @@ emp_bra_pru_3 = {
 			else = { 
 				add_country_modifier = {
 					name = "pru_emden_company_modifier"
-					duration = 7300
+					duration = -1
 				}
 			}
 			add_mercantilism = 5
-			1775 = {
-				if = {
-					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
-					}
-					add_permanent_claim = ROOT
+			schleswig_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
 				}
+				add_permanent_claim = ROOT
 			}
-			4141 = {
-				if = {
-					limit = {
-						NOT = {
-							is_permanent_claim = ROOT
-							is_core = ROOT
-						}
-					}
-					add_permanent_claim = ROOT
+			holstein_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
 				}
+				add_permanent_claim = ROOT
 			}
-			668 = {
+			6819 = {
 				if = {
 					limit = {
 						NOT = {
@@ -1147,7 +1156,7 @@ emp_bra_pru_3 = {
 		effect = {
 			add_country_modifier = {
 				name = "pru_construction_modifier"
-				duration = 7300
+				duration = -1
 			}
 			if = { 
 				limit = { 
@@ -1191,7 +1200,7 @@ emp_bra_pru_3 = {
 			country_event = { id = flavor_brapru.28 }
 			add_country_modifier = {
 				name = "edict_of_potsdam_modifier"
-				duration = 7300
+				duration = -1
 			}
 		}
 	}
@@ -1208,7 +1217,6 @@ emp_bra_pru_4 = {
 		}
 	}
 	potential = {
-		has_country_flag = use_paradox_missions
 		OR = { 
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
@@ -1414,7 +1422,7 @@ emp_bra_pru_4 = {
 				limit = { has_dlc = "Domination" }
 				add_country_modifier = {
 					name = pru_expanded_the_western_domains_modifier
-					duration = 7300
+					duration = -1
 				}
 			}
 		}
@@ -1446,7 +1454,7 @@ emp_bra_pru_4 = {
 		effect = {
 			add_country_modifier = {
 				name = "prussian_rhine" #TODO overextension_capacity_modifier
-				duration = 7300
+				duration = -1
 			}
 			south_german_region = {
 				limit = {

@@ -16,6 +16,8 @@ add_army_professionalism = 0.1
 religious_school = hanafi_school
 #Changed from vanilla's values due to Ottomans now having state religion not dominant
 
+add_mil_tech = 2
+
 change_estate_land_share = {
 	estate = estate_dhimmi
 	share = -20
