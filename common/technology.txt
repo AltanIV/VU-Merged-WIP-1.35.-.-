@@ -76,7 +76,7 @@ groups = {
 		}
 	}
 	italian_tech_group = {
-	   start_level = 3
+		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_cost = {
 			trigger = {
@@ -110,7 +110,7 @@ groups = {
 		}
 	}
     scandinavian_tech_group = {
-	   start_level = 3
+		start_level = 3
 		start_cost_modifier = 0
 		nation_designer_cost = {
 			trigger = {
