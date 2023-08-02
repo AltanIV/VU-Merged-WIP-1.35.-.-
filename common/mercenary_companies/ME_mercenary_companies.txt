@@ -94,7 +94,6 @@ ME_merc_royal_life_guard = {
 ME_merc_navarrese_company = {
     regiments_per_development = 0.03
 	cavalry_weight = 0.3
-	cavalry_weight = 0.2
     home_province = 210
 	sprites = { dlc098_nav_sprite_pack westerngfx_sprite_pack }
     trigger = {

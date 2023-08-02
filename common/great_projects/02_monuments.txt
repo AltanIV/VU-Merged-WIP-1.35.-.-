@@ -3141,7 +3141,7 @@ universidad_de_salamanca = {
 
     build_trigger = {
 		OR = {
-      			culture_group = iberian
+      		culture_group = iberian
 			culture = andalusi_arabic
 		}
 		OR = {
@@ -3157,8 +3157,8 @@ universidad_de_salamanca = {
     }
 
     can_use_modifiers_trigger = {
-        	OR = {
-      			culture_group = iberian
+        OR = {
+      		culture_group = iberian
 			culture = andalusi_arabic
 		}
 		OR = {
@@ -3169,7 +3169,7 @@ universidad_de_salamanca = {
 
     can_upgrade_trigger = {
 		OR = {
-      			culture_group = iberian
+			culture_group = iberian
 			culture = andalusi_arabic
 		}
 		OR = {

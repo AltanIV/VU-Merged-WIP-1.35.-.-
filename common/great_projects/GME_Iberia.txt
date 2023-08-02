@@ -863,7 +863,7 @@ gme_tower_hercules = {
 	can_use_modifiers_trigger = {
 		owner = {
 			OR = {
-      				culture_group = iberian
+      			culture_group = iberian
 				culture = andalusi_arabic
 			}
 		}
@@ -872,7 +872,7 @@ gme_tower_hercules = {
 	can_upgrade_trigger = {
 		owner = {
 			OR = {
-      				culture_group = iberian
+      			culture_group = iberian
 				culture = andalusi_arabic
 			}
 		}
