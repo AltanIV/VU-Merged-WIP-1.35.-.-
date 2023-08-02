@@ -1777,27 +1777,27 @@ regimental_camp = {
 		#AI army size (force limit) gets way too big in the late-game, so the AI should avoiding building these if they have a large army.
 		modifier = {
 			factor = 0.75
-			land_forcelimit = 250
+			owner = { land_forcelimit = 250 }
 		}
 		
 		modifier = {
 			factor = 0.5
-			land_forcelimit = 375
+			owner = { land_forcelimit = 375 }
 		}
 		
 		modifier = {
 			factor = 0.25
-			land_forcelimit = 500
+			owner = { land_forcelimit = 500 }
 		}
 		
 		modifier = {
 			factor = 0.125
-			land_forcelimit = 625
+			owner = { land_forcelimit = 625 }
 		}
 		
 		modifier = {
 			factor = 0.0
-			land_forcelimit = 750
+			owner = { land_forcelimit = 750 }
 		}
 	}
 }
@@ -1975,27 +1975,27 @@ conscription_center = {
 		#AI army size (force limit) gets way too big in the late-game, so the AI should avoiding building these if they have a large army.
 		modifier = {
 			factor = 0.75
-			land_forcelimit = 250
+			owner = { land_forcelimit = 250 }
 		}
 		
 		modifier = {
 			factor = 0.5
-			land_forcelimit = 375
+			owner = { land_forcelimit = 375 }
 		}
 		
 		modifier = {
 			factor = 0.25
-			land_forcelimit = 500
+			owner = { land_forcelimit = 500 }
 		}
 		
 		modifier = {
 			factor = 0.125
-			land_forcelimit = 625
+			owner = { land_forcelimit = 625 }
 		}
 		
 		modifier = {
 			factor = 0.0
-			land_forcelimit = 750
+			owner = { land_forcelimit = 750 }
 		}
 	}
 }

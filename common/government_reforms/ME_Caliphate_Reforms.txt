@@ -32,9 +32,6 @@ ME_caliphate_reform_sunni = {
 		berber_group = {
 			land_attrition = -0.1
 		}
-		maghrebi = {
-			land_attrition = -0.1
-		}
 		sahelian = {
 			hostile_attrition = 1
 		}
@@ -47,7 +44,7 @@ ME_caliphate_reform_sunni = {
 		cushitic = {
 			trade_steering = 0.1
 		}
-		madagasque = {
+		malay = {
 			trade_efficiency = 0.1
 		}
 		iranian = {
@@ -97,16 +94,13 @@ ME_caliphate_reform_sunni_andalusia = {
 		berber_group = {
 			manpower_recovery_speed = 0.1
 		}
-		maghrebi = {
-			manpower_recovery_speed = 0.1
-		}
 		sahelian = {
 			hostile_attrition = 1
 		}
 		turko_semitic = {
 			cavalry_cost = -0.1
 		}
-		madagasque = {
+		malay = {
 			trade_efficiency = 0.1
 		}
 		malay = {
@@ -155,9 +149,6 @@ ME_caliphate_reform_sunni_arabian = {
 		berber_group = {
 			land_attrition = -0.1
 		}
-		maghrebi = {
-			land_attrition = -0.1
-		}
 		sahelian = {
 			hostile_attrition = 1
 		}
@@ -170,7 +161,7 @@ ME_caliphate_reform_sunni_arabian = {
 		cushitic = {
 			trade_steering = 0.1
 		}
-		madagasque = {
+		malay = {
 			trade_efficiency = 0.1
 		}
 		iranian = {
@@ -220,9 +211,6 @@ ME_caliphate_reform_shia_ibadi = {
 		berber_group = {
 			land_attrition = -0.1
 		}
-		maghrebi = {
-			land_attrition = -0.1
-		}
 		sahelian = {
 			hostile_attrition = 1
 		}
@@ -235,7 +223,7 @@ ME_caliphate_reform_shia_ibadi = {
 		cushitic = {
 			trade_steering = 0.1
 		}
-		madagasque = {
+		malay = {
 			trade_efficiency = 0.1
 		}
 		iranian = {
@@ -250,7 +238,7 @@ ME_caliphate_reform_shia_ibadi = {
 		sudanese = {
 			tolerance_heathen = 1
 		}
-		panjabi = {
+		hindusthani = {
 			core_creation = -0.05
 		}
 	}

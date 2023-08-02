@@ -32,7 +32,7 @@ vu_iron_range = {
     }
 
     can_use_modifiers_trigger = {
-		adm_tech = 30
+		owner = { adm_tech = 30 }
 		910 = {
 			trade_goods = iron
 		}
@@ -40,7 +40,7 @@ vu_iron_range = {
 	}
 
     can_upgrade_trigger = {
-		adm_tech = 30
+		owner = { adm_tech = 30 }
 		910 = {
 			trade_goods = iron
 		}

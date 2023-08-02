@@ -17,7 +17,7 @@ bookmark = {
 	easy_country = FRA            # French invasion of Southern England
 	easy_country = CAS            # Kingdom of Leon is about to be united with Kingdom of Castile and the Reqconquista gains pace
     
-    default = no                 # Makes this bookmark the automatically selected bookmark on game load. Only use once.
+    #default = no                 # Makes this bookmark the automatically selected bookmark on game load. Only use once. Note by Altan : Don't think default = no works
     
     #Optional. Executes effects when game is started from this bookmark.
     #effect = {
