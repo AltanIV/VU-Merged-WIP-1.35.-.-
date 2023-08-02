@@ -12,8 +12,6 @@ add_accepted_culture = franconian
 add_accepted_culture = slovak
 add_army_professionalism = 0.1
 
-add_mil_tech = 1
-
 change_estate_land_share = {
 	estate = estate_burghers
 	share = -5
@@ -65,6 +63,10 @@ add_country_modifier = {
 }
 
 # Personal Union with Habsburg under Ladislaus Postumus 1453-1457
+
+1444.1.1 = {
+	add_mil_tech = 1
+}
 
 1444.10.1 = {
 	set_estate_privilege = estate_nobles_strong_duchies

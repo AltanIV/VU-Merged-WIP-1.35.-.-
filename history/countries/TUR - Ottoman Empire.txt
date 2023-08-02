@@ -16,8 +16,6 @@ add_army_professionalism = 0.1
 religious_school = hanafi_school
 #Changed from vanilla's values due to Ottomans now having state religion not dominant
 
-add_mil_tech = 2
-
 change_estate_land_share = {
 	estate = estate_dhimmi
 	share = -20
@@ -39,13 +37,6 @@ add_country_modifier = {
 add_country_modifier = {
     name = "ship_keep_XV"
     duration = -1
-}
-
-1444.10.1 = {
-	capital = 149
-	set_estate_privilege = estate_dhimmi_guaranteed_autonomy
-	set_estate_privilege = estate_dhimmi_lighter_dhimmi_taxes
-	set_estate_privilege = estate_dhimmi_manpower
 }
 
 1439.1.1 = {
@@ -74,6 +65,14 @@ add_country_modifier = {
 	add_ruler_personality = conqueror_personality
 	#add_ruler_personality = lawgiver_personality
 	add_piety = -0.2
+	add_mil_tech = 2
+}
+
+1444.10.1 = {
+	capital = 149
+	set_estate_privilege = estate_dhimmi_guaranteed_autonomy
+	set_estate_privilege = estate_dhimmi_lighter_dhimmi_taxes
+	set_estate_privilege = estate_dhimmi_manpower
 }
 
 1446.1.1 = {

@@ -459,7 +459,7 @@
 				}
 				has_reform = emirate_of_andalusia_reform
 				OR = {
-					development = 300
+					total_development = 300
 					tag = ADU
 				}
 			}

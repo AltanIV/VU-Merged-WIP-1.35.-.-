@@ -61,6 +61,7 @@ capitol_building = {
     build_trigger = { is_year = 1800 owner = { is_european = yes OR = { is_former_colonial_nation = yes tag = USA } } }
 	on_built = {}
 	on_destroyed = {}
+	keep_trigger = {}
 	can_upgrade_trigger = {	is_year = 1800 owner = { is_european = yes OR = { is_former_colonial_nation = yes tag = USA } } }
 	can_use_modifiers_trigger = { owner = { is_european = yes OR = { is_former_colonial_nation = yes tag = USA } } }
 
@@ -310,6 +311,8 @@ gettysburg_national_cemetery = {
     build_trigger = { is_year = 1861 owner = { is_european = yes OR = { is_former_colonial_nation = yes tag = USA } } }
 	on_built = {}
 	on_destroyed = {}
+	keep_trigger = {}
+	can_upgrade_trigger = {}
 	can_use_modifiers_trigger = { owner = { is_european = yes OR = { is_former_colonial_nation = yes tag = USA } } }
 
     tier_0 = {

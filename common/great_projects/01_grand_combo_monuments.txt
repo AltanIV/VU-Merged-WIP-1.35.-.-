@@ -536,13 +536,15 @@ cesky_krumlov = {
 			global_institution_spread = 0.1
 		}
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 15
-			}
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 10
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 15
+				}
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 10
+				}
 			}
 		}
 	}
@@ -567,13 +569,15 @@ cesky_krumlov = {
 			global_institution_spread = 0.15
 		}
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 15
-			}
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 10
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 15
+				}
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 10
+				}
 			}
 		}
 	}
@@ -598,13 +602,15 @@ cesky_krumlov = {
 			embracement_cost = -0.2
 		}
 		on_upgraded = { 
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 15
-			}
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 10
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 15
+				}
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 10
+				}
 			}
 		}
 	}
@@ -3332,9 +3338,11 @@ speyer_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -3367,9 +3375,11 @@ speyer_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -4098,9 +4108,11 @@ vienna_hofburg = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -4136,9 +4148,11 @@ vienna_hofburg = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -4632,9 +4646,11 @@ vitus_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -4667,9 +4683,11 @@ vitus_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -4832,9 +4850,11 @@ aachen_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -4867,9 +4887,11 @@ aachen_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -5225,9 +5247,11 @@ frankfurt_paulskirche = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = -5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = -5
+				}
 			}
 		}
 	}
@@ -5261,9 +5285,11 @@ frankfurt_paulskirche = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = -15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = -15
+				}
 			}
 		}
 	}
@@ -5409,9 +5435,11 @@ trier_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -5445,9 +5473,11 @@ trier_cathedral = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -5609,9 +5639,11 @@ herrenhausen_palace = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -5645,9 +5677,11 @@ herrenhausen_palace = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_nobles
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -7329,9 +7363,11 @@ dresden_frauenkirche = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -7364,9 +7400,11 @@ dresden_frauenkirche = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -7512,9 +7550,11 @@ admont_abbey = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -7547,9 +7587,11 @@ admont_abbey = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}
@@ -7919,20 +7961,26 @@ lincoln_cathedral = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
 
-	province_modifiers = {
+		province_modifiers = {
+	
+		}
+		area_modifier = {
+
 		}
 
-	area_modifier = {
+		country_modifiers = {
+	
 		}
 
-	country_modifiers = {
-		}
-
-	on_upgraded = {
+		on_upgraded = {
+		
 		}
 
 	}
@@ -8044,20 +8092,23 @@ st_pauls_cathedral = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
 
-	province_modifiers = {
+		province_modifiers = {
 		}
 
-	area_modifier = {
+		area_modifier = {
 		}
 
-	country_modifiers = {
+		country_modifiers = {
 		}
 
-	on_upgraded = {
+		on_upgraded = {
 		}
 
 	}
@@ -8169,20 +8220,23 @@ york_minster = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
 
-	province_modifiers = {
+		province_modifiers = {
 		}
 
-	area_modifier = {
+		area_modifier = {
 		}
 
-	country_modifiers = {
+		country_modifiers = {
 		}
 
-	on_upgraded = {
+		on_upgraded = {
 		}
 
 	}
@@ -8294,20 +8348,23 @@ st_davids_cathedral = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
 
-	province_modifiers = {
+		province_modifiers = {
 		}
 
-	area_modifier = {
+		area_modifier = {
 		}
 
-	country_modifiers = {
+		country_modifiers = {
 		}
 
-	on_upgraded = {
+		on_upgraded = {
 		}
 
 	}
@@ -8419,6 +8476,9 @@ pontcysyllte_aqueduct = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -8537,6 +8597,9 @@ cerne_abbas_giant = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -8663,6 +8726,9 @@ caernarfon_castle = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -8804,6 +8870,9 @@ windsor_castle = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -8930,6 +8999,9 @@ stirling_castle = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9054,6 +9126,9 @@ tower_of_refuge = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9327,6 +9402,9 @@ trevi_fountain = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9465,6 +9543,9 @@ mausoleum_of_hadrian = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9591,6 +9672,9 @@ sistine_chapel = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9729,6 +9813,9 @@ rialto_bridge = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -9862,6 +9949,9 @@ maschio_angioino = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10003,6 +10093,9 @@ verona_arena = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10137,6 +10230,9 @@ castello_scaligero_di_sirmione = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10267,6 +10363,9 @@ siena_cathedral = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10407,6 +10506,9 @@ civita_di_bagnoregio = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10545,6 +10647,9 @@ valle_dei_templi = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10689,6 +10794,9 @@ la_castiglia = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10829,6 +10937,9 @@ arc_de_triomphe_d_orange = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -10970,6 +11081,9 @@ trophee_des_alpes = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11107,6 +11221,9 @@ san_carlone = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11237,6 +11354,9 @@ citadel_of_qaitbay = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11358,6 +11478,9 @@ mortuary_temple_of_hatshepsut = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11480,6 +11603,9 @@ temple_of_edfu = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11600,6 +11726,9 @@ nalut = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11732,6 +11861,9 @@ atiq_mosque = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11856,6 +11988,9 @@ amphitheatre_of_el_jem = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -11983,6 +12118,9 @@ bordj_tamentfoust = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -12115,6 +12253,9 @@ ketchaoua_mosque = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -12241,6 +12382,9 @@ fort_of_santa_cruz = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -12370,6 +12514,9 @@ bou_inania_madrasa = {
 
 	#tier data
 	tier_0 = {
+		cost_to_upgrade = {
+			factor = 0
+		}
 		upgrade_time = {
 			months = 0
 		}
@@ -14322,9 +14469,11 @@ lund_cathedral = {
 		}
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 5
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 5
+				}
 			}
 		}
 	}
@@ -14349,9 +14498,11 @@ lund_cathedral = {
 		}
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 10
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 10
+				}
 			}
 		}
 	}
@@ -14378,9 +14529,11 @@ lund_cathedral = {
 		}
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_estate_loyalty = {
-				estate = estate_church
-				loyalty = 15
+			owner = {
+				add_estate_loyalty = {
+					estate = estate_church
+					loyalty = 15
+				}
 			}
 		}
 	}

@@ -19,9 +19,9 @@ ADU_send_religious_mission = {
 		}
 		FROM = {
 			NOT = { religion_group = muslim }
-			custom_trigger_tooltip = {
+		#	custom_trigger_tooltip = { #missing a tooltip : TODO
 				NOT = { has_country_flag = GRA_religious_mission_sent_here }
-			}
+		#	}
 		}
 		
 	}

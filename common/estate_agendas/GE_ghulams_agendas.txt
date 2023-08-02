@@ -460,7 +460,7 @@ estate_ghulams_expand_artillery = {
 			}
 			artillery_fraction = 0.2
 		}
-		else = { 
+		else_if = { 
 			limit = {
 				check_variable = { which = army_arty_var value = 1 }
 			}

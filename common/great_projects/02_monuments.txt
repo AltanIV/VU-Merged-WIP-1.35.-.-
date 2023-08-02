@@ -20,14 +20,16 @@ walls_of_theodosius = {
 			AND= {
 				religion_group = muslim
 				has_owner_religion = yes
-				full_idea_group = defensive_ideas
+				owner = {
+					full_idea_group = defensive_ideas
+				}
 			}
 		}
 	}
 	on_built = {}
 	on_destroyed = { hide_ambient_object = walls_of_theodosius }
-	can_use_modifiers_trigger = { OR = { AND = { religion_group = christian	has_owner_religion = yes } AND = { religion_group = muslim has_owner_religion = yes full_idea_group = defensive_ideas	} } }
-	can_upgrade_trigger = { OR = { AND = { religion_group = christian has_owner_religion = yes } AND= {	religion_group = muslim	has_owner_religion = yes full_idea_group = defensive_ideas } } }
+	can_use_modifiers_trigger = { OR = { AND = { religion_group = christian	has_owner_religion = yes } AND = { religion_group = muslim has_owner_religion = yes owner = { full_idea_group = defensive_ideas } } } }
+	can_upgrade_trigger = { OR = { AND = { religion_group = christian has_owner_religion = yes } AND= {	religion_group = muslim	has_owner_religion = yes owner = { full_idea_group = defensive_ideas } } } }
 	keep_trigger = {}
 
 	tier_0 = {
@@ -7959,8 +7961,10 @@ persepolis = {
 		on_upgraded = {
 			add_base_production = 1
 			add_base_manpower = 1
-			add_prestige = 20
-			add_splendor = 50
+			owner = {
+				add_prestige = 20
+				add_splendor = 50
+			}
 		}
 	}
 }
@@ -9580,7 +9584,9 @@ kalmar_castle = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_prestige = 5
+			owner = {
+				add_prestige = 5
+			}
 		}
 	}
 	
@@ -9618,8 +9624,10 @@ kalmar_castle = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_prestige = 5
-			add_splendor = 50
+			owner = {
+				add_prestige = 5
+				add_splendor = 50
+			}
 		}
 	}
 	
@@ -9659,7 +9667,9 @@ kalmar_castle = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			add_prestige = 5
+			owner = {
+				add_prestige = 5
+			}
 		}
 	}
 }

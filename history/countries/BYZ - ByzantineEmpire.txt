@@ -14,8 +14,6 @@ historical_rival = BUL
 capital = 151 # Constantinople
 fixed_capital = 151 # Cannot move capital away from this province & no power cost to move to it
 
-add_dip_tech = 1
-add_mil_tech = 1
 
 1391.2.16 = {
 	mashriq_region = {
@@ -69,6 +67,10 @@ capital = 151
 		dip = 2
 		mil = 2
 	}
+}
+1444.1.1 = {
+	add_dip_tech = 1
+	add_mil_tech = 1
 }
 
 1448.10.31 = {

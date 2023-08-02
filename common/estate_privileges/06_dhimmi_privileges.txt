@@ -395,7 +395,7 @@ estate_dhimmi_manpower = {
 	on_granted_province = {
 		if = {
 			limit = {
-				has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag
+				owner = { has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag }
 			}
 			if = {
 				limit = {
@@ -445,7 +445,7 @@ estate_dhimmi_manpower = {
 	on_revoked_province = {
 		if = {
 			limit = {
-				has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag
+				owner = { has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag }
 			}
 			if = {
 				limit = {
@@ -477,7 +477,7 @@ estate_dhimmi_manpower = {
 	on_invalid_province = {
 		if = {
 			limit = {
-				has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag
+				owner = { has_country_flag = GRA_strengthen_the_dhimmi_privilege_flag }
 			}
 			if = {
 				limit = {

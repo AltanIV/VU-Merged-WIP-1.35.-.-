@@ -223,17 +223,17 @@ declarewar = {
 		}
 
 		# Needed for Extended Timeline
-		if = {
-			limit = {
-				has_global_flag = extended_timeline_mod
-				OR = {
-					has_casus_belli = { type = cb_spread_communism target = FROM }
-					has_casus_belli = { type = cb_spread_fascism target = FROM }
-					has_casus_belli = { type = cb_spread_democracy target = FROM }
-				}
-			}
-			set_country_flag = forcing_government
-		}
+	#	if = { #We don't care about Extended timeline
+	#		limit = {
+	#			has_global_flag = extended_timeline_mod
+	#			OR = {
+	#				has_casus_belli = { type = cb_spread_communism target = FROM }
+	#				has_casus_belli = { type = cb_spread_fascism target = FROM }
+	#				has_casus_belli = { type = cb_spread_democracy target = FROM }
+	#			}
+	#		}
+	#		set_country_flag = forcing_government
+	#	}
 	}
 }
 

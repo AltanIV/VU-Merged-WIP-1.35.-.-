@@ -698,7 +698,7 @@ estate_peasants_inspire_peasants = {
 			}
 			republican_tradition = 40
 		}
-		else = { 
+		else_if = { 
 			limit = {
 				check_variable = { which = country_republican_tradition value = 1 }
 			}
