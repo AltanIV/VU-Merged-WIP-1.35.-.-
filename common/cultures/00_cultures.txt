@@ -14,7 +14,7 @@ germanic = {
 	male_names = {
 		Gunther Rolf 
 		Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm Alexander
-		Alois Anton Bruno Clemens Denis Gerfried Gottfried GüntherHelmut Herbert Ignatz Isidor Konstantin Kuno Markus
+		Alois Anton Bruno Clemens Denis Gerfried Gottfried Günther Helmut Herbert Ignatz Isidor Konstantin Kuno Markus
 		Martin Oskar Reinhard Silvester Stefan Waldemar Jakob Albrecht Friedrich August Emil Ferdinand Karl Ludwig Karl
 		Wilhelm Adolf Alfred Anton Benedikt Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried
 		Hartmann Heinrich Helmut Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp
