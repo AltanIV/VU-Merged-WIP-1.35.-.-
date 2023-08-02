@@ -1459,7 +1459,7 @@ nusa_tenggara_ideas = {
 		OR = {
 			primary_culture = nusa_tenggara
 			primary_culture = bimanese
-                        primary_culture = timorese
+			primary_culture = timorese
 		}
 	}
 	free = yes
@@ -1705,16 +1705,14 @@ new_shan_ideas = {
 	}
 	
 	trigger = {
-		NOT = {
-			tag = MMA
-                        tag = MYA
-                        tag = MKA
-                        tag = MMT
-		}
+		NOT = { tag = MMA }
+		NOT = { tag = MYA }
+		NOT = { tag = MKA }
+		NOT = { tag = MMT }
 		OR = {
 			primary_culture = shan
 			primary_culture = khun
-                        primary_culture = tai
+            primary_culture = tai
 		}
 	}
 	free = yes
@@ -1846,7 +1844,7 @@ new_KUT_ideas = {
 		OR = {
 			primary_culture = bornean
 			primary_culture = banjarese
-                        primary_culture = kutainese
+            primary_culture = kutainese
 		}
 	}
 	free = yes

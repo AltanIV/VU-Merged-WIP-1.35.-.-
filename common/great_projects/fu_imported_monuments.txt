@@ -2958,22 +2958,22 @@ fu_admiralty_amsterdam = {
 		}
 		
 		on_upgraded = {
-			if = {
-				limit = { 
-					owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
-				}
-				owner = { 
-					change_variable = { 
-						which = naval_professionalism_var
-						value = 5
-					}
-				}
-			}
-			else = {
+		#	if = { #Unused, keeping just in case
+		#		limit = { 
+		#			owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
+		#		}
+		#		owner = { 
+		#			change_variable = { 
+		#				which = naval_professionalism_var
+		#				value = 5
+		#			}
+		#		}
+		#	}
+		#	else = {
 				owner = {
 					add_dip_power = 50
 				}
-			}
+		#	}
 		}					
 	}
 
@@ -2998,22 +2998,22 @@ fu_admiralty_amsterdam = {
 		}
 		
 		on_upgraded = {
-			if = {
-				limit = { 
-					owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
-				}
-				owner = { 
-					change_variable = { 
-						which = naval_professionalism_var
-						value = 5
-					}
-				}
-			}
-			else = {
+		#	if = { #Unused, keeping just in case
+		#		limit = { 
+		#			owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
+		#		}
+		#		owner = { 
+		#			change_variable = { 
+		#				which = naval_professionalism_var
+		#				value = 5
+		#			}
+		#		}
+		#	}
+		#	else = {
 				owner = {
 					add_dip_power = 50
 				}
-			}
+		#	}
 		}
 	}
 
@@ -3039,22 +3039,22 @@ fu_admiralty_amsterdam = {
 		}
 		
 		on_upgraded = { 
-			if = {
-				limit = { 
-					owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
-				}
-				owner = { 
-					change_variable = {
-						which = naval_professionalism_var
-						value = 5
-					}
-				}
-			}
-			else = {
+		#	if = { #Unused, keeping just in case
+		#		limit = { 
+		#			owner = { has_country_flag = enables_ned_hol_naval_professionalism_mechanic }
+		#		}
+		#		owner = { 
+		#			change_variable = {
+		#				which = naval_professionalism_var
+		#				value = 5
+		#			}
+		#		}
+		#	}
+		#	else = {
 				owner = {
 					add_dip_power = 50
 				}
-			}
+		#	}
 		}
 	}
 }

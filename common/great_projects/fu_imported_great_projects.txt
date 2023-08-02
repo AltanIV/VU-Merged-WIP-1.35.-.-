@@ -10,9 +10,9 @@ fu_sari_markets = {
 	starting_tier = 1
 	type = canal
 	build_trigger = {
-		FROM = {
-			has_country_flag = tur_markets_of_sari_flag
-		}
+	#	FROM = { #Unused...
+	#		has_country_flag = tur_markets_of_sari_flag
+	#	}
 	}
 	on_built = { }
 	on_destroyed = { }
@@ -116,9 +116,9 @@ fu_hormuz_toll = {
 	starting_tier = 1
 	type = canal
 	build_trigger = {
-		FROM = {
-			has_country_flag = fu_hormuz_toll_flag
-		}
+	#	FROM = { #Unused
+	#		has_country_flag = fu_hormuz_toll_flag
+	#	}
 	}
 	on_built = { }
 	on_destroyed = { }
@@ -247,9 +247,9 @@ fu_mehmed_pasha_mosque = {
 	starting_tier = 1
 	type = canal
 	build_trigger = {
-		FROM = {
-			has_country_flag = tur_taken_decision_to_build_mehmed_pasha_mosque_flag
-		}
+	#	FROM = { #Unused
+	#		has_country_flag = tur_taken_decision_to_build_mehmed_pasha_mosque_flag
+	#	}
 	}
 	on_built = { }
 	on_destroyed = { }
@@ -351,9 +351,9 @@ fu_acemi_oglan = {
 	starting_tier = 1
 	type = canal
 	build_trigger = {
-		FROM = {
-			has_country_flag = tur_gain_access_to_acemi_oglan_academy_flag
-		}
+	#	FROM = { #Unused
+	#		has_country_flag = tur_gain_access_to_acemi_oglan_academy_flag
+	#	}
 	}
 	on_built = { }
 	on_destroyed = { }
@@ -455,9 +455,9 @@ fu_holy_cross_cathedral = {
 	starting_tier = 1
 	type = canal
 	build_trigger = {
-		FROM = {
-			has_country_flag = orl_enable_holy_cross_cathedral_flag
-		}
+	#	FROM = { #Unused
+	#		has_country_flag = orl_enable_holy_cross_cathedral_flag
+	#	}
 	}
 	on_built = { }
 	on_destroyed = { }
