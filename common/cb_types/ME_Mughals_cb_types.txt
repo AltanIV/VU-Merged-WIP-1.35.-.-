@@ -1,7 +1,7 @@
 cb_conquest_of_india = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 
 	prerequisites = {
 		has_country_flag = me_mug_conquest_of_hindustan
@@ -29,7 +29,7 @@ cb_conquest_of_india = {
 cb_conquest_of_india_less_ae = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 
 	prerequisites = {
 		has_country_flag = me_mug_india_less_ae
@@ -53,7 +53,7 @@ cb_conquest_of_india_less_ae = {
 cb_conquest_of_india_less_province = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 
 	prerequisites = {
 		has_country_flag = me_mug_india_less_prov

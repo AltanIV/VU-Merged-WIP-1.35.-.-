@@ -69,7 +69,7 @@ unify_germany = {
 			tag = BRA
 			tag = PRU
 		}
-		has_government_attribute = has_unify_germany_cb
+		has_government_attribute = has_unify_germany_cb #Is it set anywhere ? cwtools seems to think it isn't
 		
 		FROM = { #Applies against other powers in Germany
 			NOT = { is_subject_of = ROOT }

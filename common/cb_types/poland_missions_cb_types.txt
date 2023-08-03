@@ -27,7 +27,7 @@ cb_poland_deluge = {
 cb_fidei_defensor = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 	months = 120
 
 	prerequisites = {

@@ -1,7 +1,7 @@
 cb_najd_war = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 	months = 120
 
 	prerequisites = {
@@ -38,7 +38,7 @@ cb_najd_war = {
 cb_najd_war_2 = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 	months = 120
 
 	prerequisites = {
