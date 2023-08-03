@@ -306,6 +306,19 @@ estate_burghers = {
 		estate_burghers_burgher_autonomy
 		estate_burghers_saharan_outposts
 		estate_burghers_office_of_chancellor
+		#EE Privileges:
+		ME_estate_burghers_ORM_heretic
+		ME_estate_burghers_MSY_marsh_development
+		ME_estate_burghers_YEM_coffee
+		ME_estate_burghers_YEM_coffee_boost #ohhh man
+		ME_estate_burghers_arid_development
+		ME_estate_burghers_desert_development
+		ME_estate_burghers_strengthen_hisbah
+		ME_estate_burghers_ORM_improve_relations
+		ME_estate_burghers_QIR_persian_development
+		me_estate_burghers_venetians_in_the_navy 
+		ME_estate_burghers_steppe_development
+		ME_estate_burghers_SWI_peace_in_the_cantons
 	}
 	agendas = {
 		estate_burghers_develop_x
