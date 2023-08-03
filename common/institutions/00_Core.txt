@@ -441,8 +441,12 @@ feudalism = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = { 
-				owner = { technology_group = chinese } 
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = FRIENDLY_NEIGHBOR_OR_COAST_PROVINCE_HAS_EMBRACED
@@ -454,8 +458,12 @@ feudalism = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				NOT = { any_friendly_coast_border_province = { feudalism = 100 } }
 			}
 			custom_trigger_tooltip = {
@@ -2621,8 +2629,12 @@ renaissance = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = { 
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_renaissance
@@ -2634,8 +2646,12 @@ renaissance = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				NOT = { any_friendly_coast_border_province = { renaissance = 100 } }
 			}
 			custom_trigger_tooltip = {
@@ -3906,8 +3922,10 @@ new_world_i = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = { 
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				OR = {
+					owner = { technology_group = chinese }
+					owner = { technology_group = japanese }
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_colonialism
@@ -3919,8 +3937,10 @@ new_world_i = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				OR = {
+					owner = { technology_group = chinese }
+					owner = { technology_group = japanese }
+				}
 				NOT = { any_friendly_coast_border_province = { new_world_i = 100 } }
 			}
 			custom_trigger_tooltip = {
@@ -4929,8 +4949,12 @@ printing_press = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_printing_press
@@ -4942,8 +4966,12 @@ printing_press = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				NOT = { any_friendly_coast_border_province = { printing_press = 100 } }
 			}
 			custom_trigger_tooltip = {
@@ -6005,8 +6033,12 @@ global_trade = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				has_port = yes
 			}
 			custom_trigger_tooltip = {
@@ -6019,8 +6051,12 @@ global_trade = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				OR = {
 					has_port = no
 					NOT = { any_friendly_coast_border_province = { global_trade = 100 } }
@@ -7412,8 +7448,12 @@ manufactories = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = { 
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_manufactories
@@ -7425,8 +7465,12 @@ manufactories = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				NOT = { any_friendly_coast_border_province = { manufactories = 100 } }
 			}
 			custom_trigger_tooltip = {
@@ -8552,8 +8596,12 @@ enlightenment = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = { 
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 			}
 			custom_trigger_tooltip = {
 				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_enlightenment
@@ -8565,8 +8613,12 @@ enlightenment = {
 			scale = yes
 			force_potential = yes	# Hide the this modifier when potential is false
 			potential = {
-				owner = { technology_group = chinese }
-				owner = { technology_group = japanese }
+				owner = { 
+					OR = {
+						technology_group = chinese
+						technology_group = japanese
+					}
+				}
 				NOT = { any_friendly_coast_border_province = { enlightenment = 100 } }
 			}
 			custom_trigger_tooltip = {
