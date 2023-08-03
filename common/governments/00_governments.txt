@@ -427,6 +427,12 @@ monarchy = {
 				farba_system_reform
 				inca_mountain_farms
 				renaissance_forts_reform
+				#EE Reform
+				ME_caliphate_reform_sunni
+				ME_caliphate_reform_sunni_andalusia
+				ME_caliphate_reform_sunni_arabian
+				ME_caliphate_reform_shia_ibadi
+				ME_caliphate_feudal_theocracy
 			}
 		}
 		military_organisation = {
