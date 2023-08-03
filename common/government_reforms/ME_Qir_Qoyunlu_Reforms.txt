@@ -2,10 +2,10 @@ ME_tribal_federation_steppe_horde = {
 	icon = "horde_riding"
 	allow_normal_conversion = no
 	potential = {
-		OR = {
+	#	OR = {
 			has_reform = ME_tribal_federation_steppe_horde
-			has_country_flag = ME_tribal_federation_steppe_horde_flag
-		}
+	#		has_country_flag = ME_tribal_federation_steppe_horde_flag # Not set anywhere
+	#	}
 	}
 	legacy_equivalent = steppe_horde_legacy
 	nomad = yes
@@ -49,10 +49,10 @@ ME_tribal_federation_monarchy = {
 	icon = "muslim"
 	allow_normal_conversion = yes
 	potential = {
-		OR = {
+	#	OR = {
 			has_reform = ME_tribal_federation_monarchy
-			has_country_flag = ME_tribal_federation_monarchy_flag
-		}
+	#		has_country_flag = ME_tribal_federation_monarchy_flag #Not set anywhere
+	#	}
 	}
 	valid_for_nation_designer = yes
 	nation_designer_cost = 10

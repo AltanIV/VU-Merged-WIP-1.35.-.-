@@ -3601,7 +3601,7 @@ belgian_kingdom_legacy = {
 	conditional = {
 		allow = { has_dlc = "Common Sense" }
 		government_abilities = {
-			monarchy_mechanic
+			monarchy_mechanic #monarchy_mechanic is a reform, are you sure that can be used in government_abilities ?
 		}
 	}
 	ai = { factor = 1 }
