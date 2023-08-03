@@ -28,7 +28,7 @@ cb_conquest_tim = {
 cb_conquest_of_europe = {
 	valid_for_subject = no
 
-	is_triggered_only = no
+#	is_triggered_only = no
 
 	prerequisites = {
 		has_country_flag = me_tim_conquest_of_europe

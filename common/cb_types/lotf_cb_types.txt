@@ -4,11 +4,11 @@ cb_manifest_destiny = {
 	valid_for_subject = no
 	prerequisites = {
 		#mission_completed = USA_missions_proper_nation
-		owner = {
+		#owner = {
 			capital_scope = {
 			    continent = north_america
 			}
-		}
+		#}
 	}
 	war_goal = manifest_destiny_war_goal
 }
