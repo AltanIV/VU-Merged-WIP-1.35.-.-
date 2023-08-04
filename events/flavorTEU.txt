@@ -1054,7 +1054,11 @@ country_event = {
 	
 	option = {	# Livonian Order accepts to be our vassal
 		name = flavor_teu.15.a
-		vassalize = FROM
+#		vassalize = FROM
+		create_subject = {
+			subject_type = sister_republic
+			subject = LIV
+		}
 		ai_chance = {
 			factor = 100
 		}
