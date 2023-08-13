@@ -2610,6 +2610,7 @@ france_missions_4 = {
 			OR = {
 				NOT = { owned_by = ROOT }
 				NOT = { base_production = 8 }
+				NOT = { has_transportation_trigger = yes }
 				NOT = { has_production_building_trigger = yes }
 			}
 		}
@@ -2617,15 +2618,22 @@ france_missions_4 = {
 			199 = {
 				owned_by = ROOT
 				base_production = 8
-				has_production_building_trigger = yes
+				has_transportation_trigger = yes
+				OR = {
+					has_production_building_trigger = yes
+					trade_goods = gold
+					trade_goods = silver
+				}
 			}
 			190 = {
 				owned_by = ROOT
+				has_transportation_trigger = yes
 				base_production = 8
 				has_production_building_trigger = yes
 			}
 			4390 = {
 				owned_by = ROOT
+				has_transportation_trigger = yes
 				base_production = 8
 				has_production_building_trigger = yes
 			}

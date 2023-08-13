@@ -605,7 +605,11 @@ MOR_missions_2 = {
 				limit = {
 					ai = no
 				}
-				num_of_provinces_developed = { amount = 10 }
+				num_of_owned_provinces_with = {
+					value = 10
+            	    num_of_times_improved = 10
+				}
+				#num_of_provinces_developed = { amount = 10 }
 			} #cant make ai dev or else they will be blocked
 
 			has_adm_advisor_2 = yes
