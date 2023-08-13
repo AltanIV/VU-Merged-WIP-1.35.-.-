@@ -11,7 +11,7 @@ fu_vladislav_hall = {
 	}
 	
 	#how much to build one
-	build_cost = 500
+	build_cost = 0
 	
 	#can we move it?
 	can_be_moved = no
@@ -200,7 +200,7 @@ fu_escola_de_marina = {
 	}
 	
 	#how much to build one
-	build_cost = 1000
+	build_cost = 0
 	
 	#can we move it?
 	can_be_moved = yes 
@@ -363,7 +363,7 @@ fu_kinkaku_ji = {
 	}
 	
 	#how much to build one
-	build_cost = 1000
+	build_cost = 0
 	
 	#can we move it?
 	can_be_moved = no 
@@ -534,7 +534,7 @@ fu_arc_of_triumph = {
 	}
 	
 	#how much to build one
-	build_cost = 2500
+	build_cost = 0
 	
 	#can we move it?
 	can_be_moved = yes
@@ -720,7 +720,7 @@ fu_terracotta_army = { #costs are high but it's ming so... yeah
 	}
 	
 	#how much to build one
-	build_cost = 500
+	build_cost = 0
 	
 	#can we move it?
 	can_be_moved = no
@@ -890,7 +890,7 @@ fu_red_fort = {
 		months = 120
 	}
 	
-	build_cost = 1000
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1043,7 +1043,7 @@ fu_kasbah_of_tunis = {
 		months = 120
 	}
 	
-	build_cost = 500
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1188,7 +1188,7 @@ fu_blue_mosque = {
 		months = 120
 	}
 	
-	build_cost = 250
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1329,7 +1329,7 @@ fu_isfahan_city = {
 		months = 120
 	}
 	
-	build_cost = 250
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1467,7 +1467,7 @@ fu_foreign_quarters = {
 		months = 120
 	}
 	
-	build_cost = 1000
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1599,7 +1599,7 @@ fu_lingyin_temple = {
 		months = 120
 	}
 	
-	build_cost = 250
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1724,7 +1724,7 @@ fu_university_vienna = {
 		months = 120
 	}
 	
-	build_cost = 1500
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1866,7 +1866,7 @@ fu_white_tower = {
 		months = 120
 	}
 	
-	build_cost = 250
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -1988,7 +1988,7 @@ fu_ishtar_gate = {
 		months = 120
 	}
 	
-	build_cost = 500
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2116,7 +2116,7 @@ fu_brugge_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2277,7 +2277,7 @@ fu_gent_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2423,7 +2423,7 @@ fu_antwerp_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2569,7 +2569,7 @@ fu_zeeland_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2715,7 +2715,7 @@ fu_den_haag_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -2861,7 +2861,7 @@ fu_admiralty_amsterdam = {
 		months = 120
 	}
 	
-	build_cost = 1500
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -3068,7 +3068,7 @@ fu_amsterdam_dike = {
 		months = 120
 	}
 	
-	build_cost = 100
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -3214,7 +3214,7 @@ fu_topkapi_palace = {
 		months = 60
 	}
 	
-	build_cost = 750
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -3354,7 +3354,7 @@ fu_bosphorus_toll = {
 		months = 60
 	}
 	
-	build_cost = 750
+	build_cost = 0
 	
 	can_be_moved = no
 	
@@ -3482,7 +3482,7 @@ fu_toob_benadir = {
 		months = 24
 	}
 	
-	build_cost = 500
+	build_cost = 0
 	
 	can_be_moved = no
 	
