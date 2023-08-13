@@ -152,7 +152,12 @@ SYN_3 = {
 		}
 		provinces_to_highlight = {  } 
 
-		trigger = { num_of_provinces_developed = { value = 15 }  } 
+		trigger = { 
+			num_of_owned_provinces_with = {
+                value = 15
+                num_of_times_improved_by_owner = 10
+            }
+			#num_of_provinces_developed = { value = 15 }  } 
 
 		effect = {
 			custom_tooltip = EE_DOUBLE_DEV_PROVINCES

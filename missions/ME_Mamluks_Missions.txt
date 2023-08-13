@@ -1944,7 +1944,11 @@ MAM_missions_4 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			num_of_provinces_developed = { amount = 25 }
+			num_of_owned_provinces_with = {
+				value = 25
+				num_of_times_improved_by_owner = 10
+			}
+			#num_of_provinces_developed = { amount = 25 }
 		}
 		effect = {
 			add_country_modifier = {
