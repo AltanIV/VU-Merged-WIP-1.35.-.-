@@ -381,8 +381,14 @@ fu_kinkaku_ji = {
 	build_trigger = {
 		owner = { 
 			OR = {
-				religion = shinto
-				religion = confucianism
+				AND = {
+					has_owner_religion = yes
+					religion = shinto
+				}
+				AND = {
+					has_owner_religion = yes
+					religion = confucianism
+				}
 			}
 		}
 	}
@@ -390,8 +396,14 @@ fu_kinkaku_ji = {
 	can_use_modifiers_trigger = {
 		owner = { 
 			OR = {
-				religion = shinto
-				religion = confucianism
+				AND = {
+					has_owner_religion = yes
+					religion = shinto
+				}
+				AND = {
+					has_owner_religion = yes
+					religion = confucianism
+				}
 			}
 		}
 	}
@@ -400,8 +412,14 @@ fu_kinkaku_ji = {
 	can_upgrade_trigger = {
 		owner = { 
 			OR = {
-				religion = shinto
-				religion = confucianism
+				AND = {
+					has_owner_religion = yes
+					religion = shinto
+				}
+				AND = {
+					has_owner_religion = yes
+					religion = confucianism
+				}
 			}
 		}
 	}
@@ -3227,24 +3245,33 @@ fu_topkapi_palace = {
 	build_trigger = {
 		OR = {
 			owned_by = TUR 
-			owned_by = RMM 
-			religion_group = muslim 
+			owned_by = RMM
+			AND = {
+				has_owner_religion = yes
+				religion_group = muslim 
+			}
 		}
 	}
 	
 	can_use_modifiers_trigger = {
 		OR = {
 			owned_by = TUR 
-			owned_by = RMM 
-			religion_group = muslim 
+			owned_by = RMM
+			AND = {
+				has_owner_religion = yes
+				religion_group = muslim 
+			}
 		}		
 	}
 
 	can_upgrade_trigger = {
 		OR = {
 			owned_by = TUR 
-			owned_by = RMM 
-			religion_group = muslim 
+			owned_by = RMM
+			AND = {
+				has_owner_religion = yes
+				religion_group = muslim 
+			}
 		}
 	}
 
