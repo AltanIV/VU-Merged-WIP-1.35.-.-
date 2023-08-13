@@ -221,8 +221,6 @@ monarchy = {
 				life_on_the_plateau_reform
 		        #ML8991
 				anglois_dual_monarchy
-				#EE Additions
-				barbary_sultanate_reform
 			}
 		}
 		hereditary_vs_nobility = {

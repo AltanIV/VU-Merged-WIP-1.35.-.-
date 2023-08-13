@@ -1517,7 +1517,13 @@ barbary_sultanate_reform = {
 	icon = "barbary_eyalet_government"
 	allow_normal_conversion = yes
 	potential = {
-		culture_group = berber_group
+		OR = {
+			primary_culture = moroccan
+			primary_culture = tunisian
+			primary_culture = algerian
+			primary_culture = tripolitanian
+			culture_group = berber_group
+		}
 	}
 	queen = no
 	nation_designer_trigger = {
