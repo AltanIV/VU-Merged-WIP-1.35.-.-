@@ -2473,7 +2473,7 @@ kremlin = {
 		area_modifier = {
 		    local_institution_spread = 0.2
 			local_manpower_modifier = 0.2
-		        local_hostile_attrition = 1
+			local_hostile_attrition = 1
 			local_monthly_devastation = -0.05 
 		}
 
