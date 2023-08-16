@@ -12631,7 +12631,7 @@ etchimiadzin_cathedral = {
 }
 
 fuerte_del_morro = {
-	start = 484 #Havana
+	start = 492 #Puerto Rico
 	date = 1444.01.01	#1589.01.01
 	time = { months = 0	}
 	build_cost = 0
@@ -12689,7 +12689,7 @@ fuerte_del_morro = {
 		}
 		country_modifiers = {
 			naval_forcelimit_modifier = 0.1
-			overlord_naval_forcelimit = 0.1
+			overlord_naval_forcelimit = 10
 		}
 		on_upgraded = {
 		}
@@ -12710,7 +12710,7 @@ fuerte_del_morro = {
 		}
 		country_modifiers = {
 			naval_forcelimit_modifier = 0.15
-			overlord_naval_forcelimit = 0.15
+			overlord_naval_forcelimit = 20
 		}
 		on_upgraded = {
 		}
@@ -12731,7 +12731,7 @@ fuerte_del_morro = {
 		}
 		country_modifiers = {
 			naval_forcelimit_modifier = 0.2
-			overlord_naval_forcelimit = 0.2
+			overlord_naval_forcelimit = 30
 		}
 		on_upgraded = {
 		}
