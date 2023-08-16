@@ -311,7 +311,7 @@ halden_festning = {
 			factor = 1000
 		}
 		province_modifiers = {
-			hostile_attrition = 0.5
+			local_hostile_attrition = 0.5
 			local_defensiveness = 0.25
 		}
 		area_modifier = {}
@@ -331,12 +331,13 @@ halden_festning = {
 			local_defensiveness = 0.5
 		}
 		area_modifier = {
-			hostile_attrition = 0.5
+			local_hostile_attrition = 0.5
 			hostile_disembark_speed = 0.5
 		}
 		country_modifiers = {
 			garrison_size = 0.1
 		}
+		conditional_modifier
 		on_upgraded = { }
 	}
 
@@ -352,7 +353,7 @@ halden_festning = {
 			hostile_fleet_attrition = 5	
 		}
 		area_modifier = {
-			hostile_attrition = 1
+			local_hostile_attrition = 1
 			hostile_disembark_speed = 1
 		}
 		country_modifiers = {
