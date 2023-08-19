@@ -7,9 +7,6 @@ boh_hussite_group = {
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_dlc = "Emperor" }
 		has_country_flag = use_paradox_missions
-		NOT = {
-			has_country_flag = ME_boh_pu_missions
-		}
 	}
 	has_country_shield = yes
 	
@@ -181,9 +178,6 @@ boh_development_group = {
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_dlc = "Emperor" }
 		has_country_flag = use_paradox_missions
-		NOT = {
-			has_country_flag = ME_boh_pu_missions
-		}
 	}
 	has_country_shield = yes
 	

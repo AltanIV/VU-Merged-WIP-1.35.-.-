@@ -337,7 +337,7 @@ halden_festning = {
 		country_modifiers = {
 			garrison_size = 0.1
 		}
-		conditional_modifier
+	#	conditional_modifier = { }
 		on_upgraded = { }
 	}
 
@@ -2644,6 +2644,30 @@ tomb_of_cyrus = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
+	}
+	tier_1 = {
+		upgrade_time = { months = 240 }
+		cost_to_upgrade = {	factor = 3500 }
+		province_modifiers = { }
+		area_modifier = { }
+		country_modifiers = {  }
+		on_upgraded = {}
+	}
+	tier_2 = {
+		upgrade_time = { months = 480 }
+		cost_to_upgrade = {	factor = 7000 }
+		province_modifiers = { }
+		area_modifier = { }
+		country_modifiers = {  }
+		on_upgraded = {}
+	}
+	tier_3 = {
+		upgrade_time = { months = 960 }
+		cost_to_upgrade = {	factor = 14000 }
+		province_modifiers = {  }
+		area_modifier = { }
+		country_modifiers = {  }
+		on_upgraded = {}
 	}
 }
 
