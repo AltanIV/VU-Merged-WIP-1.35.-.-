@@ -596,6 +596,7 @@ monarchy = {
 				merchant_arsenal_reform
 				tercios_reform
 				expanded_black_army_reform
+				me_baroque_monarchy_reform
 			}
 		}
 		deliberative_assembly = {
