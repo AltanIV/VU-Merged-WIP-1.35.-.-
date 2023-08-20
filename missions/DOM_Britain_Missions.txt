@@ -16,6 +16,7 @@ eng_row_slot_1 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -878,6 +879,7 @@ eng_row_slot_2 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -966,6 +968,7 @@ gbr_row_slot_2 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -1482,6 +1485,7 @@ ave_row_slot_2 = {
 			}
 			tag = AVE
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -1663,6 +1667,7 @@ ave_row_slot_2_continuation = {
 			}
 			tag = AVE
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -1798,6 +1803,7 @@ gbr_ave_hundred_years_mission = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -1875,6 +1881,7 @@ gbr_row_3 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -2608,6 +2615,7 @@ ave_row_3 = {
 			}
 			tag = AVE
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -3117,6 +3125,7 @@ gbr_row_4 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -3994,6 +4003,7 @@ ave_row_4 = {
 			}
 			tag = AVE
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -4367,6 +4377,7 @@ gbr_ave_the_royal_court_slot = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -4421,6 +4432,7 @@ gbr_row_5 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -4964,6 +4976,7 @@ ave_row_5 = {
 			}
 			tag = AVE
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -5334,6 +5347,7 @@ gbr_ave_row_1 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -5544,6 +5558,7 @@ gbr_ave_row_2 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -5721,6 +5736,7 @@ gbr_ave_row_3 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -5874,6 +5890,7 @@ gbr_ave_row_4 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -5952,6 +5969,7 @@ gbr_ave_row_5 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -6042,6 +6060,7 @@ gbr_row_6 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
@@ -6632,6 +6651,7 @@ gbr_row_7 = {
 			tag = GBR
 			tag = UNK
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 	}
 	has_country_shield = yes
