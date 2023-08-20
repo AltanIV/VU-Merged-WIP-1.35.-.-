@@ -115,9 +115,6 @@ diplomatic_missions = {
 
 	potential = {
 		always = yes
-		NOT = { tag = ENG }
-		NOT = { tag = GBR }
-		}
 	}
 
 	building_alliances = {

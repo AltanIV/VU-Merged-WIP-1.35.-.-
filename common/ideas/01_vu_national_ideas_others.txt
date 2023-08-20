@@ -19,15 +19,15 @@ gerdia_ideas = {
 	} 
 	trigger = {
 		OR = {
-		tag = VOG
-		tag = GCU
-		tag = GCR
-		tag = GBL
-		tag = URG
-		tag = GMK
-		tag = SBR
-		tag = VLH
-		tag = UBD
+			tag = VOG
+			tag = GCU
+			tag = GCR
+			tag = GBL
+			tag = URG
+			tag = GMK
+			tag = SBR
+			tag = VLH
+			tag = UBD
 		}
 	}
 	free = yes
