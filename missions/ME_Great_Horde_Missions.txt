@@ -382,7 +382,13 @@ Great_Horde_missions_3 = {
 		required_missions = { }
 		position = 1
 		trigger = {
-			num_of_provinces_in_territories = 80
+			num_of_owned_provinces_with = {
+				OR = {
+					is_core = yes
+					is_territory = yes
+				}
+				value = 120
+			}
 		}
 		effect = {
 			add_treasury = 500
