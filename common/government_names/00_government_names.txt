@@ -658,26 +658,26 @@ pirate_kingdom = {
 	}
 }
 
-synthetic_nation = {
-	rank = {
-		1 = SYNTH_GOV
-		2 = SYNTH_GOV
-		3 = SYNTH_GOV
-	}
-	ruler_male = {
-		1 = SYNTH_RULER_MAIN_CONDUIT
-		2 = SYNTH_RULER_MAIN_CONDUIT
-		3 = SYNTH_RULER_MAIN_CONDUIT
-	}
-	ruler_female = {
-		1 = SYNTH_RULER_MAIN_CONDUIT_fem
-		2 = SYNTH_RULER_MAIN_CONDUIT_fem
-		3 = SYNTH_RULER_MAIN_CONDUIT_fem
-	}
-	trigger = {
-		tag = SYN
-	}
-}
+#synthetic_nation = {
+#	rank = {
+#		1 = SYNTH_GOV
+#		2 = SYNTH_GOV
+#		3 = SYNTH_GOV
+#	}
+#	ruler_male = {
+#		1 = SYNTH_RULER_MAIN_CONDUIT
+#		2 = SYNTH_RULER_MAIN_CONDUIT
+#		3 = SYNTH_RULER_MAIN_CONDUIT
+#	}
+#	ruler_female = {
+#		1 = SYNTH_RULER_MAIN_CONDUIT_fem
+#		2 = SYNTH_RULER_MAIN_CONDUIT_fem
+#		3 = SYNTH_RULER_MAIN_CONDUIT_fem
+#	}
+#	trigger = {
+#		tag = SYN
+#	}
+#}
 
 yuan_empire = {
 	rank = {

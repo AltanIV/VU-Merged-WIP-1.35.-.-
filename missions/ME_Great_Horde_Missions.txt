@@ -384,7 +384,7 @@ Great_Horde_missions_3 = {
 		trigger = {
 			num_of_owned_provinces_with = {
 				OR = {
-					is_core = yes
+					is_core = ROOT
 					is_territory = yes
 				}
 				value = 120
