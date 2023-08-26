@@ -4194,7 +4194,7 @@ vu_generic_can_form_potential_check = {
 	NOT = { was_tag = GER }
 	NOT = { was_tag = MNG }
 	NOT = { was_tag = MGE }
-	NOT = { was_tag = SYN }
+#	NOT = { was_tag = SYN }
 	NOT = { was_tag = ADU }
 	NOT = { was_tag = LOT }
 	
@@ -4225,7 +4225,7 @@ vu_generic_can_form_potential_check = {
 	NOT = { tag = GER }
 	NOT = { tag = MNG }
 	NOT = { tag = MGE }
-	NOT = { tag = SYN }
+#	NOT = { tag = SYN }
 	NOT = { tag = ADU }
 	NOT = { tag = LOT }
 }
