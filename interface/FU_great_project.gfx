@@ -201,26 +201,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//FU_great_projects//great_project_fu_bosphorus_toll.dds"
 	}
 	spriteType = { 
-		name = "GFX_great_project_fu_sari_markets"	
-		texturefile = "gfx//interface//FU_great_projects//great_project_fu_sari_markets.dds"
-	}
-	spriteType = { 
-		name = "GFX_great_project_fu_hormuz_toll"	
-		texturefile = "gfx//interface//FU_great_projects//great_project_fu_hormuz_toll.dds"
-	}
-	spriteType = { 
-		name = "GFX_great_project_fu_mehmed_pasha_mosque"	
-		texturefile = "gfx//interface//FU_great_projects//great_project_fu_mehmed_pasha_mosque.dds"
-	}
-	spriteType = { 
-		name = "GFX_great_project_fu_acemi_oglan"	
-		texturefile = "gfx//interface//FU_great_projects//great_project_fu_acemi_oglan.dds"
-	}
-	spriteType = { 
-		name = "GFX_great_project_fu_holy_cross_cathedral"	
-		texturefile = "gfx//interface//FU_great_projects//great_project_fu_holy_cross_cathedral.dds"
-	}
-	spriteType = { 
 		name = "GFX_great_project_fu_port_havana"	
 		texturefile = "gfx//interface//FU_great_projects//great_project_fu_port_havana.dds"
 	}
