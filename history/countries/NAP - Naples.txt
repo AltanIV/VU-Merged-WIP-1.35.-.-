@@ -8,6 +8,7 @@ primary_culture = neapolitan
 add_accepted_culture = griko
 add_accepted_culture = sicilian
 capital = 121 # Napoli
+set_capital = 121
 
 1399.1.1 = {
 	monarch = { 

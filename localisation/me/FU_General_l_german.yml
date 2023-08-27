@@ -58,11 +58,7 @@ l_german:
  fu_admiralty_amsterdam: "Admiralty of Amsterdam" 
  #
  fu_topkapi_palace: "Topkapi Palace"
- fu_bosphorus_toll: "Bosphorus Toll" 
- fu_sari_markets: "Silk Markets of Sari" 
- fu_hormuz_toll: "Hormuz Toll" 
- fu_mehmed_pasha_mosque: "Mehmed Pasha Mosque" 
- fu_acemi_oglan: "Acemi Oglan Academy" 
+ fu_bosphorus_toll: "Bosphorus Toll"
  
  
  #Decision 

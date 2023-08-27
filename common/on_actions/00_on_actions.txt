@@ -2826,15 +2826,6 @@ on_new_monarch = {
 		}
 		clr_country_flag = me_tim_ruler_timer
 	}
-
-	if = {
-		limit = {
-			mission_completed = EE_syn_synthetic_dawn
-		}
-		add_adm_power = 200
-		add_dip_power = 200
-		add_mil_power = 200
-	}
 }
 
 # country
