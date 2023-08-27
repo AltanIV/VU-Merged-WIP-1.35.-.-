@@ -3050,27 +3050,27 @@ Ottoman_Missions_5 = {
 			OR = { 
 				area = palestine_area 
 				area = trans_jordan_area 
-				province_id = 365 
-				province_id = 4268 
+			#	province_id = 365 
+			#	province_id = 4268 
 			} 
 			NOT = { owned_by = ROOT } 
 		} 
 		position = 7 
 		trigger = { 
 			palestine_area = { 
-				type = all 
+				type = all
 				owned_by = ROOT 
 			} 
 			trans_jordan_area = { 
-				type = all 
-				owned_by = ROOT 
+				NOT = { province_id = 3974 }
+				owned_by = ROOT
 			} 
 			syrian_desert_area = { #sinai 
 				owned_by = ROOT 
 			} 
-			4268 = { #aqabah 
-				owned_by = ROOT 
-			} 
+		#	4268 = { #aqabah 
+		#		owned_by = ROOT 
+		#	} 
 			379 = { #jerusalem 
 				is_core = ROOT 
 			} 
