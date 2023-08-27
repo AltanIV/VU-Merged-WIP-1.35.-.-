@@ -868,7 +868,7 @@ DAN_missions_2 = {
 					share = 51
 				}
 			}
-			1926 = {
+			1 = {
 				trade_share = {
 					country = ROOT
 					share = 51
@@ -899,7 +899,7 @@ DAN_missions_2 = {
 					share = 51
 				}
 			}
-			1926 = {
+			1 = {
 				trade_share = {
 					country = ROOT
 					share = 51
