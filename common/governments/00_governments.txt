@@ -807,7 +807,7 @@ monarchy = {
 				mng_seal_of_the_emperor_reform
 				strengthen_bakuhan_system_reform
 				#FU Reforms:
-				tur_absolute_sultanic_power
+			#	tur_absolute_sultanic_power # Commented the reform out
 				#VU
 				french_consulate_reform
 		    	#GE
