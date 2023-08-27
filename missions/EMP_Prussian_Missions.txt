@@ -14,6 +14,7 @@ emp_bra_pru_1 = {
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 		OR = {
 			tag = BRA
@@ -372,6 +373,7 @@ emp_bra_pru_1_b = {
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 		AND = {
 			OR = {
@@ -484,6 +486,7 @@ emp_bra_pru_2 = {
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 		OR = {
 			tag = BRA
@@ -820,6 +823,7 @@ emp_bra_pru_3 = {
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 		OR = {
 			tag = BRA
@@ -1221,6 +1225,7 @@ emp_bra_pru_4 = {
 			has_dlc = "Domination"
 			has_dlc = "Emperor"
 		}
+		has_country_flag = use_paradox_missions
 		NOT = { map_setup = map_setup_random }
 		OR = {
 			tag = BRA
