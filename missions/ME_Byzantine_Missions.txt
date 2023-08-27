@@ -1,4 +1,4 @@
-noppbyzantine_missions_1 = {
+byzantine_missions_1 = {
 	slot = 1
 	generic = no
 	ai = yes
@@ -1361,15 +1361,15 @@ noppbyzantine_missions_2 = {
 				358 = {
 					OR = {
 						has_great_project = {
-							type = fu_library_alexandria
+							type = library_alexandria
 							tier = 1 
 						}
 						has_great_project = {
-							type = fu_library_alexandria
+							type = library_alexandria
 							tier = 2 
 						}
 						has_great_project = {
-							type = fu_library_alexandria
+							type = library_alexandria
 							tier = 3
 						}
 					}
@@ -1393,11 +1393,11 @@ noppbyzantine_missions_2 = {
 					358 = {
 						OR = {
 							has_great_project = {
-								type = fu_library_alexandria 
+								type = library_alexandria 
 								tier = 2 
 							}
 							has_great_project = {
-								type = fu_library_alexandria 
+								type = library_alexandria 
 								tier = 3 
 							}
 						}
@@ -1405,7 +1405,9 @@ noppbyzantine_missions_2 = {
 				}
 				change_innovativeness = 5 
 			}
-			else = { custom_tooltip = byz_level_2_library_tt }
+			else = { 
+				change_innovativeness = 5
+			}
 		}
 	}
 	
