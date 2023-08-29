@@ -2052,8 +2052,18 @@ tur_egyptian_conquest = {
 		}
 		effect = {
 			add_permanent_claim_province = { province = 151 }
+			add_permanent_claim_province = { province = 1764 }
+			add_permanent_claim_province = { province = 6931 }
+			add_permanent_claim_province = { province = 7137 }
+			add_permanent_claim_province = { province = 7138 }
+			add_permanent_claim_province = { province = 7139 }
+			add_permanent_claim_province = { province = 7134 }
 			add_permanent_claim_province = { province = 146 }
+			add_permanent_claim_province = { province = 3177 }
+			add_permanent_claim_province = { province = 3699 }
+			add_permanent_claim_province = { province = 7111 }
 			add_permanent_claim_province = { province = 4701 }
+			add_permanent_claim_province = { province = 3178 }
 			add_permanent_claim_province = { province = 145 }
 			add_permanent_claim_province = { province = 1773 }
 			add_permanent_claim_province = { province = 4699 }
@@ -4433,7 +4443,7 @@ tur_persian_conquest = {
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 				culture = turkish
-				value = 30
+				value = 60
 			}
 		}
 		effect = {

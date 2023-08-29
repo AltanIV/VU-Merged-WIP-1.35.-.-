@@ -533,7 +533,7 @@ country_event = {
 		
 		custom_tooltip = MAM_mamluks_are_rekt
 		
-		4346 = {
+		1331 = { #Gulf of Aden
 			add_trade_modifier = {
 				who = ROOT
 				duration = 7300
@@ -541,7 +541,7 @@ country_event = {
 				key = MAM_disrupted_arab_trade
 			}
 		}
-		1340 = {
+		1340 = { #Comorin Cape
 			add_trade_modifier = {
 				who = ROOT
 				duration = 7300
