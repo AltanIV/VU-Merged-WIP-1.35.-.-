@@ -2645,9 +2645,12 @@ tomb_of_cyrus = {
 		on_upgraded = {
 		}
 	}
+	can_upgrade_trigger = { always = no }
+	keep_trigger = { always = yes }
+	
 	tier_1 = {
 		upgrade_time = { months = 240 }
-		cost_to_upgrade = {	factor = 3500 }
+		cost_to_upgrade = {	factor = 10000 }
 		province_modifiers = { }
 		area_modifier = { }
 		country_modifiers = {  }
@@ -2655,7 +2658,7 @@ tomb_of_cyrus = {
 	}
 	tier_2 = {
 		upgrade_time = { months = 480 }
-		cost_to_upgrade = {	factor = 7000 }
+		cost_to_upgrade = {	factor = 20000 }
 		province_modifiers = { }
 		area_modifier = { }
 		country_modifiers = {  }
@@ -2663,7 +2666,7 @@ tomb_of_cyrus = {
 	}
 	tier_3 = {
 		upgrade_time = { months = 960 }
-		cost_to_upgrade = {	factor = 14000 }
+		cost_to_upgrade = {	factor = 30000 }
 		province_modifiers = {  }
 		area_modifier = { }
 		country_modifiers = {  }
