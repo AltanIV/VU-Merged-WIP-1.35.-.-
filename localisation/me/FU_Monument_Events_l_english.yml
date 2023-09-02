@@ -19,10 +19,10 @@
  
  
  #Modifiers
- fu_brandenburg_gate_modifier: "Built the Brandenburg Gate"
- fu_golden_era_of_culture_modifier: "Golden Era of Culture"
- fu_constructed_the_florentine_cathedral: "Constructed the Florentine Cathedral"
- fu_expanded_the_florentine_cathedral: "Expanded the Florentine Cathedral"
+ vu_brandenburg_gate_modifier: "Built the Brandenburg Gate"
+ vu_golden_era_of_culture_modifier: "Golden Era of Culture"
+ vu_constructed_the_florentine_cathedral: "Constructed the Florentine Cathedral"
+ vu_expanded_the_florentine_cathedral: "Expanded the Florentine Cathedral"
  
  
  

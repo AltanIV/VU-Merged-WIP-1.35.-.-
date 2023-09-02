@@ -2,7 +2,7 @@ boh_war_vs_emperor_modifier = {
 	available_province_loot = 0.30
 	land_morale = 0.05 
 }
-fu_royal_eminence_modifier = {
+vu_royal_eminence_modifier = {
 	improve_relation_modifier = 0.25
 	diplomatic_upkeep = 1 
 }	

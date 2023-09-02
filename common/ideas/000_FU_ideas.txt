@@ -410,11 +410,11 @@ BYZ_BASE_ideas = {
 #	pirate_bays = {
 #		own_coast_naval_combat_bonus = 1
 #	}
-#	fu_codify_piratical_code = {
+#	vu_codify_piratical_code = {
 #		republican_tradition = 0.3
 #		global_unrest = -1
 #	}
-#	fu_black_flag_rules_the_waves = {
+#	vu_black_flag_rules_the_waves = {
 #		leader_naval_manuever = 1
 #		allowed_marine_fraction = 0.1
 #	}
@@ -444,11 +444,11 @@ BYZ_BASE_ideas = {
 #	pirates_religious_apathy = {
 #		no_religion_penalty = yes
 #	}
-#	fu_pirates_plunder = {
+#	vu_pirates_plunder = {
 #		global_ship_cost = -0.05
 #		war_taxes_cost_modifier = -1
 #	}
-#	fu_pirates_bucanneers_ideas = {
+#	vu_pirates_bucanneers_ideas = {
 #		allowed_marine_fraction = 0.1
 #		development_cost = -0.1
 #	}
@@ -462,7 +462,7 @@ BYZ_BASE_ideas = {
 #	pirate_bays = {
 #		own_coast_naval_combat_bonus = 1
 #	}
-#	fu_map_our_seas = {
+#	vu_map_our_seas = {
 #		movement_speed_in_fleet_modifier = 1
 #		leader_naval_manuever = 1
 #	}

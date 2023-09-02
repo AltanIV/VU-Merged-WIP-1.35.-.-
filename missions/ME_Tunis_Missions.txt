@@ -1066,7 +1066,7 @@ TUN_missions_3 = {
 				341 = {
 					owned_by = ROOT
 					has_great_project = {
-						type = fu_kasbah_of_tunis
+						type = vu_kasbah_of_tunis
 						tier = 2
 					}
 				}

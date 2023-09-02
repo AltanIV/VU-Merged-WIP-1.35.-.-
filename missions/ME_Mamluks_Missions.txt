@@ -182,7 +182,7 @@ MAM_missions_1 = {
 					has_dlc = "Leviathan"
 					NOT = {
 						has_great_project = {
-							type = fu_pharos_alexandria
+							type = vu_pharos_alexandria
 							tier = 1
 						}
 					}
@@ -198,7 +198,7 @@ MAM_missions_1 = {
 				358 = {
 					owned_by = ROOT
 					has_great_project = {
-						type = fu_pharos_alexandria
+						type = vu_pharos_alexandria
 						tier = 1
 					}
 				}

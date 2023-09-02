@@ -963,7 +963,7 @@ bohemian_missions_3 = {
 	has_country_shield = yes
 
 	boh_raise_vozovda_hradba = {
-		icon = fu_vozova_hradba
+		icon = vu_vozova_hradba
 		required_missions = { }
 		position = 1
 		trigger = {
@@ -1445,7 +1445,7 @@ bohemian_missions_4 = {
 			tooltip = {
 				remove_country_modifier = annexers_legacy
 				define_advisor = {
-					type = fu_aristocrat
+					type = vu_aristocrat
 					cost_multiplier = 0.25
 				}
 				custom_tooltip = boh_every_level_grants_manpower_tt
@@ -1483,7 +1483,7 @@ bohemian_missions_4 = {
 					}
 					remove_country_modifier = annexers_legacy
 					define_advisor = {
-						type = fu_aristocrat
+						type = vu_aristocrat
 						cost_multiplier = 0.25
 					}
 					custom_tooltip = boh_every_level_grants_manpower_tt
@@ -1681,7 +1681,7 @@ bohemian_missions_4 = {
 	}
 
 	boh_right_mining = {
-		icon = fu_mining_rights
+		icon = vu_mining_rights
 		required_missions = { boh_renewal_of_prague }
 		position = 10
 		provinces_to_highlight = {
@@ -1985,7 +1985,7 @@ bohemian_missions_5 = {
 	}
 
 	boh_iron_golden_king = {
-		icon = fu_iron_golden_king
+		icon = vu_iron_golden_king
 		required_missions = { boh_realist_diplomacy }
 		position = 2
 		provinces_to_highlight = {
@@ -2283,19 +2283,19 @@ bohemian_missions_5 = {
 					has_dlc = "Leviathan"
 				}
 				custom_trigger_tooltip = {
-					tooltip = fu_vladislav_hall_any_level_tt
+					tooltip = vu_vladislav_hall_any_level_tt
 					266 = {
 						OR = {
 							has_great_project = {
-								type = fu_vladislav_hall
+								type = vu_vladislav_hall
 								tier = 1
 							}
 							has_great_project = {
-								type = fu_vladislav_hall
+								type = vu_vladislav_hall
 								tier = 2
 							}
 							has_great_project = {
-								type = fu_vladislav_hall
+								type = vu_vladislav_hall
 								tier = 3
 							}
 						}

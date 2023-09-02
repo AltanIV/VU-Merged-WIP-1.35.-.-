@@ -1,5 +1,5 @@
 #marian_cross_order = {
-#   icon = GFX_fu_teutonic_order
+#   icon = GFX_vu_teutonic_order
 #   trigger = {
 #   has_country_flag = teu_enable_marian_cross_order_flag
     #}
@@ -22,7 +22,7 @@
 #}
 
 #order_of_the_ordained_sisters = {
-#    icon = GFX_fu_teutonic_order3
+#    icon = GFX_vu_teutonic_order3
 #    trigger = {
 #        has_country_flag = teu_enable_marian_cross_order_flag
 #    }
@@ -45,7 +45,7 @@
 #}
 
 #order_of_the_ordained_brothers = {
-#    icon = GFX_fu_teutonic_order2
+#    icon = GFX_vu_teutonic_order2
 #    trigger = {
 #        has_country_flag = teu_enable_marian_cross_order_flag
 #    }
@@ -68,7 +68,7 @@
 #}
 
 byzantine_themes = {
-    icon = GFX_fu_byzantine_themes
+    icon = GFX_vu_byzantine_themes
     trigger = {
         has_country_flag = byz_enable_byzantine_themes_flag  
     }

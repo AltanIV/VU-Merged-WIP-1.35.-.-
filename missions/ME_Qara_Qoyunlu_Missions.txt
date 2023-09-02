@@ -30,7 +30,7 @@ QAR_missions_1 = {
 					owned_by = ROOT
 					has_tax_building_trigger = yes
 					has_great_project = {
-						type = fu_blue_mosque 
+						type = vu_blue_mosque 
 						tier = 1
 					}
 				}

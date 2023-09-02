@@ -620,11 +620,11 @@
  war_empire_cb_wgt:0 "War on the Empire"
  war_empire_cb_wgt_desc:0 "We must eradicate this archaic institution."
 
- fu_papal_puppetmaster_personality:0 "Papal Puppeteer"
- fu_papal_puppetmaster_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] granted us access to incredible amounts of influence behind the seat of the Holy See."
- ancestor_fu_papal_puppetmaster_personality:0 "Papal Puppeteer"
- desc_ancestor_fu_papal_puppetmaster_personality:0 ""
- ancestor_fu_papal_puppetmaster_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] granted us access to incredible amounts of influence behind the seat of the Holy See."
+ vu_papal_puppetmaster_personality:0 "Papal Puppeteer"
+ vu_papal_puppetmaster_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] granted us access to incredible amounts of influence behind the seat of the Holy See."
+ ancestor_vu_papal_puppetmaster_personality:0 "Papal Puppeteer"
+ desc_ancestor_vu_papal_puppetmaster_personality:0 ""
+ ancestor_vu_papal_puppetmaster_personality_die_desc:0 "[Root.Monarch.GetHerHisCap] granted us access to incredible amounts of influence behind the seat of the Holy See."
 
  #Name Change
  FU7:0 "Angevin Government of Genoa"
@@ -639,8 +639,8 @@
  FU_KINGDOM_OF_GOD_ideas_start:0 "Papal Traditions"
  FU_KINGDOM_OF_GOD_ideas_bonus:0 "Papal Ambition"
  #Privileges
- fu_estate_burghers_control_over_monetary_policy_desc:0 "By giving the [Root.GetBurghersName] the final say over monetary policy, the state guarantees that commercial interests will be taken into account when key economic decisions are made."
- fu_estate_burghers_control_over_monetary_policy:0 "Control over Monetary Policy"
+ vu_estate_burghers_control_over_monetary_policy_desc:0 "By giving the [Root.GetBurghersName] the final say over monetary policy, the state guarantees that commercial interests will be taken into account when key economic decisions are made."
+ vu_estate_burghers_control_over_monetary_policy:0 "Control over Monetary Policy"
 
  #Ideas
  lessons_hundred_years_war:0 "Lessons of the Hundred Years War"

@@ -10902,7 +10902,7 @@ ASK_ideas = {
 		advisor_cost = -0.15
 	}
 	
-	bakufu_chokkatsuchi = {
+	bakuvu_chokkatsuchi = {
 		global_tax_modifier = 0.15
 	}
 	

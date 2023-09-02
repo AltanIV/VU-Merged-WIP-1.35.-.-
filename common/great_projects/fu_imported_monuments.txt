@@ -1,4 +1,4 @@
-fu_vladislav_hall = {
+vu_vladislav_hall = {
 	# province it starts in
 	start = 266
 	
@@ -187,7 +187,7 @@ fu_vladislav_hall = {
 	}
 }
 
-fu_escola_de_marina = {
+vu_escola_de_marina = {
 	# province it starts in
 	start = 213
 	
@@ -350,7 +350,7 @@ fu_escola_de_marina = {
 	}
 }
 
-fu_kinkaku_ji = {
+vu_kinkaku_ji = {
 	# province it starts in
 	start = 1020
 	
@@ -539,7 +539,7 @@ fu_kinkaku_ji = {
 	}
 }
 
-fu_arc_of_triumph = {
+vu_arc_of_triumph = {
 	# province it starts in
 	start = 183
 	
@@ -725,7 +725,7 @@ fu_arc_of_triumph = {
 	}
 }
 
-fu_terracotta_army = { #costs are high but it's ming so... yeah
+vu_terracotta_army = { #costs are high but it's ming so... yeah
 	# province it starts in
 	start = 700
 	
@@ -899,7 +899,7 @@ fu_terracotta_army = { #costs are high but it's ming so... yeah
 	}
 }
 	
-fu_red_fort = {
+vu_red_fort = {
 	start = 522
 	
 	date = 1444.01.01
@@ -1052,7 +1052,7 @@ fu_red_fort = {
 	}
 }
 
-fu_kasbah_of_tunis = {
+vu_kasbah_of_tunis = {
 	start = 341
 	
 	date = 796.1.1 
@@ -1197,7 +1197,7 @@ fu_kasbah_of_tunis = {
 	}
 }
 
-fu_blue_mosque = {
+vu_blue_mosque = {
 	start = 416
 	
 	date = 1444.1.1  #1450s or 1460s
@@ -1338,7 +1338,7 @@ fu_blue_mosque = {
 	}
 }
 
-fu_isfahan_city = {
+vu_isfahan_city = {
 	start = 429
 	
 	date = 642.5.6  #Captured by Arabs
@@ -1476,7 +1476,7 @@ fu_isfahan_city = {
 	}
 }
 
-fu_foreign_quarters = {
+vu_foreign_quarters = {
 	start = 667
 	
 	date = 1444.01.01 #Late 1700s
@@ -1608,7 +1608,7 @@ fu_foreign_quarters = {
 	}
 }
 
-fu_lingyin_temple = {
+vu_lingyin_temple = {
 	start = 684
 	
 	date = 328
@@ -1733,7 +1733,7 @@ fu_lingyin_temple = {
 	}
 }
 
-fu_university_vienna = {
+vu_university_vienna = {
 	start = 134
 	
 	date = 1365.01.01
@@ -1875,7 +1875,7 @@ fu_university_vienna = {
 	}
 }
 
-fu_white_tower = {
+vu_white_tower = {
 	start = 148
 	
 	date = 1444.01.01
@@ -1997,7 +1997,7 @@ fu_white_tower = {
 	}
 }
 
-fu_ishtar_gate = {
+vu_ishtar_gate = {
 	start = 410
 	
 	date = 1444.01.01 #6th Century BC
@@ -2125,7 +2125,7 @@ fu_ishtar_gate = {
 	}
 }
 
-fu_brugge_dike = {
+vu_brugge_dike = {
 	start = 90
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -2286,7 +2286,7 @@ fu_brugge_dike = {
 	}
 }
 
-fu_gent_dike = {
+vu_gent_dike = {
 	start = 1865
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -2432,7 +2432,7 @@ fu_gent_dike = {
 	}
 }
 
-fu_antwerp_dike = {
+vu_antwerp_dike = {
 	start = 1744
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -2578,7 +2578,7 @@ fu_antwerp_dike = {
 	}
 }
 
-fu_zeeland_dike = {
+vu_zeeland_dike = {
 	start = 96
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -2724,7 +2724,7 @@ fu_zeeland_dike = {
 	}
 }
 
-fu_den_haag_dike = {
+vu_den_haag_dike = {
 	start = 4383
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -2870,7 +2870,7 @@ fu_den_haag_dike = {
 	}
 }
 
-fu_admiralty_amsterdam = {
+vu_admiralty_amsterdam = {
 	start = 97
 	
 	date = 1444.01.01 #1597ish
@@ -3077,7 +3077,7 @@ fu_admiralty_amsterdam = {
 	}
 }
 
-fu_amsterdam_dike = {
+vu_amsterdam_dike = {
 	start = 97
 	
 	date = 1444.01.01 #1600s - 1700s Approximately 
@@ -3223,7 +3223,7 @@ fu_amsterdam_dike = {
 	}
 }
 
-fu_topkapi_palace = {
+vu_topkapi_palace = {
 	start = 151
 	
 	date = 1459.01.01
@@ -3372,7 +3372,7 @@ fu_topkapi_palace = {
 	}
 }
 
-fu_bosphorus_toll = {
+vu_bosphorus_toll = {
 	start = 151
 	
 	date = 1200.01.01 #Has been there for a few centuries
@@ -3500,7 +3500,7 @@ fu_bosphorus_toll = {
 	}
 }
 
-fu_toob_benadir = {
+vu_toob_benadir = {
 	start = 1205
 	
 	date = 1444.01.01 #Has been there for some time 

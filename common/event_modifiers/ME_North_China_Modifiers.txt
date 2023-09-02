@@ -48,11 +48,11 @@ nchina_yangtze_control = {
 	province_trade_power_modifier = 0.50
 }
 
-nchina_dummy_qufu_1 = {
+nchina_dummy_quvu_1 = {
 	local_missionary_strength = -0.05
 }
 
-nchina_dummy_qufu_2 = {
+nchina_dummy_quvu_2 = {
 	prestige = 0.5
 	tolerance_own = 1
 	yearly_harmony = 0.5

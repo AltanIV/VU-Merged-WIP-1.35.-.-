@@ -135,8 +135,8 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_prussia_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_prussia_eventPicture.dds"
+		name = "vu_prussia_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_prussia_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
@@ -145,8 +145,8 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_swiss_cheese_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_swiss_cheese_eventPicture.dds"
+		name = "vu_swiss_cheese_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_swiss_cheese_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
@@ -155,8 +155,8 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_swiss_cantons_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_swiss_cantons_eventPicture.dds"
+		name = "vu_swiss_cantons_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_swiss_cantons_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
@@ -165,103 +165,103 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_holsten_gate_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_holsten_gate_eventPicture.dds"
+		name = "vu_holsten_gate_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_holsten_gate_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_hansa_cog_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_hansa_cog_eventPicture.dds"
+		name = "vu_hansa_cog_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_hansa_cog_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_adler_von_lubeck_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_adler_von_lubeck_eventPicture.dds"
+		name = "vu_adler_von_lubeck_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_adler_von_lubeck_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {   
-		name = "fu_london_steelyard_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_london_steelyard_eventPicture.dds"
+		name = "vu_london_steelyard_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_london_steelyard_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_shipwrights_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_shipwrights_eventPicture.dds"
+		name = "vu_shipwrights_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_shipwrights_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_merchant_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_merchant_eventPicture.dds"
+		name = "vu_merchant_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_merchant_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_medieval_fair_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_medieval_fair_eventPicture.dds"
+		name = "vu_medieval_fair_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_medieval_fair_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_hans_holbein_younger_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_hans_holbein_younger_eventPicture.dds"
+		name = "vu_hans_holbein_younger_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_hans_holbein_younger_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_queen_hansa_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_queen_hansa_eventPicture.dds"
+		name = "vu_queen_hansa_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_queen_hansa_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_teuton_knight_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_teuton_knight_eventPicture.dds"
+		name = "vu_teuton_knight_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_teuton_knight_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "GFX_fu_teutonic_order" 
-		texturefile = "gfx/interface/holy_orders/fu_teutonic_order.dds"
+		name = "GFX_vu_teutonic_order" 
+		texturefile = "gfx/interface/holy_orders/vu_teutonic_order.dds"
 		noOfFrames = 4
 	}
 	spriteType = { 
-		name = "GFX_fu_teutonic_order2" 
-		texturefile = "gfx/interface/holy_orders/fu_teutonic_order2.dds"
+		name = "GFX_vu_teutonic_order2" 
+		texturefile = "gfx/interface/holy_orders/vu_teutonic_order2.dds"
 		noOfFrames = 4
 	}
 	spriteType = { 
-		name = "GFX_fu_teutonic_order3" 
-		texturefile = "gfx/interface/holy_orders/fu_teutonic_order3.dds"
+		name = "GFX_vu_teutonic_order3" 
+		texturefile = "gfx/interface/holy_orders/vu_teutonic_order3.dds"
 		noOfFrames = 4
 	}
 	spriteType = { 
-		name = "fu_teuton_knights_military_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_teuton_knights_military_eventPicture.dds"
+		name = "vu_teuton_knights_military_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_teuton_knights_military_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_teutonic_charge_livonia_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_teutonic_charge_livonia_eventPicture.dds"
+		name = "vu_teutonic_charge_livonia_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_teutonic_charge_livonia_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_asian_castle_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_asian_castle_eventPicture.dds"
+		name = "vu_asian_castle_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_asian_castle_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_japanese_tea_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_japanese_tea_eventPicture.dds"
+		name = "vu_japanese_tea_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_japanese_tea_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_mandate_of_heaven_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_mandate_of_heaven_eventPicture.dds"
+		name = "vu_mandate_of_heaven_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_mandate_of_heaven_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_building_fire_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_building_fire_eventPicture.dds"
+		name = "vu_building_fire_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_building_fire_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_edo_castle_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_edo_castle_eventPicture.dds"
+		name = "vu_edo_castle_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_edo_castle_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
@@ -270,228 +270,228 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_woodblock_prints_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_woodblock_prints_eventPicture.dds"
+		name = "vu_woodblock_prints_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_woodblock_prints_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_next_youll_say_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_next_youll_say_eventPicture.dds"
+		name = "vu_next_youll_say_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_next_youll_say_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_onna_musha_edo_period_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_onna_musha_edo_period_eventPicture.dds"
+		name = "vu_onna_musha_edo_period_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_onna_musha_edo_period_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_brandenburg_gate_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_brandenburg_gate_eventPicture.dds"
+		name = "vu_brandenburg_gate_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_brandenburg_gate_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_porcelain_tower_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_porcelain_tower_eventPicture.dds"
+		name = "vu_porcelain_tower_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_porcelain_tower_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "GFX_fu_byzantine_themes" 
-		texturefile = "gfx/interface/holy_orders/fu_byzantine_themes.dds"
+		name = "GFX_vu_byzantine_themes" 
+		texturefile = "gfx/interface/holy_orders/vu_byzantine_themes.dds"
 		noOfFrames = 4
 	}
 	spriteType = { 
-		name = "fu_prester_john_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_prester_john_eventPicture.dds"
+		name = "vu_prester_john_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_prester_john_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_islamic_library_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_islamic_library_eventPicture.dds"
+		name = "vu_islamic_library_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_islamic_library_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_reforms_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_reforms_eventPicture.dds"
+		name = "vu_reforms_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_reforms_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_thessaloniki_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_thessaloniki_eventPicture.dds"
+		name = "vu_thessaloniki_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_thessaloniki_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_monastery_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_monastery_eventPicture.dds"
+		name = "vu_monastery_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_monastery_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = { 
-		name = "fu_xorme_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_xorme_eventPicture.dds"
+		name = "vu_xorme_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_xorme_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_byzantine_defenders_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_byzantine_defenders_eventPicture.dds"
+		name = "vu_byzantine_defenders_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_byzantine_defenders_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_gemistus_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_gemistus_eventPicture.dds"
+		name = "vu_gemistus_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_gemistus_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid1_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid1_eventPicture.dds"
+		name = "vu_savafid1_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid1_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid2_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid2_eventPicture.dds"
+		name = "vu_savafid2_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid2_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid3_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid3_eventPicture.dds"
+		name = "vu_savafid3_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid3_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid4_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid4_eventPicture.dds"
+		name = "vu_savafid4_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid4_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid5_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid5_eventPicture.dds"
+		name = "vu_savafid5_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid5_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid6_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid6_eventPicture.dds"
+		name = "vu_savafid6_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid6_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid7_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid7_eventPicture.dds"
+		name = "vu_savafid7_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid7_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid8_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid8_eventPicture.dds"
+		name = "vu_savafid8_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid8_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_savafid9_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_savafid9_eventPicture.dds"
+		name = "vu_savafid9_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_savafid9_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_mosque_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_mosque_eventPicture.dds"
+		name = "vu_mosque_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_mosque_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_mosque2_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_mosque2_eventPicture.dds"
+		name = "vu_mosque2_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_mosque2_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_mosque3_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_mosque3_eventPicture.dds"
+		name = "vu_mosque3_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_mosque3_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_horses_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_horses_eventPicture.dds"
+		name = "vu_horses_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_horses_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_persian_garden_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_persian_garden_eventPicture.dds"
+		name = "vu_persian_garden_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_persian_garden_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_jahan_square_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_jahan_square_eventPicture.dds"
+		name = "vu_jahan_square_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_jahan_square_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_cereal_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_cereal_eventPicture.dds"
+		name = "vu_cereal_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_cereal_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_dutch_city_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_dutch_city.dds"
+		name = "vu_dutch_city_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_dutch_city.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_port_walk_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_port_walk.dds"
+		name = "vu_port_walk_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_port_walk.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_versailles_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_versailles_eventPicture.dds"
+		name = "vu_versailles_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_versailles_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_michiel_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_michiel_eventPicture.dds"
+		name = "vu_michiel_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_michiel_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_ship_japan_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_ship_japan_eventPicture.dds"
+		name = "vu_ship_japan_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_ship_japan_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_rembrandt_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_rembrandt_eventPicture.dds"
+		name = "vu_rembrandt_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_rembrandt_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_willem_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_willem_eventPicture.dds"
+		name = "vu_willem_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_willem_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_antonie_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_antonie_eventPicture.dds"
+		name = "vu_antonie_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_antonie_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_gurl_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_gurl_eventPicture.dds"
+		name = "vu_gurl_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_gurl_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_cuisine_hawt_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_cuisine_hawt_eventPicture.dds"
+		name = "vu_cuisine_hawt_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_cuisine_hawt_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_mona_lisa_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_mona_lisa_eventPicture.dds"
+		name = "vu_mona_lisa_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_mona_lisa_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_last_supper_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_last_supper_eventPicture.dds"
+		name = "vu_last_supper_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_last_supper_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = { 
-		name = "fu_giraffe_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_giraffe_eventPicture.dds"
+		name = "vu_giraffe_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_giraffe_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_konstantiniyye_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_konstantiniyye_eventPicture.dds"
+		name = "vu_konstantiniyye_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_konstantiniyye_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {  
-		name = "fu_jerusalem_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_jerusalem_eventPicture.dds"
+		name = "vu_jerusalem_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_jerusalem_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {  
@@ -500,28 +500,28 @@ spriteTypes = {
 		allwaystransparent = yes
 	} 
 	spriteType = {  
-		name = "fu_reign_women_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_reign_women_eventPicture.dds"
+		name = "vu_reign_women_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_reign_women_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {  
-		name = "fu_harem_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_harem_eventPicture.dds"
+		name = "vu_harem_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_harem_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {
-		name = "fu_barbarossa_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_barbarossa_eventPicture.dds"
+		name = "vu_barbarossa_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_barbarossa_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
-		name = "fu_firenze_garden_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_firenze_garden_eventPicture.dds"
+		name = "vu_firenze_garden_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_firenze_garden_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {
-		name = "fu_crying_coomer_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_crying_coomer_eventPicture.dds"
+		name = "vu_crying_coomer_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_crying_coomer_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {
@@ -530,23 +530,23 @@ spriteTypes = {
 		allwaystransparent = yes
 	} 
 	spriteType = {
-		name = "fu_pirate_empress_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_pirate_empress_eventPicture.dds"
+		name = "vu_pirate_empress_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_pirate_empress_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {
-		name = "fu_anne_bonny_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_anne_bonny_eventPicture.dds"
+		name = "vu_anne_bonny_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_anne_bonny_eventPicture.dds"
 		allwaystransparent = yes
 	} 
 	spriteType = {
-		name = "fu_jack2_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_jack2_eventPicture.dds"
+		name = "vu_jack2_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_jack2_eventPicture.dds"
 		allwaystransparent = yes
 	}
 	spriteType = {
-		name = "fu_jack1_eventPicture" 
-		texturefile = "gfx/event_pictures/fu_jack1_eventPicture.dds"
+		name = "vu_jack1_eventPicture" 
+		texturefile = "gfx/event_pictures/vu_jack1_eventPicture.dds"
 		allwaystransparent = yes
 	}
 }

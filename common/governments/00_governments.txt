@@ -1153,7 +1153,7 @@ republic = {
 				athenian_republic
 				constitutional_republic_reform
 				timurid_stratocracy
-				fu_fleet_with_a_state_reform
+				vu_fleet_with_a_state_reform
 				nov_commercial_law
 				SOS_advanced_tactics
 				#VU
@@ -1441,7 +1441,7 @@ republic = {
 				citizen_soldiers_reform
 				institutionalized_repbulican_army_reform
 				#VU Reforms
-				fu_canton_administration
+				vu_canton_administration
 				mil_sforza_administration
 				#GE
 				advanced_bookkeeping_reform_republic
@@ -1588,7 +1588,7 @@ republic = {
 				vice_presidential_system_reform
 				legislative_office_selection_reform
 				#VU Reforms
-				fu_declare_pirate_empire_reform
+				vu_declare_pirate_empire_reform
 				#VU
 				become_first_french_empire_reform
 				become_second_french_empire_reform
@@ -1948,7 +1948,7 @@ theocracy = {
 				ME_sufi_order_reform
 				ME_bektashi_order_reform
 				#Flavor Universalis Reforms
-				fu_order_of_saint_joan_reform
+				vu_order_of_saint_joan_reform
 				aju_hydraulic_empire
 				#VU
 				church_of_france_reform

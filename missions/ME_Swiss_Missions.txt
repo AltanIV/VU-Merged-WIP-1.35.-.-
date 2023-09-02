@@ -235,7 +235,7 @@ FU_swiss_missions_1 = {
 	}
 	
 	swi_st_gallen_textiles = {
-		icon = fu_gallen_textiles
+		icon = vu_gallen_textiles
 		required_missions = { swi_university_basel }
 		position = 10
 		provinces_to_highlight = { province_id = 1870 }
@@ -465,7 +465,7 @@ FU_swiss_missions_2 = {
 	}
 	
 	swi_caseus_helveticus = {
-		icon = fu_caseus_helveticus
+		icon = vu_caseus_helveticus
 		required_missions = {
 			swi_hintersassen_citizenship
 		}

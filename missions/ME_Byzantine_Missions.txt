@@ -571,7 +571,7 @@ byzantine_missions_1 = {
 	}
 	
 	byz_patriarchate_antioch = {
-		icon = fu_patriarchate_antioch
+		icon = vu_patriarchate_antioch
 		required_missions = { byz_haghia_sophia }
 		position = 16
 		provinces_to_highlight = { province_id = 2313 } 
@@ -741,7 +741,7 @@ byzantine_missions_1 = {
 	}
 	
 	byz_restore_pentarchy = {
-		icon = fu_pentarchy 
+		icon = vu_pentarchy 
 		required_missions = { byz_patriarchate_alexandria byz_literary_works_alexandria } 
 		position = 18
 		provinces_to_highlight = {
@@ -860,7 +860,7 @@ byzantine_missions_1 = {
 	}
 	
 	byz_advent_gunpowder = {
-		icon = fu_advent_gunpowder
+		icon = vu_advent_gunpowder
 		required_missions = { byz_restore_themata }
 		position = 20
 		trigger = {
@@ -986,7 +986,7 @@ noppbyzantine_missions_2 = {
 	has_country_shield = yes
 	
 	byz_prevent_collapse = {
-		icon = fu_prevent_collapse
+		icon = vu_prevent_collapse
 		required_missions = { } 
 		position = 1 
 		trigger = {
@@ -1171,15 +1171,15 @@ noppbyzantine_missions_2 = {
 					358 = {
 						OR = {
 							has_great_project = {
-								type = fu_pharos_alexandria
+								type = vu_pharos_alexandria
 								tier = 1 
 							}
 							has_great_project = {
-								type = fu_pharos_alexandria
+								type = vu_pharos_alexandria
 								tier = 2 
 							}
 							has_great_project = {
-								type = fu_pharos_alexandria
+								type = vu_pharos_alexandria
 								tier = 3 
 							}
 						}
@@ -1236,15 +1236,15 @@ noppbyzantine_missions_2 = {
 				341 = {
 					OR = {
 						has_great_project = {
-							type = fu_kasbah_of_tunis
+							type = vu_kasbah_of_tunis
 							tier = 1 
 						}
 						has_great_project = {
-							type = fu_kasbah_of_tunis
+							type = vu_kasbah_of_tunis
 							tier = 2 
 						}
 						has_great_project = {
-							type = fu_kasbah_of_tunis
+							type = vu_kasbah_of_tunis
 							tier = 3 
 						}
 					}
@@ -1605,7 +1605,7 @@ noppbyzantine_missions_2 = {
 	}
 
 	byz_proliferation_musket = {
-		icon = fu_proliferation_musket
+		icon = vu_proliferation_musket
 		required_missions = { byz_advent_gunpowder byz_office_of_exarchos }
 		position = 21 
 		trigger = {
@@ -2395,15 +2395,15 @@ noppbyzantine_missions_3 = {
 			#			country_or_non_sovereign_subject_holds = ROOT 
 			#			OR = {	
 			#				has_great_project = {
-			#					type = fu_belgrade_fortress
+			#					type = vu_belgrade_fortress
 			#					tier = 1 
 			#				}
 			#				has_great_project = {
-			#					type = fu_belgrade_fortress
+			#					type = vu_belgrade_fortress
 			#					tier = 2 
 			#				}
 			#				has_great_project = {
-			#					type = fu_belgrade_fortress
+			#					type = vu_belgrade_fortress
 			#					tier = 3
 			#				}
 			#			}
@@ -3210,7 +3210,7 @@ noppbyzantine_missions_4 = {
 	}
 	
 	byz_neoplatonic_academy = {
-		icon = fu_neoplatonic_academy
+		icon = vu_neoplatonic_academy
 		required_missions = { byz_pandidakterion }
 		position = 15 
 		trigger = {
@@ -3333,7 +3333,7 @@ noppbyzantine_missions_4 = {
 	}
 	
 	byz_raise_wooden_wall = {
-		icon = fu_wooden_wall 
+		icon = vu_wooden_wall 
 		required_missions = { byz_reclaim_naval_supremacy }
 		position = 20
 		trigger = {
@@ -3406,15 +3406,15 @@ noppbyzantine_missions_4 = {
 					capital_scope = {
 						OR = { 
 							has_great_project = {
-								type = fu_escola_de_marina
+								type = vu_escola_de_marina
 								tier = 1 
 							}
 							has_great_project = {
-								type = fu_escola_de_marina
+								type = vu_escola_de_marina
 								tier = 2 
 							}
 							has_great_project = {
-								type = fu_escola_de_marina
+								type = vu_escola_de_marina
 								tier = 3 
 							}
 						}
@@ -3942,7 +3942,7 @@ noppbyzantine_missions_5 = {
 	} 
 	
 	byz_nile_breadbasket = {
-		icon = fu_nile_breadbasket
+		icon = vu_nile_breadbasket
 		required_missions = { byz_anatolian_heartland byz_invest_balkans }
 		position = 18
 		provinces_to_highlight = {
