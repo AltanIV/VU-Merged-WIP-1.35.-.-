@@ -362,7 +362,7 @@ monarchy = {
 				# ME Reforms:
 				tur_reform_beylerbeys
 				tur_reform_eyalets
-				#FU Reforms
+				#VU Reforms
 				tur_organized_pashas_reform
 				ara_consell_de_cent
 				mil_sforza_administration
@@ -694,7 +694,7 @@ monarchy = {
 				incan_administration_reform
 				me_hofkammer_reform
 				ME_reform_chaghatai_literature
-				#FU Reforms 
+				#VU Reforms 
 				tur_custodian_holy_city_reform
 				ara_consulate_of_the_sea
 				#GE
@@ -806,7 +806,7 @@ monarchy = {
 				#1.35 Addition
 				mng_seal_of_the_emperor_reform
 				strengthen_bakuhan_system_reform
-				#FU Reforms:
+				#VU Reforms:
 			#	tur_absolute_sultanic_power # Commented the reform out
 				#VU
 				french_consulate_reform
@@ -1440,7 +1440,7 @@ republic = {
 				#EE Reforms
 				citizen_soldiers_reform
 				institutionalized_repbulican_army_reform
-				#FU Reforms
+				#VU Reforms
 				fu_canton_administration
 				mil_sforza_administration
 				#GE
@@ -1518,7 +1518,7 @@ republic = {
 				enlightened_principle_reform
 				#EE REFORMS
 				federal_governorship_reform
-				#FU Reforms
+				#VU Reforms
 				mil_secret_council
 				#GE
 				national_principle_reform
@@ -1559,7 +1559,7 @@ republic = {
 				#EE reforms
 				electoral_college_reform
 				direct_majority_rule_reform
-				#FU Reforms 
+				#VU Reforms 
 				nov_republican_guard_reform
 				#GE
 				cultural_judges_reform
@@ -1587,7 +1587,7 @@ republic = {
 				become_rev_empire_reform
 				vice_presidential_system_reform
 				legislative_office_selection_reform
-				#FU Reforms
+				#VU Reforms
 				fu_declare_pirate_empire_reform
 				#VU
 				become_first_french_empire_reform
