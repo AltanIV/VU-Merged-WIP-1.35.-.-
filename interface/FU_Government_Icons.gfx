@@ -24,8 +24,8 @@ spriteTypes = {
 		texturefile = "gfx//interface//government_reform_icons//nov_office_of_republican_guard.dds"
 	}
 	spriteType = {
-		name = "government_reform_fu_russian_republic"
-		texturefile = "gfx//interface//government_reform_icons//fu_russian_republic.dds"
+		name = "government_reform_vu_russian_republic"
+		texturefile = "gfx//interface//government_reform_icons//vu_russian_republic.dds"
 	}
 	spriteType = {
 		name = "government_reform_aju_hydro_empire_reform"

@@ -4,7 +4,7 @@ country_event = { #The Brandenburg Gate
 	id = FU_Monument_Events.1
 	title = FU_Monument_Events.1.t 
 	desc = FU_Monument_Events.1.d 
-	picture = fu_brandenburg_gate_eventPicture
+	picture = vu_brandenburg_gate_eventPicture
 	
 	is_triggered_only = yes 
 	
@@ -20,7 +20,7 @@ country_event = { #The Brandenburg Gate
 		else = { add_dip_power = 50 }
 		
 		add_ruler_modifier = {
-			name = fu_brandenburg_gate_modifier
+			name = vu_brandenburg_gate_modifier
 			duration = -1 
 		}
 		add_absolutism = 10  
@@ -31,7 +31,7 @@ country_event = { #Hidden event for personality addition
 	id = FU_Monument_Events.2
 	title = FU_Monument_Events.2.t 
 	desc = FU_Monument_Events.2.d 
-	picture = fu_brandenburg_gate_eventPicture
+	picture = vu_brandenburg_gate_eventPicture
 	
 	is_triggered_only = yes 
 	hidden = yes 
@@ -55,7 +55,7 @@ country_event = { #The Glory of Arts & Culture
 	id = FU_Monument_Events.3
 	title = FU_Monument_Events.3.t 
 	desc = FU_Monument_Events.3.d 
-	picture = fu_porcelain_tower_eventPicture
+	picture = vu_porcelain_tower_eventPicture
 	
 	is_triggered_only = yes  
 	
@@ -99,7 +99,7 @@ country_event = { #Hidden event for personality addition
 	id = FU_Monument_Events.6
 	title = FU_Monument_Events.6.t 
 	desc = FU_Monument_Events.6.d 
-	picture = fu_brandenburg_gate_eventPicture
+	picture = vu_brandenburg_gate_eventPicture
 	
 	is_triggered_only = yes 
 	hidden = yes 
@@ -123,7 +123,7 @@ country_event = { #Hidden event for personality addition
 	id = FU_Monument_Events.7
 	title = FU_Monument_Events.7.t 
 	desc = FU_Monument_Events.7.d 
-	picture = fu_brandenburg_gate_eventPicture
+	picture = vu_brandenburg_gate_eventPicture
 	
 	is_triggered_only = yes 
 	hidden = yes 
@@ -133,7 +133,7 @@ country_event = { #Hidden event for personality addition
 			limit = {
 				has_dlc = "Rights of Man"
 			}
-			add_ruler_personality = fu_absolutist_personality
+			add_ruler_personality = vu_absolutist_personality
 		}
 		else = { change_adm = 1 }
 	}
@@ -147,7 +147,7 @@ country_event = { #Hidden event for personality addition
 	id = FU_Monument_Events.8
 	title = FU_Monument_Events.8.t 
 	desc = FU_Monument_Events.8.d 
-	picture = fu_brandenburg_gate_eventPicture
+	picture = vu_brandenburg_gate_eventPicture
 	
 	is_triggered_only = yes 
 	hidden = yes 
@@ -157,7 +157,7 @@ country_event = { #Hidden event for personality addition
 			limit = {
 				has_dlc = "Rights of Man"
 			}
-			add_ruler_personality = fu_legendary_statesman_personality
+			add_ruler_personality = vu_legendary_statesman_personality
 		}
 		else = { change_dip = 1 }
 	}

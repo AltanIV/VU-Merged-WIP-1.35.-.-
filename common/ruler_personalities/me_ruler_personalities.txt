@@ -135,7 +135,7 @@ patron_of_arts_personality = {
 	nation_designer_cost = 5
 }
 
-fu_absolutist_personality = {
+vu_absolutist_personality = {
 	
 	ruler_allow = {
 		allow = {
@@ -159,7 +159,7 @@ fu_absolutist_personality = {
 	nation_designer_cost = 10
 }
 
-fu_legendary_statesman_personality = {
+vu_legendary_statesman_personality = {
 	
 	ruler_allow = {
 		allow = {

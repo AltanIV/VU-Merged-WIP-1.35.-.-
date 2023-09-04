@@ -3241,7 +3241,7 @@ country_event = {
 		134 = {
 			add_building = university
 			add_great_project_tier = {
-				type = fu_university_vienna
+				type = vu_university_vienna
 				tier = 1
 			}
 		}

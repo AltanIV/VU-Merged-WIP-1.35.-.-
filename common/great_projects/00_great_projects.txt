@@ -578,7 +578,7 @@ suez_canal = {
 			is_subject = no
 			OR = {
 				has_country_flag = AYY_may_upgrade_suez
-				#has_country_flag = fu_enable_suez_canal this flag doesn't exist anyway
+				#has_country_flag = vu_enable_suez_canal this flag doesn't exist anyway
 				adm_tech = 27
 			}
 			treasury = 20000
@@ -947,7 +947,7 @@ panama_canal = {
 			#	AND = { #Lol no
 			#		custom_trigger_tooltip = {
 			#			tooltip = nss_enable_construction_of_panama_tt
-			#			has_country_flag = fu_enable_panama_canal
+			#			has_country_flag = vu_enable_panama_canal
 			#		}
 			#		owns_or_vassal_of = 835
 			#		treasury = 30000

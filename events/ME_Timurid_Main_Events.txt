@@ -539,7 +539,7 @@ country_event = { #Death of the Black Sheep
 
 		416 = {
 			add_great_project_tier = {
-				type = fu_blue_mosque
+				type = vu_blue_mosque
 				tier = 1
 			}
 			add_province_modifier = {
@@ -551,7 +551,7 @@ country_event = { #Death of the Black Sheep
 
 		410 = {
 			add_great_project_tier = {
-				type = fu_ishtar_gate
+				type = vu_ishtar_gate
 				tier = 1
 			}
 			add_province_modifier = {

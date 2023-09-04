@@ -13421,7 +13421,7 @@ medieval_vassal = {
 	subject_opinion_modifier = is_medieval_vassal
 }
 
-#FU
+#VU
 canton = {
 	copy_from = default
 	

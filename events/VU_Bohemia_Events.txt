@@ -47,7 +47,7 @@ country_event = { #Treaty of Vienna
 		trigger = { religion = catholic }
 		highlight = yes 
 		add_ruler_modifier = { 
-			name = fu_royal_eminence_modifier
+			name = vu_royal_eminence_modifier
 			duration = -1 
 		}
 		change_dip = 1 
@@ -367,7 +367,7 @@ country_event = { #The Duchy of Prussia
 	id = FU_Bohemian_Events.10
 	title = FU_Bohemian_Events.10.t 
 	desc = FU_Bohemian_Events.10.d 
-	picture = fu_prussia_eventPicture
+	picture = vu_prussia_eventPicture
 	
 	is_triggered_only = yes 
 	

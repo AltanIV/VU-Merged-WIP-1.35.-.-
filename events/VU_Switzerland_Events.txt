@@ -61,7 +61,7 @@ country_event = { #Swiss Cheese
 	id = FU_Switzerland_Events.2 
 	title = FU_Switzerland_Events.2.t 
 	desc = FU_Switzerland_Events.2.d 
-	picture = fu_swiss_cheese_eventPicture
+	picture = vu_swiss_cheese_eventPicture
 	
 	is_triggered_only = yes 
 	
@@ -87,7 +87,7 @@ country_event = { #Swiss Cheese
 	id = FU_Switzerland_Events.3 
 	title = FU_Switzerland_Events.3.t 
 	desc = FU_Switzerland_Events.3.d 
-	picture = fu_swiss_cheese_eventPicture
+	picture = vu_swiss_cheese_eventPicture
 	
 	is_triggered_only = yes 
 
@@ -150,7 +150,7 @@ country_event = { #The Swiss Confederation
 	id = FU_Switzerland_Events.5
 	title = FU_Switzerland_Events.5.t 
 	desc = FU_Switzerland_Events.5.d 
-	picture = fu_swiss_cantons_eventPicture
+	picture = vu_swiss_cantons_eventPicture
 	
 	fire_only_once = yes 
 	
@@ -179,7 +179,7 @@ country_event = {
 	id = FU_Switzerland_Events.6
 	title = FU_Switzerland_Events.6.t 
 	desc = FU_Switzerland_Events.6.d 
-	picture = fu_swiss_cheese_eventPicture 
+	picture = vu_swiss_cheese_eventPicture 
 	
 	hidden = yes 
 	

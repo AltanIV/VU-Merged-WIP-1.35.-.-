@@ -113,7 +113,7 @@
  boh_merge_slavic_into_germanic_tt: "The §YWest Slavic§! Culture Group will be integrated into the §YGermanic§! Culture Group while retaining its unique identity"
  boh_pacta_converta_removal_tt: "If our nation possesses the '§YPacta Conventa§!' Nobility Privilege, it will be removed"
  boh_expulsion_of_bohemian_jews_modifier: "Expulsion of Bohemian Jews" 
- fu_vladislav_hall_any_level_tt: "Construct the glorious §YVladislav Hall§!"
+ vu_vladislav_hall_any_level_tt: "Construct the glorious §YVladislav Hall§!"
  BOH_if_we_are_hussite: "§YReward§! if the mission has been completed by conversion to §MHussite§!:"
  BOH_if_we_are_catholic_but_ruler_is_hussite: "§YReward§! if the mission has been completed by §MHussite Monarch§! and §MCatholic State Religion§!:"
  BOH_if_we_are_catholic: "§YReward§! if the mission has been completed by being §MCatholic§!:"
@@ -137,7 +137,7 @@
  
  #Modifiers
   boh_war_vs_emperor_modifier: "Campaign in Austria"
-  fu_royal_eminence_modifier: "Royal Eminence" 
+  vu_royal_eminence_modifier: "Royal Eminence" 
   boh_eradicated_the_habsburgs_modifier: "Eradicated the Habsburgs" 
   boh_stabilized_balkans_modifier: "Stabilized the Balkans" 
   boh_period_of_peace_modifier: "Period of Peace & Prosperity" 
@@ -278,8 +278,8 @@
   FU_Bohemian_Events.16.b: "I like it the way it is."
  
  #Special Advisor#
-  fu_aristocrat: "Aristocrat"
-  fu_aristocrat_desc: "An aristocrat is typically a member of landed social class with inherited titles, heraldry and privileges." 
+  vu_aristocrat: "Aristocrat"
+  vu_aristocrat_desc: "An aristocrat is typically a member of landed social class with inherited titles, heraldry and privileges." 
  #Culture#
   czechBOH: "Czech"
   polishBOH: "Polish" 
