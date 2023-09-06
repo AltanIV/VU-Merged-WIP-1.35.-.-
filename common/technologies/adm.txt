@@ -278,7 +278,7 @@ technology = {  #Husite Wars
 #End of pre-1444 techs
 
 technology = { #Temples
-	# Tech 4
+	# Tech 21
 	year = 1453
 	expects_institution = {
 		feudalism = 0.5
@@ -292,7 +292,7 @@ technology = { #Temples
 }
 
 technology = { #National Ideas
-	# Tech 5
+	# Tech 22
 	year = 1466
 	expects_institution = {
 		feudalism = 0.5
@@ -306,7 +306,7 @@ technology = { #National Ideas
 }
 
 technology = { #Workshop
-	# Tech 6
+	# Tech 23
 	year = 1479
 	expects_institution = {
 		feudalism = 0.5
@@ -323,7 +323,7 @@ technology = { #Workshop
 }
 
 technology = { #Renaissance Thought
-	# Tech 7
+	# Tech 24
 	year = 1492
 	expects_institution = {
 		feudalism = 0.5
@@ -339,7 +339,7 @@ technology = { #Renaissance Thought
 }
 
 technology = { #Courthouse
-	# Tech 8
+	# Tech 25
 	year = 1505
 	expects_institution = {
 		feudalism = 0.5
@@ -355,7 +355,7 @@ technology = { #Courthouse
 }
 
 technology = { #The Scythe
-	# Tech 9
+	# Tech 26
 	year = 1518
 	expects_institution = {
 		feudalism = 0.5
@@ -370,7 +370,7 @@ technology = { #The Scythe
 }
 
 technology = { #Modern Theocracy
-	# Tech 10
+	# Tech 27
 	year = 1531
 	allowed_idea_groups = 3
 	expects_institution = {
@@ -388,7 +388,7 @@ technology = { #Modern Theocracy
 }
 
 technology = { #Textile Manufactory
-	# Tech 11
+	# Tech 28
 	year = 1544
 	expects_institution = {
 		feudalism = 0.5
@@ -403,7 +403,7 @@ technology = { #Textile Manufactory
 }
 
 technology = { #Early Modern Administration
-	# Tech 12
+	# Tech 29
 	year = 1557
 	expects_institution = {
 		feudalism = 0.5
@@ -423,7 +423,7 @@ technology = { #Early Modern Administration
 }
 
 technology = { #Improved Drainage
-	# Tech 13
+	# Tech 30
 	year = 1570
 	expects_institution = {
 		feudalism = 0.5
@@ -439,7 +439,7 @@ technology = { #Improved Drainage
 }
 
 technology = { #Scientific Experimentation
-	# Tech 14
+	# Tech 31
 	year = 1583
 	expects_institution = {
 		feudalism = 0.5
@@ -458,7 +458,7 @@ technology = { #Scientific Experimentation
 }
 
 technology = { #Military Administration
-	# Tech 15
+	# Tech 32
 	year = 1596
 	expects_institution = {
 		feudalism = 0.5
@@ -474,7 +474,7 @@ technology = { #Military Administration
 }
 
 technology = { #Metallurgy
-	# Tech 16
+	# Tech 33
 	year = 1609
 	expects_institution = {
 		feudalism = 0.5
@@ -490,7 +490,7 @@ technology = { #Metallurgy
 }
 
 technology = { #University
-	# Tech 17
+	# Tech 34
 	year = 1622
 	expects_institution = {
 		feudalism = 0.5
@@ -512,7 +512,7 @@ technology = { #University
 }
 
 technology = { #National Sovereignty
-	# Tech 18
+	# Tech 35
 	year = 1635
 	expects_institution = {
 		feudalism = 0.5
@@ -528,7 +528,7 @@ technology = { #National Sovereignty
 }
 
 technology = { #Cathedral
-	# Tech 19
+	# Tech 36
 	year = 1648
 	expects_institution = {
 		feudalism = 0.5
@@ -545,7 +545,7 @@ technology = { #Cathedral
 }
 
 technology = { #Absolute Rulership
-	# Tech 20
+	# Tech 37
 	year = 1661
 	expects_institution = {
 		feudalism = 0.5
@@ -562,7 +562,7 @@ technology = { #Absolute Rulership
 }
 
 technology = { #Land Clearance
-	# Tech 21
+	# Tech 38
 	year = 1674
 	expects_institution = {
 		feudalism = 0.5
@@ -580,7 +580,7 @@ technology = { #Land Clearance
 }
 
 technology = { #The Constitution
-	# Tech 22
+	# Tech 39
 	year = 1687
 	expects_institution = {
 		feudalism = 0.5
@@ -602,7 +602,7 @@ technology = { #The Constitution
 }
 
 technology = { #Measuring the World
-	# Tech 23
+	# Tech 40
 	year = 1700
 	expects_institution = {
 		feudalism = 0.5
@@ -619,7 +619,7 @@ technology = { #Measuring the World
 }
 
 technology = { #Bonds and Tontines
-	# Tech 24
+	# Tech 41
 	year = 1713
 	expects_institution = {
 		feudalism = 0.5
@@ -643,7 +643,7 @@ technology = { #Bonds and Tontines
 }
 
 technology = { #Improved Production
-	# Tech 25
+	# Tech 42
 	year = 1726
 
 	#Newcomen Engine
@@ -665,7 +665,7 @@ technology = { #Improved Production
 }
 
 technology = { #Separation of Powers
-	# Tech 26
+	# Tech 43
 	year = 1739
 
 	#Separation of Powers
@@ -685,7 +685,7 @@ technology = { #Separation of Powers
 }
 
 technology = { #Modern Bureaucracy
-	# Tech 27
+	# Tech 44
 	year = 1752
 	expects_institution = {
 		feudalism = 0.5
@@ -703,7 +703,7 @@ technology = { #Modern Bureaucracy
 }
 
 technology = { #Rotherham Plough
-	# Tech 28
+	# Tech 45
 	year = 1765
 
 	#Modern Bureaucracy
@@ -727,7 +727,7 @@ technology = { #Rotherham Plough
 }
 
 technology = { #Rights of Man
-	# Tech 29
+	# Tech 46
 	year = 1778
 	expects_institution = {
 		feudalism = 0.5
@@ -750,7 +750,7 @@ technology = { #Rights of Man
 }
 
 technology = { #Advanced Production
-	# Tech 30
+	# Tech 47
 	year = 1791
 
 	#Improved Draft Animals
@@ -772,7 +772,7 @@ technology = { #Advanced Production
 }
 
 technology = { #Revolutionary Ideals
-	# Tech 31
+	# Tech 48
 	year = 1804
 	expects_institution = {
 		feudalism = 0.5
@@ -794,7 +794,7 @@ technology = { #Revolutionary Ideals
 }
 
 technology = { #Factories
-	# Tech 32
+	# Tech 49
 	year = 1817
 	expects_institution = {
 		feudalism = 0.5
@@ -820,7 +820,7 @@ technology = { #Factories
 }
 
 technology = {
-	# Tech 33
+	# Tech 50
 	year = 1830
 	expects_institution = {
 		feudalism = 0.5
@@ -841,7 +841,7 @@ technology = {
 }
 
 technology = {
-	# Tech 34
+	# Tech 51
 	year = 1843
 	expects_institution = {
 		feudalism = 0.5
@@ -863,7 +863,7 @@ technology = {
 }
 
 technology = {
-	# Tech 35
+	# Tech 52
 	year = 1856
 	expects_institution = {
 		feudalism = 0.5
@@ -886,7 +886,7 @@ technology = {
 }
 
 technology = {
-	# Tech 36
+	# Tech 53
 	year = 1869
 	expects_institution = {
 		feudalism = 0.5
@@ -910,7 +910,7 @@ technology = {
 }
 
 technology = {
-	# Tech 37
+	# Tech 54
 	year = 1882
 	expects_institution = {
 		feudalism = 0.5
@@ -932,7 +932,7 @@ technology = {
 }
 
 technology = {
-	# Tech 38
+	# Tech 55
 	year = 1895
 	expects_institution = {
 		feudalism = 0.5
@@ -954,7 +954,7 @@ technology = {
 }
 
 technology = {
-	# Tech 39
+	# Tech 56
 	year = 1908
 	expects_institution = {
 		feudalism = 0.5
@@ -977,7 +977,7 @@ technology = {
 }
 
 technology = {
-	# Tech 40
+	# Tech 57
 	year = 1921
 	expects_institution = {
 		feudalism = 0.5
