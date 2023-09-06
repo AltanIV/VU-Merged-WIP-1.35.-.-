@@ -239,4 +239,9 @@
  cypriot_rebels_army: "Cypriot Revolt Army"
  cypriot_rebels_demand: "Independence for Cyprus"
  cypriot_rebels_demand_desc: "The Separatists demand Independence for Cyprus."
- 
+ #Goverment reforms
+ ## Crusader Kingdom:
+ crusader_kingdom_legacy: "Crusader Kingdom"
+ crusader_kingdom_legacy_desc: "A Crusader Kingdom is a monarchy wherein the administration and local governings have adopted the practices of Monastic Orders and Crusader States. Internal hierarchy is heavily dependent on the endorsement of the Church."
+ crusader_kingdom: "Crusader Kingdom"
+ crusader_kingdom_desc: "A Crusader Kingdom is a monarchy wherein the administration and local governings have adopted the practices of Monastic Orders and Crusader States. Internal hierarchy is heavily dependent on the endorsement of the Church."

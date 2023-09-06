@@ -158,7 +158,7 @@ monarchy = {
 				marquisiate_reform
 		        #VU_End of additions
 			    #####BeginMEReforms#####	Leaving those here for updating purpose, do not remove ! 
-				#crusader_kingdom
+				crusader_kingdom
 				#khaganate
 				#athenian_monarchy
 				#german_kaiserreich
@@ -2542,10 +2542,10 @@ pre_dharma_mapping = {
 		legacy_government = despotic_monarchy
 	}
     # ME Legacy Governments:
-	#crusader_kingdom = { #added for religious missions (catholic)
-	#	government = monarchy
-	#	legacy_government = crusader_kingdom_legacy
-	#}
+	crusader_kingdom = { #added for religious missions (catholic)
+		government = monarchy
+		legacy_government = crusader_kingdom_legacy
+	}
 	caliphate_reform_sunni = { #added for religious missions (sunni)
 		government = republic
 		legacy_government = caliphate_sunni_legacy
